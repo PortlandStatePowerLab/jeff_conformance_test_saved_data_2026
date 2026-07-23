@@ -1,0 +1,28 @@
+POWER_MONITOR_READY {"output_csv": "/home/pi/conformance_testing_team/saved_data/conformance_runs/run_2026_07_23_215958Z/power.csv", "timestamp_utc": "2026-07-23T21:59:58.287Z"}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-23T21:59:58.290Z", "status": "ok", "reasons": ["initial_sample"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-23T22:00:44.541Z", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-23T22:01:11.680Z", "status": "ok", "reasons": ["current_change", "power_change", "heater_on"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-23T22:01:15.704Z", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-23T22:01:18.722Z", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-23T22:01:42.861Z", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-23T22:01:53.914Z", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-23T22:01:55.919Z", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-23T22:01:56.925Z", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-23T22:01:58.938Z", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-23T22:02:02.963Z", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-23T22:02:03.970Z", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-23T22:02:07.996Z", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-23T22:02:09.002Z", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-23T22:02:11.016Z", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-23T22:02:14.034Z", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-23T22:02:15.041Z", "status": "ok", "reasons": ["current_change", "power_change"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-23T22:02:16.049Z", "status": "ok", "reasons": ["current_change", "power_change"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-23T22:02:17.055Z", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-23T22:02:18.062Z", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-23T22:02:19.069Z", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-23T22:02:20.076Z", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-23T22:02:22.088Z", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-23T22:02:23.094Z", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-23T22:02:25.107Z", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-23T22:02:26.113Z", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_STOPPED {"output_csv": "/home/pi/conformance_testing_team/saved_data/conformance_runs/run_2026_07_23_215958Z/power.csv", "timestamp_utc": "2026-07-23T22:02:27.411Z"}

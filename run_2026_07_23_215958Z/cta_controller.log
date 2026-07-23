@@ -1,0 +1,139 @@
+2026-07-23 14:59:58,391 INFO  [default] starting commodity service...
+1784843999o (STILL!)
+1784844014l (STILL!)
+1784844419o (STILL!)
+1784844434e (STILL!)
+1784844719o (STILL!)
+1784844734c (STILL!)
+1784845319o (STILL!)
+1784845334e (STILL!)
+1784845499o (STILL!)
+1784845514s (STILL!)
+1784846099o (STILL!)
+1784846114e (STILL!)
+1784846219o (STILL!)
+1784846234g (STILL!)
+1784846819o (STILL!)
+1784846834e (STILL!)
+2026-07-23 14:59:58,537 INFO  [default] link ACK received: GET_COMMODITY_REQUEST
+2026-07-23 14:59:58,665 INFO  [default] message type supported received: 2
+2026-07-23 14:59:58,665 INFO  [default] commodity response received.  count: 3
+2026-07-23 14:59:58,665 INFO  [default] commodity data: 0
+2026-07-23 14:59:58,665 INFO  [default]   commodity code: 0 - Electricity consumed (W & W-hr)
+2026-07-23 14:59:58,665 INFO  [default]            source: Estimated
+2026-07-23 14:59:58,665 INFO  [default]   cumulative: 6916
+2026-07-23 14:59:58,665 INFO  [default]    inst rate: 0
+2026-07-23 14:59:58,665 INFO  [default] commodity data: 1
+2026-07-23 14:59:58,665 INFO  [default]   commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-07-23 14:59:58,665 INFO  [default]            source: Estimated
+2026-07-23 14:59:58,665 INFO  [default]   cumulative: 4026
+2026-07-23 14:59:58,665 INFO  [default]    inst rate: 0
+2026-07-23 14:59:58,665 INFO  [default] commodity data: 2
+2026-07-23 14:59:58,665 INFO  [default]   commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-07-23 14:59:58,665 INFO  [default]            source: Estimated
+2026-07-23 14:59:58,665 INFO  [default]   cumulative: 450
+2026-07-23 14:59:58,665 INFO  [default]    inst rate: 0
+2026-07-23 14:59:58,857 INFO  [default] link ACK received: BASIC_QUERY_OPERATIONAL_STATE_REQUEST
+2026-07-23 14:59:58,953 INFO  [default] operational state received: 0
+
+Press Enter for a list of commands
+a- Advanced Loadup
+c- Critical Peak Event
+e- End shed/Normal
+g- Grid Emergency
+l- Loadup
+o- Outside Communication
+s- Shed
+v- Enable advanced load up capability
+x- Disable advanced load up capability
+z- Quit and return operation to normal
+q- Quit
+enter choice: 1784843999,o,0 (PASSED!)
+outside communication found
+2026-07-23 15:00:59,054 INFO  [default] link ACK received: BASIC_OUTSIDE_COMM_CONNECTION_STATUS_MESSAGE
+2026-07-23 15:00:59,150 INFO  [default] app ack received
+1784844014,l,13 (PASSED!)
+loading up
+2026-07-23 15:00:59,342 INFO  [default] link ACK received: BASIC_LOAD_UP_REQUEST
+2026-07-23 15:00:59,438 INFO  [default] app ack received
+1784844419o (STILL!)
+1784844434e (STILL!)
+1784844719o (STILL!)
+1784844734c (STILL!)
+1784845319o (STILL!)
+1784845334e (STILL!)
+1784845499o (STILL!)
+1784845514s (STILL!)
+1784846099o (STILL!)
+1784846114e (STILL!)
+1784846219o (STILL!)
+1784846234g (STILL!)
+1784846819o (STILL!)
+1784846834e (STILL!)
+2026-07-23 15:00:59,630 INFO  [default] link ACK received: GET_COMMODITY_REQUEST
+2026-07-23 15:00:59,758 INFO  [default] message type supported received: 2
+2026-07-23 15:00:59,758 INFO  [default] commodity response received.  count: 3
+2026-07-23 15:00:59,758 INFO  [default] commodity data: 0
+2026-07-23 15:00:59,759 INFO  [default]   commodity code: 0 - Electricity consumed (W & W-hr)
+2026-07-23 15:00:59,759 INFO  [default]            source: Estimated
+2026-07-23 15:00:59,759 INFO  [default]   cumulative: 6916
+2026-07-23 15:00:59,759 INFO  [default]    inst rate: 0
+2026-07-23 15:00:59,759 INFO  [default] commodity data: 1
+2026-07-23 15:00:59,759 INFO  [default]   commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-07-23 15:00:59,759 INFO  [default]            source: Estimated
+2026-07-23 15:00:59,759 INFO  [default]   cumulative: 4026
+2026-07-23 15:00:59,760 INFO  [default]    inst rate: 0
+2026-07-23 15:00:59,760 INFO  [default] commodity data: 2
+2026-07-23 15:00:59,760 INFO  [default]   commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-07-23 15:00:59,760 INFO  [default]            source: Estimated
+2026-07-23 15:00:59,760 INFO  [default]   cumulative: 450
+2026-07-23 15:00:59,760 INFO  [default]    inst rate: 0
+2026-07-23 15:00:59,950 INFO  [default] link ACK received: BASIC_QUERY_OPERATIONAL_STATE_REQUEST
+2026-07-23 15:01:00,062 INFO  [default] operational state received: 0
+
+Press Enter for a list of commands
+1784844419o (STILL!)
+1784844434e (STILL!)
+1784844719o (STILL!)
+1784844734c (STILL!)
+1784845319o (STILL!)
+1784845334e (STILL!)
+1784845499o (STILL!)
+1784845514s (STILL!)
+1784846099o (STILL!)
+1784846114e (STILL!)
+1784846219o (STILL!)
+1784846234g (STILL!)
+1784846819o (STILL!)
+1784846834e (STILL!)
+2026-07-23 15:02:00,164 INFO  [default] link ACK received: GET_COMMODITY_REQUEST
+2026-07-23 15:02:00,292 INFO  [default] message type supported received: 2
+2026-07-23 15:02:00,292 INFO  [default] commodity response received.  count: 3
+2026-07-23 15:02:00,292 INFO  [default] commodity data: 0
+2026-07-23 15:02:00,292 INFO  [default]   commodity code: 0 - Electricity consumed (W & W-hr)
+2026-07-23 15:02:00,292 INFO  [default]            source: Estimated
+2026-07-23 15:02:00,292 INFO  [default]   cumulative: 6916
+2026-07-23 15:02:00,292 INFO  [default]    inst rate: 0
+2026-07-23 15:02:00,293 INFO  [default] commodity data: 1
+2026-07-23 15:02:00,293 INFO  [default]   commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-07-23 15:02:00,293 INFO  [default]            source: Estimated
+2026-07-23 15:02:00,293 INFO  [default]   cumulative: 4026
+2026-07-23 15:02:00,293 INFO  [default]    inst rate: 0
+2026-07-23 15:02:00,293 INFO  [default] commodity data: 2
+2026-07-23 15:02:00,293 INFO  [default]   commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-07-23 15:02:00,293 INFO  [default]            source: Estimated
+2026-07-23 15:02:00,294 INFO  [default]   cumulative: 450
+2026-07-23 15:02:00,294 INFO  [default]    inst rate: 0
+2026-07-23 15:02:00,484 INFO  [default] link ACK received: BASIC_QUERY_OPERATIONAL_STATE_REQUEST
+2026-07-23 15:02:00,596 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+Returning state to normal...
+2026-07-23 15:02:24,927 INFO  [default] link ACK received: BASIC_END_SHED_REQUEST
+2026-07-23 15:02:25,039 INFO  [default] app ack received
+Loading...
+Querying operational state after normal command...
+2026-07-23 15:02:27,135 INFO  [default] link ACK received: BASIC_QUERY_OPERATIONAL_STATE_REQUEST
+2026-07-23 15:02:27,231 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
