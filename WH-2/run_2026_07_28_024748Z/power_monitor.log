@@ -1,0 +1,11 @@
+POWER_MONITOR_READY {"output_csv": "/home/pi/conformance_testing_team/saved_data/conformance_runs/run_2026_07_28_024748Z/power.csv", "timestamp_utc": "2026-07-28T02:47:48.562Z"}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-28T02:47:48.565Z", "status": "ok", "reasons": ["initial_sample"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-28T02:48:48.898Z", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-28T02:49:49.245Z", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-28T02:50:49.595Z", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-28T02:51:49.943Z", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-28T02:52:50.291Z", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-28T02:53:50.639Z", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-28T02:54:50.986Z", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_utc": "2026-07-28T02:55:51.335Z", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_STOPPED {"output_csv": "/home/pi/conformance_testing_team/saved_data/conformance_runs/run_2026_07_28_024748Z/power.csv", "timestamp_utc": "2026-07-28T02:56:06.624Z"}
