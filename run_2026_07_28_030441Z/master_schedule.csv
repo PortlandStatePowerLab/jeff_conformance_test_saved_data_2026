@@ -1,0 +1,12 @@
+enabled,event_id,time_after_start,phase,event_type,action,event_duration_minutes,advanced_value,advanced_units,expected_operational_states,target_volume_gal,expected_flow_gpm,notes
+TRUE,shed_1,00:00:00,pre_event,cta,shed,3,,,2|4,,,Initial command
+TRUE,advanced_load_up_1,00:03:00,recovery,cta,advanced_load_up,unknown,5,100_wh,3|6,,,advanced load up
+TRUE,run_normal_1,00:06:00,event,cta,run_normal,7,,,0|1,,,return to normal
+FALSE,load_up_1,00:22:00,recovery,cta,load_up,unknown,,,3|6,,,Return unit to normal
+FALSE,shed_2,00:25:00,event,cta,shed,5,,,2|4,,,Shed event
+FALSE,run_normal_2,00:35:00,recovery,cta,run_normal,unknown,,,0|1,,,Return unit to normal
+FALSE,grid_emergency_1,00:37:00,event,cta,grid_emergency,5,,,2|4,,,Grid emergency event
+FALSE,run_normal_3,00:47:00,recovery,cta,run_normal,unknown,,,0|1,,,Return unit to normal
+FALSE,advanced_load_up_2,00:49:00,recovery,cta,advanced_load_up,unknown,5,100_wh,3|6,,,Attemp Advanced Load up
+FALSE,run_normal_4,00:51:00,recovery,cta,run_normal,unknown,,,0|1,,,Return unit to normal
+TRUE,test_end,00:08:00,recovery,test,end,,,,,,,End recovery period
