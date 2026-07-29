@@ -1,0 +1,12 @@
+timestamp_pacific,test_elapsed_seconds,event_id,event,status,details
+2026-07-29T14:56:42.242-07:00,0.000,,run_created,ok,"{""run_directory"":""/home/pi/conformance_testing_team/saved_data/conformance_runs/run_2026_07_29_145642_PDT"",""water_output_enabled"":true}"
+2026-07-29T14:56:42.446-07:00,0.204,,power_monitor,ready,"{""pid"":10988}"
+2026-07-29T14:56:43.514-07:00,1.272,,cta_controller,started,"{""pid"":10989}"
+2026-07-29T14:56:43.514-07:00,-14.485,,test_start_scheduled,pending,"{""test_start_pacific"":""2026-07-29T14:56:58.000-07:00""}"
+2026-07-29T14:56:58.145-07:00,0.145,,test_started,ok,{}
+2026-07-29T15:12:58.033-07:00,960.034,water_draw_1,water_draw_started,started,"{""pid"":11010,""target_volume_gal"":9.0}"
+2026-07-29T15:15:56.260-07:00,1138.261,water_draw_1,water_draw_completed,ok,"{""return_code"":0}"
+2026-07-29T15:29:58.084-07:00,1980.084,,cta_return_to_normal,requested,{}
+2026-07-29T15:30:28.085-07:00,2010.085,,cta_return_to_normal,failed,"{""message"":""Command '['/home/pi/cta_2045_controller/dcs/build/debug/cta2045_controller']' timed out after 30.0 seconds""}"
+2026-07-29T15:30:28.158-07:00,2010.159,,power_monitor_shutdown,stopped,{}
+2026-07-29T15:30:28.159-07:00,2010.159,,run_finished,completed,{}
