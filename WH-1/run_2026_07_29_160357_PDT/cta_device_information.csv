@@ -1,0 +1,2 @@
+timestamp_pacific,opcode1,opcode2,response_code,response_name,payload_length,cta2045_version_raw_hex,cta2045_version,cta2045_b_version_valid,vendor_id_hex,device_type_hex,device_type_name,device_revision_hex,capability_bitmap_hex,model_number,model_number_supported,serial_number_redacted,serial_number_supported,firmware_year_raw,firmware_month_raw,firmware_day_raw,firmware_date,firmware_major,firmware_minor
+2026-07-29 16:03:57,1,129,0,success,48,3030,00,false,0x1234,0x0003,Water Heater - Heat Pump,0109,00000001,"0203,0000,50gal",true,,false,,,,,,
