@@ -1,0 +1,10 @@
+timestamp_pacific,test_elapsed_seconds,event_id,event,status,details
+2026-08-03T11:04:13.629-07:00,0.000,,run_created,ok,"{""run_directory"":""/home/pi/conformance_testing_team/saved_data/conformance_runs/WH-3/run_2026_08_03_110413_PDT"",""water_output_enabled"":false}"
+2026-08-03T11:04:13.834-07:00,0.205,,power_monitor,ready,"{""pid"":23002}"
+2026-08-03T11:04:14.855-07:00,1.226,,cta_controller,started,"{""pid"":23003}"
+2026-08-03T11:04:14.855-07:00,-14.144,,test_start_scheduled,pending,"{""test_start_pacific"":""2026-08-03T11:04:29.000-07:00""}"
+2026-08-03T11:04:29.086-07:00,0.087,,test_started,ok,{}
+2026-08-03T11:31:29.153-07:00,1620.154,,cta_return_to_normal,requested,{}
+2026-08-03T11:31:31.676-07:00,1622.676,,cta_return_to_normal,completed,"{""return_code"":0}"
+2026-08-03T11:31:31.742-07:00,1622.743,,power_monitor_shutdown,stopped,{}
+2026-08-03T11:31:31.742-07:00,1622.743,,run_finished,completed,{}
