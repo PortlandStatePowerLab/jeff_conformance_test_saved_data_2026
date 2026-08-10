@@ -1,0 +1,315 @@
+2026-08-09 19:58:07,476 INFO  [default] link ACK received: device_information
+2026-08-09 19:58:07,604 INFO  [default] message type supported received: 2
+2026-08-09 19:58:07,604 INFO  [default] device info response received. response code: 0 - success
+2026-08-09 19:58:07,604 INFO  [default]   CTA-2045 version: 00
+2026-08-09 19:58:07,604 INFO  [default]   device type: 3 - Water Heater - Heat Pump
+2026-08-09 19:58:07,604 INFO  [default]   vendor ID: 4660
+2026-08-09 19:58:07,645 INFO  [default] starting commodity service...
+2026-08-09 19:58:07,796 INFO  [default] link ACK received: get_commodity
+2026-08-09 19:58:07,924 INFO  [default] message type supported received: 2
+2026-08-09 19:58:07,924 INFO  [default] commodity response received. response code: 0 - success; count: 3
+2026-08-09 19:58:07,924 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-08-09 19:58:07,924 INFO  [default]            source: Estimated
+2026-08-09 19:58:07,924 INFO  [default]   cumulative: 10537
+2026-08-09 19:58:07,924 INFO  [default]    inst rate: 0
+2026-08-09 19:58:07,924 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-08-09 19:58:07,924 INFO  [default]            source: Estimated
+2026-08-09 19:58:07,924 INFO  [default]   cumulative: 4026
+2026-08-09 19:58:07,924 INFO  [default]    inst rate: not used for this commodity code
+2026-08-09 19:58:07,925 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-08-09 19:58:07,925 INFO  [default]            source: Estimated
+2026-08-09 19:58:07,925 INFO  [default]   cumulative: 0
+2026-08-09 19:58:07,925 INFO  [default]    inst rate: not used for this commodity code
+2026-08-09 19:58:08,116 INFO  [default] link ACK received: query_operational_state
+2026-08-09 19:58:08,212 INFO  [default] operational state received: 0
+
+Press Enter for a list of commands
+1786330688,o,0 (PASSED!)
+outside communication found
+2026-08-09 19:58:09,300 INFO  [default] link ACK received: outside_communication
+2026-08-09 19:58:09,412 INFO  [default] app ack received
+a- Advanced Loadup
+c- Critical Peak Event
+e- End shed/Normal
+g- Grid Emergency
+l- Loadup
+o- Outside Communication
+s- Shed
+v- Enable advanced load up capability
+x- Disable advanced load up capability
+z- Quit and return operation to normal
+q- Quit
+enter choice: 1786330703,l,0 (PASSED!)
+loading up
+2026-08-09 19:58:23,537 INFO  [default] link ACK received: load_up
+2026-08-09 19:58:23,633 INFO  [default] app ack received
+2026-08-09 19:58:37,743 INFO  [default] link ACK received: query_operational_state
+2026-08-09 19:58:37,855 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-08-09 19:59:07,993 INFO  [default] link ACK received: get_commodity
+2026-08-09 19:59:08,121 INFO  [default] message type supported received: 2
+2026-08-09 19:59:08,122 INFO  [default] commodity response received. response code: 0 - success; count: 3
+2026-08-09 19:59:08,122 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-08-09 19:59:08,122 INFO  [default]            source: Estimated
+2026-08-09 19:59:08,122 INFO  [default]   cumulative: 10537
+2026-08-09 19:59:08,122 INFO  [default]    inst rate: 0
+2026-08-09 19:59:08,123 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-08-09 19:59:08,123 INFO  [default]            source: Estimated
+2026-08-09 19:59:08,123 INFO  [default]   cumulative: 4026
+2026-08-09 19:59:08,123 INFO  [default]    inst rate: not used for this commodity code
+2026-08-09 19:59:08,123 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-08-09 19:59:08,123 INFO  [default]            source: Estimated
+2026-08-09 19:59:08,123 INFO  [default]   cumulative: 0
+2026-08-09 19:59:08,124 INFO  [default]    inst rate: not used for this commodity code
+2026-08-09 19:59:08,313 INFO  [default] link ACK received: query_operational_state
+2026-08-09 19:59:08,425 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-08-09 19:59:38,580 INFO  [default] link ACK received: query_operational_state
+2026-08-09 19:59:38,676 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-08-09 20:00:07,823 INFO  [default] link ACK received: get_commodity
+2026-08-09 20:00:07,951 INFO  [default] message type supported received: 2
+2026-08-09 20:00:07,951 INFO  [default] commodity response received. response code: 0 - success; count: 3
+2026-08-09 20:00:07,952 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-08-09 20:00:07,952 INFO  [default]            source: Estimated
+2026-08-09 20:00:07,952 INFO  [default]   cumulative: 10537
+2026-08-09 20:00:07,952 INFO  [default]    inst rate: 0
+2026-08-09 20:00:07,952 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-08-09 20:00:07,952 INFO  [default]            source: Estimated
+2026-08-09 20:00:07,952 INFO  [default]   cumulative: 4026
+2026-08-09 20:00:07,953 INFO  [default]    inst rate: not used for this commodity code
+2026-08-09 20:00:07,953 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-08-09 20:00:07,953 INFO  [default]            source: Estimated
+2026-08-09 20:00:07,953 INFO  [default]   cumulative: 0
+2026-08-09 20:00:07,953 INFO  [default]    inst rate: not used for this commodity code
+2026-08-09 20:00:08,143 INFO  [default] link ACK received: query_operational_state
+2026-08-09 20:00:08,239 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-08-09 20:00:38,394 INFO  [default] link ACK received: query_operational_state
+2026-08-09 20:00:38,490 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-08-09 20:01:08,644 INFO  [default] link ACK received: get_commodity
+2026-08-09 20:01:08,772 INFO  [default] message type supported received: 2
+2026-08-09 20:01:08,772 INFO  [default] commodity response received. response code: 0 - success; count: 3
+2026-08-09 20:01:08,773 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-08-09 20:01:08,773 INFO  [default]            source: Estimated
+2026-08-09 20:01:08,773 INFO  [default]   cumulative: 10537
+2026-08-09 20:01:08,773 INFO  [default]    inst rate: 0
+2026-08-09 20:01:08,774 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-08-09 20:01:08,774 INFO  [default]            source: Estimated
+2026-08-09 20:01:08,774 INFO  [default]   cumulative: 4026
+2026-08-09 20:01:08,774 INFO  [default]    inst rate: not used for this commodity code
+2026-08-09 20:01:08,774 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-08-09 20:01:08,774 INFO  [default]            source: Estimated
+2026-08-09 20:01:08,774 INFO  [default]   cumulative: 0
+2026-08-09 20:01:08,774 INFO  [default]    inst rate: not used for this commodity code
+2026-08-09 20:01:08,964 INFO  [default] link ACK received: query_operational_state
+2026-08-09 20:01:09,076 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-08-09 20:01:38,223 INFO  [default] link ACK received: query_operational_state
+2026-08-09 20:01:38,319 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-08-09 20:02:08,458 INFO  [default] link ACK received: get_commodity
+2026-08-09 20:02:08,586 INFO  [default] message type supported received: 2
+2026-08-09 20:02:08,586 INFO  [default] commodity response received. response code: 0 - success; count: 3
+2026-08-09 20:02:08,586 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-08-09 20:02:08,587 INFO  [default]            source: Estimated
+2026-08-09 20:02:08,587 INFO  [default]   cumulative: 10537
+2026-08-09 20:02:08,587 INFO  [default]    inst rate: 0
+2026-08-09 20:02:08,587 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-08-09 20:02:08,587 INFO  [default]            source: Estimated
+2026-08-09 20:02:08,587 INFO  [default]   cumulative: 4026
+2026-08-09 20:02:08,587 INFO  [default]    inst rate: not used for this commodity code
+2026-08-09 20:02:08,588 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-08-09 20:02:08,588 INFO  [default]            source: Estimated
+2026-08-09 20:02:08,588 INFO  [default]   cumulative: 0
+2026-08-09 20:02:08,588 INFO  [default]    inst rate: not used for this commodity code
+2026-08-09 20:02:08,778 INFO  [default] link ACK received: query_operational_state
+2026-08-09 20:02:08,874 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-08-09 20:02:38,021 INFO  [default] link ACK received: query_operational_state
+2026-08-09 20:02:38,117 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-08-09 20:03:08,271 INFO  [default] link ACK received: get_commodity
+2026-08-09 20:03:08,383 INFO  [default] message type supported received: 2
+2026-08-09 20:03:08,383 INFO  [default] commodity response received. response code: 0 - success; count: 3
+2026-08-09 20:03:08,384 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-08-09 20:03:08,384 INFO  [default]            source: Estimated
+2026-08-09 20:03:08,384 INFO  [default]   cumulative: 10537
+2026-08-09 20:03:08,384 INFO  [default]    inst rate: 0
+2026-08-09 20:03:08,385 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-08-09 20:03:08,385 INFO  [default]            source: Estimated
+2026-08-09 20:03:08,385 INFO  [default]   cumulative: 4026
+2026-08-09 20:03:08,385 INFO  [default]    inst rate: not used for this commodity code
+2026-08-09 20:03:08,385 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-08-09 20:03:08,385 INFO  [default]            source: Estimated
+2026-08-09 20:03:08,385 INFO  [default]   cumulative: 0
+2026-08-09 20:03:08,385 INFO  [default]    inst rate: not used for this commodity code
+2026-08-09 20:03:08,575 INFO  [default] link ACK received: query_operational_state
+2026-08-09 20:03:08,671 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-08-09 20:03:37,818 INFO  [default] link ACK received: query_operational_state
+2026-08-09 20:03:37,914 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-08-09 20:04:08,069 INFO  [default] link ACK received: get_commodity
+2026-08-09 20:04:08,181 INFO  [default] message type supported received: 2
+2026-08-09 20:04:08,181 INFO  [default] commodity response received. response code: 0 - success; count: 3
+2026-08-09 20:04:08,182 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-08-09 20:04:08,182 INFO  [default]            source: Estimated
+2026-08-09 20:04:08,182 INFO  [default]   cumulative: 10537
+2026-08-09 20:04:08,182 INFO  [default]    inst rate: 0
+2026-08-09 20:04:08,182 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-08-09 20:04:08,182 INFO  [default]            source: Estimated
+2026-08-09 20:04:08,182 INFO  [default]   cumulative: 4026
+2026-08-09 20:04:08,182 INFO  [default]    inst rate: not used for this commodity code
+2026-08-09 20:04:08,183 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-08-09 20:04:08,183 INFO  [default]            source: Estimated
+2026-08-09 20:04:08,183 INFO  [default]   cumulative: 0
+2026-08-09 20:04:08,183 INFO  [default]    inst rate: not used for this commodity code
+2026-08-09 20:04:08,373 INFO  [default] link ACK received: query_operational_state
+2026-08-09 20:04:08,469 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-08-09 20:04:38,623 INFO  [default] link ACK received: query_operational_state
+2026-08-09 20:04:38,719 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-08-09 20:05:07,866 INFO  [default] link ACK received: get_commodity
+2026-08-09 20:05:07,994 INFO  [default] message type supported received: 2
+2026-08-09 20:05:07,994 INFO  [default] commodity response received. response code: 0 - success; count: 3
+2026-08-09 20:05:07,995 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-08-09 20:05:07,995 INFO  [default]            source: Estimated
+2026-08-09 20:05:07,995 INFO  [default]   cumulative: 10537
+2026-08-09 20:05:07,995 INFO  [default]    inst rate: 0
+2026-08-09 20:05:07,996 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-08-09 20:05:07,996 INFO  [default]            source: Estimated
+2026-08-09 20:05:07,996 INFO  [default]   cumulative: 4026
+2026-08-09 20:05:07,996 INFO  [default]    inst rate: not used for this commodity code
+2026-08-09 20:05:07,996 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-08-09 20:05:07,996 INFO  [default]            source: Estimated
+2026-08-09 20:05:07,996 INFO  [default]   cumulative: 0
+2026-08-09 20:05:07,996 INFO  [default]    inst rate: not used for this commodity code
+2026-08-09 20:05:08,186 INFO  [default] link ACK received: query_operational_state
+2026-08-09 20:05:08,282 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-08-09 20:05:38,437 INFO  [default] link ACK received: query_operational_state
+2026-08-09 20:05:38,533 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-08-09 20:06:08,688 INFO  [default] link ACK received: get_commodity
+2026-08-09 20:06:08,800 INFO  [default] message type supported received: 2
+2026-08-09 20:06:08,800 INFO  [default] commodity response received. response code: 0 - success; count: 3
+2026-08-09 20:06:08,801 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-08-09 20:06:08,801 INFO  [default]            source: Estimated
+2026-08-09 20:06:08,801 INFO  [default]   cumulative: 10537
+2026-08-09 20:06:08,801 INFO  [default]    inst rate: 0
+2026-08-09 20:06:08,801 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-08-09 20:06:08,801 INFO  [default]            source: Estimated
+2026-08-09 20:06:08,801 INFO  [default]   cumulative: 4026
+2026-08-09 20:06:08,801 INFO  [default]    inst rate: not used for this commodity code
+2026-08-09 20:06:08,802 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-08-09 20:06:08,802 INFO  [default]            source: Estimated
+2026-08-09 20:06:08,802 INFO  [default]   cumulative: 0
+2026-08-09 20:06:08,802 INFO  [default]    inst rate: not used for this commodity code
+2026-08-09 20:06:08,992 INFO  [default] link ACK received: query_operational_state
+2026-08-09 20:06:09,088 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-08-09 20:06:38,250 INFO  [default] link ACK received: query_operational_state
+2026-08-09 20:06:38,346 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-08-09 20:07:08,501 INFO  [default] link ACK received: get_commodity
+2026-08-09 20:07:08,629 INFO  [default] message type supported received: 2
+2026-08-09 20:07:08,629 INFO  [default] commodity response received. response code: 0 - success; count: 3
+2026-08-09 20:07:08,630 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-08-09 20:07:08,630 INFO  [default]            source: Estimated
+2026-08-09 20:07:08,630 INFO  [default]   cumulative: 10537
+2026-08-09 20:07:08,630 INFO  [default]    inst rate: 0
+2026-08-09 20:07:08,630 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-08-09 20:07:08,631 INFO  [default]            source: Estimated
+2026-08-09 20:07:08,631 INFO  [default]   cumulative: 4026
+2026-08-09 20:07:08,631 INFO  [default]    inst rate: not used for this commodity code
+2026-08-09 20:07:08,631 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-08-09 20:07:08,631 INFO  [default]            source: Estimated
+2026-08-09 20:07:08,631 INFO  [default]   cumulative: 750
+2026-08-09 20:07:08,631 INFO  [default]    inst rate: not used for this commodity code
+2026-08-09 20:07:08,821 INFO  [default] link ACK received: query_operational_state
+2026-08-09 20:07:08,933 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-08-09 20:07:38,080 INFO  [default] link ACK received: query_operational_state
+2026-08-09 20:07:38,192 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+1786331288,o,0 (PASSED!)
+outside communication found
+2026-08-09 20:08:08,347 INFO  [default] link ACK received: outside_communication
+2026-08-09 20:08:08,443 INFO  [default] app ack received
+2026-08-09 20:08:08,635 INFO  [default] link ACK received: get_commodity
+2026-08-09 20:08:08,763 INFO  [default] message type supported received: 2
+2026-08-09 20:08:08,763 INFO  [default] commodity response received. response code: 0 - success; count: 3
+2026-08-09 20:08:08,763 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-08-09 20:08:08,764 INFO  [default]            source: Estimated
+2026-08-09 20:08:08,764 INFO  [default]   cumulative: 10537
+2026-08-09 20:08:08,764 INFO  [default]    inst rate: 0
+2026-08-09 20:08:08,764 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-08-09 20:08:08,764 INFO  [default]            source: Estimated
+2026-08-09 20:08:08,764 INFO  [default]   cumulative: 4026
+2026-08-09 20:08:08,764 INFO  [default]    inst rate: not used for this commodity code
+2026-08-09 20:08:08,764 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-08-09 20:08:08,765 INFO  [default]            source: Estimated
+2026-08-09 20:08:08,765 INFO  [default]   cumulative: 1275
+2026-08-09 20:08:08,765 INFO  [default]    inst rate: not used for this commodity code
+2026-08-09 20:08:08,955 INFO  [default] link ACK received: query_operational_state
+2026-08-09 20:08:09,051 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+1786331303,e,0 (PASSED!)
+2026-08-09 20:08:23,160 INFO  [default] link ACK received: run_normal
+2026-08-09 20:08:23,272 INFO  [default] app ack received
+endshedding
+2026-08-09 20:08:38,389 INFO  [default] link ACK received: query_operational_state
+2026-08-09 20:08:38,501 INFO  [default] operational state received: 0
+
+Press Enter for a list of commands
+2026-08-09 20:09:08,640 INFO  [default] link ACK received: get_commodity
+2026-08-09 20:09:08,768 INFO  [default] message type supported received: 2
+2026-08-09 20:09:08,768 INFO  [default] commodity response received. response code: 0 - success; count: 3
+2026-08-09 20:09:08,769 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-08-09 20:09:08,769 INFO  [default]            source: Estimated
+2026-08-09 20:09:08,769 INFO  [default]   cumulative: 10537
+2026-08-09 20:09:08,769 INFO  [default]    inst rate: 0
+2026-08-09 20:09:08,769 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-08-09 20:09:08,769 INFO  [default]            source: Estimated
+2026-08-09 20:09:08,770 INFO  [default]   cumulative: 4026
+2026-08-09 20:09:08,770 INFO  [default]    inst rate: not used for this commodity code
+2026-08-09 20:09:08,770 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-08-09 20:09:08,770 INFO  [default]            source: Estimated
+2026-08-09 20:09:08,770 INFO  [default]   cumulative: 1275
+2026-08-09 20:09:08,770 INFO  [default]    inst rate: not used for this commodity code
+2026-08-09 20:09:08,960 INFO  [default] link ACK received: query_operational_state
+2026-08-09 20:09:09,072 INFO  [default] operational state received: 1
+
+Press Enter for a list of commands
+Returning state to normal...
+2026-08-09 20:09:23,086 INFO  [default] link ACK received: run_normal
+2026-08-09 20:09:23,198 INFO  [default] app ack received
+Loading...
+Querying operational state after normal command...
+2026-08-09 20:09:25,293 INFO  [default] link ACK received: query_operational_state
+2026-08-09 20:09:25,405 INFO  [default] operational state received: 1
+
+Press Enter for a list of commands
