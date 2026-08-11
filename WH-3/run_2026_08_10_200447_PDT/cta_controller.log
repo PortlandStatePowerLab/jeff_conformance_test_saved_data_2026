@@ -1,0 +1,39 @@
+2026-08-10 20:04:47,781 INFO  [default] link ACK received: device_information
+2026-08-10 20:04:47,909 INFO  [default] message type supported received: 2
+2026-08-10 20:04:47,909 INFO  [default] device info response received. response code: 0 - success
+2026-08-10 20:04:47,909 INFO  [default]   CTA-2045 version: B
+2026-08-10 20:04:47,909 INFO  [default]   device type: 3 - Water Heater - Heat Pump
+2026-08-10 20:04:47,909 INFO  [default]   vendor ID: 280
+2026-08-10 20:04:47,950 INFO  [default] starting commodity service...
+2026-08-10 20:04:48,101 INFO  [default] link ACK received: get_commodity
+2026-08-10 20:04:51,102 WARN  [default] incomplete message received: 90
+2026-08-10 20:04:51,284 INFO  [default] link ACK received: query_operational_state
+2026-08-10 20:04:51,396 INFO  [default] operational state received: 11
+
+Press Enter for a list of commands
+2026-08-10 20:04:52,212 INFO  [default] app cust override received: 0
+2026-08-10 20:04:52,404 INFO  [default] link ACK received: none
+1786417488,o,0 (PASSED!)
+outside communication found
+2026-08-10 20:04:52,548 INFO  [default] link ACK received: outside_communication
+2026-08-10 20:04:52,660 INFO  [default] app ack received
+a- Advanced Loadup
+c- Critical Peak Event
+e- End shed/Normal
+g- Grid Emergency
+l- Loadup
+o- Outside Communication
+s- Shed
+v- Enable advanced load up capability
+x- Disable advanced load up capability
+z- Quit and return operation to normal
+q- Quit
+enter choice: Returning state to normal...
+2026-08-10 20:04:53,044 INFO  [default] link ACK received: run_normal
+2026-08-10 20:04:53,156 INFO  [default] app ack received
+Loading...
+Querying operational state after normal command...
+2026-08-10 20:04:55,252 INFO  [default] link ACK received: query_operational_state
+2026-08-10 20:04:55,348 INFO  [default] operational state received: 0
+
+Press Enter for a list of commands

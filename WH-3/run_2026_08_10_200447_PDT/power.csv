@@ -1,0 +1,2 @@
+timestamp_pacific,monitor_elapsed_seconds,status,record_reason,voltage_rms,current_rms,real_power,reactive_power,apparent_power,power_factor
+2026-08-10T20:04:47.544-07:00,0.001,ok,initial_sample,121.306,0.000,0.000,6.942,8.099,0.143
