@@ -1,0 +1,11 @@
+timestamp_pacific,test_elapsed_seconds,event_id,event,status,details
+2026-08-12T18:47:13.865-07:00,0.001,,run_created,ok,"{""run_directory"":""/home/pi/conformance_testing_team/saved_data/conformance_runs/WH-4/run_2026_08_12_184713_PDT"",""water_output_enabled"":true,""outside_communication_heartbeat_enabled"":true}"
+2026-08-12T18:47:14.069-07:00,0.205,,power_monitor,ready,"{""pid"":6192}"
+2026-08-12T18:47:15.094-07:00,1.229,,cta_controller,started,"{""pid"":6193}"
+2026-08-12T18:47:15.094-07:00,-14.905,,test_start_scheduled,pending,"{""test_start_pacific"":""2026-08-12T18:47:30.000-07:00""}"
+2026-08-12T18:47:30.127-07:00,0.128,,test_started,ok,{}
+2026-08-12T19:29:46.625-07:00,2536.626,,run_interrupted,requested,{}
+2026-08-12T19:29:46.626-07:00,2536.627,,cta_return_to_normal,requested,{}
+2026-08-12T19:29:49.250-07:00,2539.250,,cta_return_to_normal,completed,"{""return_code"":0}"
+2026-08-12T19:29:49.318-07:00,2539.319,,power_monitor_shutdown,stopped,{}
+2026-08-12T19:29:49.319-07:00,2539.319,,run_finished,interrupted,{}
