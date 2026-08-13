@@ -1,0 +1,6 @@
+timestamp_pacific,response_code,response_name,electricity_commodity_code,cumulative_electricity_Wh,instantaneous_electricity_W,total_storage_commodity_code,total_energy_storage_Wh,present_storage_commodity_code,present_energy_storage_Wh,advanced_total_storage_commodity_code,advanced_total_energy_storage_Wh,advanced_present_storage_commodity_code,advanced_present_energy_storage_Wh,operational_state
+2026-08-13 15:33:51,0,success,0,129000,0,6,9190,7,0,10,12371,11,3181,0
+2026-08-13 15:34:51,0,success,0,129000,0,6,9190,7,22,10,12371,11,3203,3
+2026-08-13 15:35:51,0,success,0,129000,500,6,9190,7,44,10,12371,11,3225,3
+2026-08-13 15:36:51,0,success,0,129000,500,6,9190,7,66,10,12371,11,3247,3
+2026-08-13 15:37:51,0,success,0,129000,500,6,9190,7,88,10,12371,11,3269,1

@@ -1,0 +1,3 @@
+WATER_DRAW_READY {"event_id": "water_draw_1", "output_csv": "/home/pi/conformance_testing_team/saved_data/conformance_runs/WH-4/run_2026_08_13_153350_PDT/water_draw_1.csv", "timestamp_pacific": "2026-08-13T15:35:07.516-07:00"}
+WATER_DRAW_VALVE_OPEN {"event_id": "water_draw_1", "timestamp_pacific": "2026-08-13T15:35:07.517-07:00"}
+WATER_DRAW_STOPPED {"event_id": "water_draw_1", "timestamp_pacific": "2026-08-13T15:37:01.181-07:00", "stop_reason": "target_reached", "volume_gal": 4.004828994054298, "exit_code": 0}

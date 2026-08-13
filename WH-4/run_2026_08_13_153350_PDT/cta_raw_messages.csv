@@ -1,0 +1,2 @@
+timestamp_pacific,direction,message,payload_length,payload_hex
+2026-08-13T15:34:17.119-07:00,inbound,get_advanced_load_up_reply,8,0C 80 00 00 3C 00 64 02
