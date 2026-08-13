@@ -1,0 +1,1511 @@
+POWER_MONITOR_READY {"output_csv": "/home/pi/conformance_testing_team/saved_data/conformance_runs/WH-4/run_2026_08_12_184713_PDT/power.csv", "timestamp_pacific": "2026-08-12T18:47:14.010-07:00"}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:47:14.012-07:00", "status": "ok", "reasons": ["initial_sample"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:47:18.026-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:47:19.033-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:47:24.063-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:47:25.069-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:47:27.082-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:47:29.094-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:47:30.101-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:47:32.113-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:47:33.120-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:47:36.138-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:47:37.145-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:47:39.158-07:00", "status": "ok", "reasons": ["power_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:47:40.164-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:47:41.171-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:47:44.189-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:47:45.196-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:47:46.202-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:47:47.209-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:47:51.233-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:47:56.265-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:47:57.272-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:47:58.278-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:00.291-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:02.303-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:05.322-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:06.328-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:15.372-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:16.375-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:18.383-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:21.402-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:22.408-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:25.427-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:26.433-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:27.440-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:28.446-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:29.453-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:30.460-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:34.484-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:35.491-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:36.497-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:37.504-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:39.516-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:41.529-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:45.553-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:46.560-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:47.568-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:48.574-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:50.587-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:51.593-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:53.607-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:54.613-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:57.632-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:48:59.644-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:00.651-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:01.657-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:02.664-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:04.678-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:05.684-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:06.691-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:08.703-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:09.710-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:10.717-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:11.723-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:13.729-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:14.731-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:17.743-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:18.749-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:19.757-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:20.764-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:22.776-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:23.783-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:24.791-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:31.832-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:34.851-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:39.881-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:41.893-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:42.900-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:46.924-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:50.948-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:52.961-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:49:53.967-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:50:01.011-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:50:09.059-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:50:11.071-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:50:14.090-07:00", "status": "ok", "reasons": ["power_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:50:27.167-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:50:30.185-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:50:31.192-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:50:33.204-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:50:34.211-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:50:35.217-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:50:36.224-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:50:37.230-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:50:38.237-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:50:39.245-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:50:42.263-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:50:43.270-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:50:45.283-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:50:46.290-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:50:47.296-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:50:49.309-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:50:50.315-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:50:52.328-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:50:53.334-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:50:54.341-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:50:57.361-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:50:59.373-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:00.381-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:03.399-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:04.406-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:05.414-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:06.421-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:07.427-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:09.440-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:10.447-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:11.454-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:13.463-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:14.466-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:15.469-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:16.472-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:17.474-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:18.481-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:19.487-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:21.501-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:22.508-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:23.515-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:25.527-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:26.534-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:27.540-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:28.547-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:29.553-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:30.560-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:32.573-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:33.580-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:34.587-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:35.593-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:36.601-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:37.608-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:40.626-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:41.634-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:42.641-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:43.647-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:44.654-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:45.660-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:46.669-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:47.676-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:48.682-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:49.689-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:50.696-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:51.702-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:52.709-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:53.715-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:54.722-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:57.740-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:51:58.747-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:00.759-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:01.766-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:02.774-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:03.781-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:04.787-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:05.794-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:06.801-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:07.809-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:08.816-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:09.822-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:10.829-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:11.835-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:13.841-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:14.843-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:15.846-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:16.849-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:17.855-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:18.865-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:19.871-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:20.878-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:21.885-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:22.891-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:24.904-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:25.910-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:27.923-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:28.929-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:29.937-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:30.944-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:31.950-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:32.957-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:33.963-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:34.972-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:35.978-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:37.991-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:38.998-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:40.006-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:41.012-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:42.019-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:43.026-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:45.040-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:46.047-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:47.053-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:48.060-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:49.066-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:50.075-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:51.082-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:52.088-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:53.095-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:54.101-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:55.110-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:56.116-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:57.123-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:58.130-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:52:59.136-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:00.144-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:01.150-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:02.157-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:03.163-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:04.170-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:05.178-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:06.185-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:07.191-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:08.198-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:09.204-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:10.213-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:11.220-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:12.226-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:13.229-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:14.232-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:15.235-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:16.237-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:17.240-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:18.246-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:19.253-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:20.262-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:21.268-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:22.275-07:00", "status": "ok", "reasons": ["power_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:25.295-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:26.302-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:27.308-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:31.333-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:32.339-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:33.346-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:34.352-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:35.359-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:36.367-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:37.373-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:38.380-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:39.387-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:41.401-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:42.408-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:43.414-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:45.427-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:46.435-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:49.454-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:54.484-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:55.490-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:56.497-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:53:58.509-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:04.545-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:06.558-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:07.564-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:08.571-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:09.579-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:10.585-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:11.592-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:14.600-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:15.602-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:17.611-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:19.624-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:20.630-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:23.648-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:24.655-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:25.663-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:28.681-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:29.688-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:30.697-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:32.709-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:33.716-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:34.722-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:35.731-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:36.738-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:37.744-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:38.751-07:00", "status": "ok", "reasons": ["power_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:39.757-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:40.766-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:41.772-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:42.779-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:43.785-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:44.792-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:45.800-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:46.808-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:48.820-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:49.827-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:50.836-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:51.843-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:55.869-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:54:59.893-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:00.899-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:01.908-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:04.926-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:07.944-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:08.951-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:09.958-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:11.970-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:12.977-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:13.985-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:14.991-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:15.998-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:19.016-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:21.029-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:22.035-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:23.042-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:24.048-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:25.056-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:27.069-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:28.076-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:29.082-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:30.090-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:31.096-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:32.103-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:33.109-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:35.122-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:36.129-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:38.142-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:39.148-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:41.163-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:42.169-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:43.176-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:44.183-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:45.189-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:46.196-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:47.204-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:48.211-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:49.217-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:50.224-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:51.230-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:52.239-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:53.245-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:55.258-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:55:57.270-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:00.288-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:01.295-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:02.302-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:03.309-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:07.333-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:08.341-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:09.348-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:13.368-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:14.371-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:15.374-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:17.379-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:18.385-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:20.401-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:22.413-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:24.426-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:25.432-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:26.439-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:27.445-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:28.452-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:29.458-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:30.466-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:31.473-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:32.479-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:33.486-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:34.493-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:35.501-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:36.508-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:37.514-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:39.527-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:40.534-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:42.547-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:44.559-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:45.567-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:46.573-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:47.579-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:48.586-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:52.610-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:53.616-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:54.623-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:55.630-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:56.636-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:57.643-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:58.650-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:56:59.657-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:00.664-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:01.670-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:02.677-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:03.684-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:04.691-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:05.697-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:06.704-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:07.711-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:08.719-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:11.737-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:12.740-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:13.743-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:15.748-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:16.751-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:17.757-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:18.765-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:19.771-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:20.778-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:21.785-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:22.791-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:23.799-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:24.805-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:25.812-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:26.818-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:27.825-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:28.832-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:29.838-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:30.845-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:31.851-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:33.864-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:34.870-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:36.883-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:37.889-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:38.896-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:39.903-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:40.910-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:41.916-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:42.923-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:44.935-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:45.942-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:46.949-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:47.955-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:48.962-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:49.968-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:50.977-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:51.983-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:52.990-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:53.996-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:57:56.009-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:00.033-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:02.046-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:03.052-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:04.059-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:05.065-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:06.072-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:07.078-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:08.086-07:00", "status": "ok", "reasons": ["power_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:09.092-07:00", "status": "ok", "reasons": ["power_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:10.099-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:11.106-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:12.112-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:13.116-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:14.119-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:15.122-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:16.124-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:17.127-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:18.134-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:19.140-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:20.147-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:21.153-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:22.160-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:24.174-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:25.181-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:27.193-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:28.202-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:29.208-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:30.215-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:31.222-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:36.252-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:42.287-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:43.294-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:44.300-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:46.313-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:47.319-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:48.328-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:49.334-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:50.341-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:54.365-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:56.377-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:57.384-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:58.391-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:58:59.397-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:01.411-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:02.417-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:03.424-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:04.430-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:05.438-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:06.445-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:07.452-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:08.458-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:09.465-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:10.472-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:11.479-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:12.485-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:13.488-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:14.490-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:15.493-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:16.496-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:17.499-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:20.517-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:26.553-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:27.559-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:28.566-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:30.578-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:31.586-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:33.598-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:34.605-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:35.611-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:36.618-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:37.626-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:39.638-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:48.691-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:49.698-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:50.704-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:51.713-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:53.725-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:56.743-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T18:59:58.756-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:00.768-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:02.780-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:03.787-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:04.794-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:06.806-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:09.824-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:10.831-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:12.840-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:13.842-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:14.845-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:18.862-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:19.870-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:21.882-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:23.895-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:25.908-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:26.915-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:30.939-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:31.945-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:33.958-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:34.964-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:44.017-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:45.024-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:46.030-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:47.037-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:48.043-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:49.050-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:50.059-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:51.066-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:52.072-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:56.097-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:57.103-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:00:59.116-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:00.122-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:01.129-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:02.136-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:09.177-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:10.184-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:11.191-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:14.202-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:15.205-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:18.216-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:19.222-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:21.237-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:22.244-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:25.262-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:26.268-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:28.281-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:29.287-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:30.294-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:31.302-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:32.309-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:34.321-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:35.328-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:36.335-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:39.353-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:41.366-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:43.378-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:44.385-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:45.392-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:46.398-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:47.406-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:48.413-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:49.419-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:50.426-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:51.432-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:52.440-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:53.447-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:54.453-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:55.460-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:56.466-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:57.474-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:58.481-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:01:59.487-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:00.494-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:01.500-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:02.509-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:05.527-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:07.539-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:10.557-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:11.564-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:12.567-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:13.569-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:14.572-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:15.575-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:16.578-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:17.584-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:18.592-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:19.599-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:21.612-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:22.618-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:23.626-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:24.632-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:25.639-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:26.646-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:27.652-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:29.666-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:32.684-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:33.704-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:34.711-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:35.717-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:36.724-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:37.731-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:38.738-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:39.745-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:40.751-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:41.758-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:42.766-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:43.773-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:45.785-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:46.792-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:47.798-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:48.807-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:49.813-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:51.826-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:52.832-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:53.840-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:54.846-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:55.853-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:56.860-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:58.872-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:02:59.879-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:00.885-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:01.892-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:03.904-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:04.912-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:05.918-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:06.925-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:07.931-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:08.938-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:10.952-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:12.960-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:13.963-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:17.977-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:18.983-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:19.993-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:22.005-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:25.023-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:26.030-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:28.042-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:29.049-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:30.055-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:32.069-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:34.081-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:36.094-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:37.102-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:38.108-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:39.115-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:40.121-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:42.134-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:43.142-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:44.148-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:45.155-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:46.162-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:48.174-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:49.182-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:50.189-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:51.196-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:52.202-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:53.209-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:54.217-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:55.224-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:57.236-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:03:58.243-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:00.256-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:02.269-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:04.282-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:07.300-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:08.307-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:10.319-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:12.332-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:13.335-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:14.337-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:15.340-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:16.343-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:17.346-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:18.352-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:19.359-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:20.365-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:21.373-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:22.379-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:23.386-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:24.393-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:25.399-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:26.407-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:27.414-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:28.420-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:29.427-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:30.434-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:31.441-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:32.448-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:35.466-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:38.486-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:39.493-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:40.499-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:42.513-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:43.519-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:44.526-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:45.533-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:46.539-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:47.546-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:49.558-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:50.565-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:52.578-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:53.585-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:54.591-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:04:58.616-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:00.628-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:02.641-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:09.682-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:10.689-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:11.696-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:13.701-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:15.706-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:16.709-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:17.715-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:18.722-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:21.740-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:26.770-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:27.776-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:29.789-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:30.795-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:31.802-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:32.810-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:33.817-07:00", "status": "ok", "reasons": ["power_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:34.823-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:35.830-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:37.842-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:38.849-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:39.855-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:43.879-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:44.886-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:45.893-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:46.899-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:47.906-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:49.918-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:50.925-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:51.931-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:52.938-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:54.950-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:05:55.958-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:03.000-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:06.018-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:08.030-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:09.037-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:10.044-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:11.050-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:12.057-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:14.062-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:15.065-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:16.068-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:17.070-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:18.077-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:19.083-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:20.092-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:21.099-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:22.105-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:24.118-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:25.125-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:26.132-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:27.138-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:28.145-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:29.153-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:30.159-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:31.166-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:34.184-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:35.192-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:36.198-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:37.205-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:38.212-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:39.218-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:49.280-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:50.286-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:52.300-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:53.306-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:06:56.324-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:04.371-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:15.426-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:16.428-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:18.437-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:19.444-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:20.450-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:21.459-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:22.466-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:23.472-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:26.491-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:27.497-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:28.504-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:29.510-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:31.525-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:32.531-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:33.538-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:34.544-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:35.551-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:37.563-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:39.576-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:40.582-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:42.595-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:43.602-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:44.609-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:45.616-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:47.628-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:49.642-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:51.654-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:52.661-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:53.669-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:55.682-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:57.694-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:58.702-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:07:59.709-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:00.715-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:03.734-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:04.740-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:05.747-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:06.753-07:00", "status": "ok", "reasons": ["power_change", "voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:07.760-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:08.766-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:09.774-07:00", "status": "ok", "reasons": ["current_change", "heater_off"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:10.781-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:11.787-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:12.794-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:13.800-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:14.808-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:15.815-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:16.822-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:17.828-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:18.835-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:19.843-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:20.850-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:22.862-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:23.869-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:24.877-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:25.883-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:27.896-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:28.902-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:30.917-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:31.923-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:33.936-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:34.944-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:35.950-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:36.957-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:37.964-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:38.970-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:39.978-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:40.984-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:41.991-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:44.003-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:45.012-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:46.019-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:47.025-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:48.032-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:49.040-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:50.047-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:51.053-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:52.060-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:53.066-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:54.073-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:55.081-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:56.087-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:57.094-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:08:59.106-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:01.119-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:02.126-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:03.132-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:04.139-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:13.190-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:14.192-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:15.195-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:16.198-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:17.200-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:19.213-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:20.219-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:21.226-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:22.233-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:23.239-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:24.246-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:25.254-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:26.261-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:27.267-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:28.274-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:29.280-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:30.287-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:31.294-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:32.300-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:33.307-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:34.313-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:37.333-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:38.339-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:40.351-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:41.358-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:42.365-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:44.377-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:46.389-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:47.396-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:48.403-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:49.409-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:50.416-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:51.422-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:52.430-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:53.437-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:54.443-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:56.456-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:09:57.463-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:00.482-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:02.494-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:03.501-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:04.507-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:05.514-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:06.520-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:07.527-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:08.535-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:09.542-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:10.548-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:13.559-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:14.562-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:15.565-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:16.568-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:17.574-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:18.580-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:19.589-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:20.596-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:21.602-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:22.609-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:23.615-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:24.623-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:25.630-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:27.642-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:28.649-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:29.655-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:30.662-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:31.668-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:32.675-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:35.693-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:36.700-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:37.706-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:38.713-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:39.719-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:41.732-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:42.738-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:43.745-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:45.757-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:46.764-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:47.772-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:48.778-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:51.796-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:52.804-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:53.811-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:54.817-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:55.824-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:56.830-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:57.839-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:58.845-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:10:59.852-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:00.858-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:01.865-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:03.879-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:04.886-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:05.892-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:07.905-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:08.911-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:09.918-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:10.924-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:11.931-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:12.935-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:13.938-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:15.943-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:16.946-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:17.952-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:18.961-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:19.967-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:20.974-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:21.980-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:22.987-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:23.995-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:25.002-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:28.020-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:37.074-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:38.081-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:39.087-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:40.094-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:41.101-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:44.119-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:45.125-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:46.132-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:47.138-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:49.151-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:50.159-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:51.165-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:52.172-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:53.178-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:55.191-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:56.197-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:11:57.204-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:12:04.245-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:12:09.275-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:12:10.283-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:12:13.298-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:12:14.301-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:12:15.303-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:12:16.306-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:12:20.327-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:12:27.368-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:12:33.404-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:12:34.411-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:12:37.429-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:12:38.436-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:12:41.455-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:12:44.474-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:12:45.480-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:12:47.493-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:12:48.499-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:13:11.634-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:13:12.637-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:13:19.665-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:13:22.683-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:13:40.789-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:13:42.801-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:13:59.901-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:14:04.931-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:14:05.939-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:14:08.957-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:14:13.980-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:14:16.987-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:14:22.017-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:14:23.023-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:14:31.071-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:14:34.089-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:14:41.130-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:14:42.137-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:14:43.143-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:14:48.173-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:14:51.191-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:14:52.198-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:14:55.216-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:14:57.229-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:05.276-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:06.282-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:07.289-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:08.296-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:18.337-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:20.350-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:21.358-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:23.371-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:24.377-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:25.385-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:26.392-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:34.439-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:38.463-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:39.470-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:42.490-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:44.502-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:45.510-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:46.517-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:47.523-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:49.536-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:51.551-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:52.557-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:53.564-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:54.570-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:55.579-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:56.585-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:15:59.603-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:01.617-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:02.623-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:05.642-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:06.648-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:07.654-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:08.661-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:10.674-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:11.681-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:12.684-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:13.687-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:15.692-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:16.696-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:17.703-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:18.709-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:19.716-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:20.722-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:21.730-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:22.737-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:24.749-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:26.761-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:29.780-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:30.786-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:31.792-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:32.800-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:33.807-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:34.813-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:35.820-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:36.826-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:37.834-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:38.840-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:39.847-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:40.853-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:41.860-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:43.874-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:44.880-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:45.887-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:46.894-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:47.902-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:48.909-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:49.915-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:50.922-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:51.928-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:53.942-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:54.949-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:55.955-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:16:57.968-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:00.986-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:01.990-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:02.997-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:04.003-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:05.010-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:07.025-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:10.043-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:11.050-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:14.061-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:16.066-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:17.069-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:18.075-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:21.094-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:24.112-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:26.124-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:27.132-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:28.139-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:32.163-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:33.171-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:36.189-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:38.201-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:39.208-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:40.214-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:42.227-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:43.233-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:44.241-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:46.254-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:47.260-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:48.267-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:50.281-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:51.287-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:52.294-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:55.312-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:56.319-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:58.331-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:17:59.337-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:00.344-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:01.351-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:02.354-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:03.356-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:05.361-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:06.364-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:07.371-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:08.377-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:09.384-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:10.390-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:11.398-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:12.405-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:13.407-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:14.410-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:15.413-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:18.424-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:20.436-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:21.444-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:22.451-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:23.457-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:26.475-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:27.482-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:28.489-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:29.495-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:30.502-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:31.508-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:32.517-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:34.529-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:36.542-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:37.549-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:39.562-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:40.568-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:41.575-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:42.583-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:43.589-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:46.607-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:47.616-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:49.628-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:50.635-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:51.642-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:52.650-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:53.656-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:54.663-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:55.669-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:56.676-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:57.682-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:18:59.695-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:00.701-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:01.708-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:03.722-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:04.728-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:05.735-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:06.741-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:08.755-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:10.768-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:12.777-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:13.779-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:15.784-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:18.799-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:19.806-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:20.812-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:21.819-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:22.826-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:24.837-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:25.843-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:26.850-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:27.856-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:28.863-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:29.870-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:30.876-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:31.883-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:32.890-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:35.907-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:36.913-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:37.920-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:38.926-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:39.933-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:40.941-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:41.948-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:46.978-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:47.984-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:48.991-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:52.009-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:53.017-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:54.024-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:55.030-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:56.037-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:19:58.049-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:00.062-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:01.067-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:02.073-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:03.080-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:05.094-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:06.100-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:07.107-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:08.113-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:09.121-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:11.134-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:12.140-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:14.145-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:15.148-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:16.151-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:17.154-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:18.160-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:19.166-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:20.175-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:22.188-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:23.194-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:24.201-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:26.215-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:30.239-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:31.246-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:32.252-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:33.259-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:34.265-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:35.272-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:36.280-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:37.286-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:42.316-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:43.323-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:44.329-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:46.341-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:47.348-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:51.372-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:53.385-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:54.391-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:56.403-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:57.410-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:58.417-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:20:59.423-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:01.436-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:03.448-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:04.456-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:05.463-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:07.475-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:11.499-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:12.502-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:19.530-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:20.536-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:21.543-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:22.552-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:23.558-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:24.564-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:26.577-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:27.583-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:28.590-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:29.596-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:30.603-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:31.609-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:33.624-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:38.653-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:39.660-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:40.666-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:42.679-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:44.691-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:45.698-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:46.704-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:47.711-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:51.735-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:53.747-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:55.759-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:56.766-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:57.774-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:58.781-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:21:59.787-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:00.794-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:05.824-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:06.830-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:07.837-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:09.849-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:11.862-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:12.864-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:13.867-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:15.872-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:16.875-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:17.884-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:18.891-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:20.903-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:21.910-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:23.923-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:25.936-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:26.942-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:27.951-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:28.957-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:29.964-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:31.976-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:32.984-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:33.990-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:36.003-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:37.009-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:39.023-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:40.029-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:41.036-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:42.042-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:44.056-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:46.068-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:47.074-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:48.083-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:49.090-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:50.096-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:51.103-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:52.109-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:53.117-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:54.124-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:55.130-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:22:57.142-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:00.161-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:02.173-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:03.181-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:04.187-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:05.194-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:08.212-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:09.218-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:10.225-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:11.231-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:12.238-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:13.241-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:14.244-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:15.246-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:16.249-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:17.252-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:18.258-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:19.298-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:20.305-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:21.311-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:23.324-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:24.332-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:25.338-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:26.345-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:27.352-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:35.399-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:36.405-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:40.429-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:41.437-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:46.467-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:47.474-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:48.480-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:49.487-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:52.505-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:54.517-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:55.524-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:56.530-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:57.537-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:23:58.545-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:01.564-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:02.571-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:04.585-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:06.597-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:07.604-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:08.610-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:10.623-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:11.629-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:12.632-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:13.635-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:14.638-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:15.640-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:16.643-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:21.673-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:23.685-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:24.692-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:29.722-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:30.728-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:33.747-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:35.759-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:36.765-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:38.778-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:40.793-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:41.800-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:42.806-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:43.813-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:44.820-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:47.838-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:48.844-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:52.868-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:54.881-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:24:59.911-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:01.923-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:02.930-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:03.936-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:04.946-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:05.953-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:09.980-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:10.987-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:15.004-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:16.006-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:17.009-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:18.015-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:19.022-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:26.064-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:28.076-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:29.082-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:30.089-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:32.101-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:33.111-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:34.118-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:35.124-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:37.137-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:38.146-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:39.152-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:41.165-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:42.171-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:46.198-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:47.208-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:49.221-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:51.233-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:56.263-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:57.270-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:25:58.276-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:26:02.300-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:26:04.312-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:26:05.319-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:26:17.372-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:26:18.379-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:26:19.385-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:26:23.409-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:26:25.421-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:26:28.440-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:26:29.446-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:26:32.464-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:26:33.471-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:26:34.477-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:26:36.490-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:26:37.496-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:26:39.509-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:26:40.515-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:26:44.538-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:26:46.551-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:26:52.587-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:26:53.593-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:26:54.600-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:26:55.606-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:26:56.613-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:26:58.625-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:27:00.637-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:27:02.650-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:27:03.656-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:27:06.675-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:27:10.699-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:27:11.706-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:27:12.712-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:27:14.717-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:27:26.780-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:27:27.787-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:27:29.799-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:27:30.806-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:27:34.830-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:27:35.836-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:27:38.854-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:27:39.861-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:27:43.888-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:27:44.895-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:27:47.916-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:27:48.923-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:27:52.947-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:28:02.000-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:28:03.007-07:00", "status": "ok", "reasons": ["voltage_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-12T19:29:03.338-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_STOPPED {"output_csv": "/home/pi/conformance_testing_team/saved_data/conformance_runs/WH-4/run_2026_08_12_184713_PDT/power.csv", "timestamp_pacific": "2026-08-12T19:29:49.251-07:00"}
