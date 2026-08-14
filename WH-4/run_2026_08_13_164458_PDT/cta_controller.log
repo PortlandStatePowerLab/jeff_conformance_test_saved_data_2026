@@ -1,0 +1,305 @@
+2026-08-13 16:44:58,630 INFO  [default] link ACK received: device_information
+2026-08-13 16:44:58,784 INFO  [default] message type supported received: 2
+2026-08-13 16:44:58,784 INFO  [default] device info response received. response code: 0 - success
+2026-08-13 16:44:58,784 INFO  [default]   CTA-2045 version: B
+2026-08-13 16:44:58,784 INFO  [default]   device type: 3 - Water Heater - Heat Pump
+2026-08-13 16:44:58,785 INFO  [default]   vendor ID: 336
+2026-08-13 16:44:58,825 INFO  [default] starting commodity service...
+2026-08-13 16:44:58,988 INFO  [default] link ACK received: get_commodity
+2026-08-13 16:44:59,156 INFO  [default] message type supported received: 2
+2026-08-13 16:44:59,156 INFO  [default] commodity response received. response code: 0 - success; count: 6
+2026-08-13 16:44:59,157 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-08-13 16:44:59,157 INFO  [default]            source: Estimated
+2026-08-13 16:44:59,157 INFO  [default]   cumulative: 129000
+2026-08-13 16:44:59,157 INFO  [default]    inst rate: 500
+2026-08-13 16:44:59,157 INFO  [default] commodity code 8 - Rated max consumption level electricity (W) is not recorded in the commodity CSV
+2026-08-13 16:44:59,157 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-08-13 16:44:59,157 INFO  [default]            source: Estimated
+2026-08-13 16:44:59,157 INFO  [default]   cumulative: 9190
+2026-08-13 16:44:59,157 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:44:59,157 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-08-13 16:44:59,157 INFO  [default]            source: Estimated
+2026-08-13 16:44:59,157 INFO  [default]   cumulative: 0
+2026-08-13 16:44:59,157 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:44:59,157 INFO  [default] commodity code: 10 - Advanced load up total energy storage/take capacity (W-hr)
+2026-08-13 16:44:59,157 INFO  [default]            source: Estimated
+2026-08-13 16:44:59,157 INFO  [default]   cumulative: 12371
+2026-08-13 16:44:59,157 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:44:59,157 INFO  [default] commodity code: 11 - Advanced load up present energy storage/take capacity (W-hr)
+2026-08-13 16:44:59,158 INFO  [default]            source: Estimated
+2026-08-13 16:44:59,158 INFO  [default]   cumulative: 2827
+2026-08-13 16:44:59,158 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:44:59,361 INFO  [default] link ACK received: query_operational_state
+2026-08-13 16:44:59,484 INFO  [default] operational state received: 0
+
+Press Enter for a list of commands
+1786664699,o,0 (PASSED!)
+outside communication found
+2026-08-13 16:45:00,588 INFO  [default] link ACK received: outside_communication
+2026-08-13 16:45:00,711 INFO  [default] app ack received
+a- Advanced Loadup
+c- Critical Peak Event
+e- End shed/Normal
+g- Grid Emergency
+l- Loadup
+o- Outside Communication
+s- Shed
+v- Enable advanced load up capability
+x- Disable advanced load up capability
+z- Quit and return operation to normal
+q- Quit
+enter choice: 1786664714,l,43 (PASSED!)
+loading up
+2026-08-13 16:45:14,839 INFO  [default] link ACK received: load_up
+2026-08-13 16:45:14,962 INFO  [default] app ack received
+2026-08-13 16:45:29,094 INFO  [default] link ACK received: query_operational_state
+2026-08-13 16:45:29,218 INFO  [default] operational state received: 6
+
+Press Enter for a list of commands
+2026-08-13 16:45:59,378 INFO  [default] link ACK received: get_commodity
+2026-08-13 16:45:59,546 INFO  [default] message type supported received: 2
+2026-08-13 16:45:59,546 INFO  [default] commodity response received. response code: 0 - success; count: 6
+2026-08-13 16:45:59,547 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-08-13 16:45:59,547 INFO  [default]            source: Estimated
+2026-08-13 16:45:59,547 INFO  [default]   cumulative: 129000
+2026-08-13 16:45:59,547 INFO  [default]    inst rate: 0
+2026-08-13 16:45:59,547 INFO  [default] commodity code 8 - Rated max consumption level electricity (W) is not recorded in the commodity CSV
+2026-08-13 16:45:59,547 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-08-13 16:45:59,548 INFO  [default]            source: Estimated
+2026-08-13 16:45:59,548 INFO  [default]   cumulative: 9190
+2026-08-13 16:45:59,548 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:45:59,548 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-08-13 16:45:59,548 INFO  [default]            source: Estimated
+2026-08-13 16:45:59,548 INFO  [default]   cumulative: 0
+2026-08-13 16:45:59,548 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:45:59,548 INFO  [default] commodity code: 10 - Advanced load up total energy storage/take capacity (W-hr)
+2026-08-13 16:45:59,549 INFO  [default]            source: Estimated
+2026-08-13 16:45:59,549 INFO  [default]   cumulative: 12371
+2026-08-13 16:45:59,549 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:45:59,549 INFO  [default] commodity code: 11 - Advanced load up present energy storage/take capacity (W-hr)
+2026-08-13 16:45:59,549 INFO  [default]            source: Estimated
+2026-08-13 16:45:59,549 INFO  [default]   cumulative: 2761
+2026-08-13 16:45:59,549 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:45:59,753 INFO  [default] link ACK received: query_operational_state
+2026-08-13 16:45:59,877 INFO  [default] operational state received: 6
+
+Press Enter for a list of commands
+2026-08-13 16:46:29,035 INFO  [default] link ACK received: query_operational_state
+2026-08-13 16:46:29,158 INFO  [default] operational state received: 6
+
+Press Enter for a list of commands
+1786664819,o,0 (PASSED!)
+outside communication found
+2026-08-13 16:46:59,322 INFO  [default] link ACK received: outside_communication
+2026-08-13 16:46:59,446 INFO  [default] app ack received
+2026-08-13 16:46:59,650 INFO  [default] link ACK received: get_commodity
+2026-08-13 16:46:59,818 INFO  [default] message type supported received: 2
+2026-08-13 16:46:59,818 INFO  [default] commodity response received. response code: 0 - success; count: 6
+2026-08-13 16:46:59,819 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-08-13 16:46:59,819 INFO  [default]            source: Estimated
+2026-08-13 16:46:59,819 INFO  [default]   cumulative: 129000
+2026-08-13 16:46:59,819 INFO  [default]    inst rate: 0
+2026-08-13 16:46:59,819 INFO  [default] commodity code 8 - Rated max consumption level electricity (W) is not recorded in the commodity CSV
+2026-08-13 16:46:59,820 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-08-13 16:46:59,820 INFO  [default]            source: Estimated
+2026-08-13 16:46:59,820 INFO  [default]   cumulative: 9190
+2026-08-13 16:46:59,820 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:46:59,820 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-08-13 16:46:59,820 INFO  [default]            source: Estimated
+2026-08-13 16:46:59,820 INFO  [default]   cumulative: 0
+2026-08-13 16:46:59,820 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:46:59,821 INFO  [default] commodity code: 10 - Advanced load up total energy storage/take capacity (W-hr)
+2026-08-13 16:46:59,821 INFO  [default]            source: Estimated
+2026-08-13 16:46:59,821 INFO  [default]   cumulative: 12371
+2026-08-13 16:46:59,821 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:46:59,821 INFO  [default] commodity code: 11 - Advanced load up present energy storage/take capacity (W-hr)
+2026-08-13 16:46:59,821 INFO  [default]            source: Estimated
+2026-08-13 16:46:59,821 INFO  [default]   cumulative: 2761
+2026-08-13 16:46:59,822 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:47:00,024 INFO  [default] link ACK received: query_operational_state
+2026-08-13 16:47:00,148 INFO  [default] operational state received: 6
+
+Press Enter for a list of commands
+1786664834,s,0 (PASSED!)
+shedding
+2026-08-13 16:47:14,280 INFO  [default] link ACK received: shed
+2026-08-13 16:47:14,403 INFO  [default] app ack received
+2026-08-13 16:47:17,356 INFO  [default] app cust override received: 0
+2026-08-13 16:47:17,559 INFO  [default] link ACK received: none
+2026-08-13 16:47:29,545 INFO  [default] link ACK received: query_operational_state
+2026-08-13 16:47:29,670 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-08-13 16:47:59,833 INFO  [default] link ACK received: get_commodity
+2026-08-13 16:48:00,003 INFO  [default] message type supported received: 2
+2026-08-13 16:48:00,003 INFO  [default] commodity response received. response code: 0 - success; count: 6
+2026-08-13 16:48:00,003 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-08-13 16:48:00,004 INFO  [default]            source: Estimated
+2026-08-13 16:48:00,004 INFO  [default]   cumulative: 129000
+2026-08-13 16:48:00,004 INFO  [default]    inst rate: 0
+2026-08-13 16:48:00,004 INFO  [default] commodity code 8 - Rated max consumption level electricity (W) is not recorded in the commodity CSV
+2026-08-13 16:48:00,004 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-08-13 16:48:00,004 INFO  [default]            source: Estimated
+2026-08-13 16:48:00,004 INFO  [default]   cumulative: 9190
+2026-08-13 16:48:00,005 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:48:00,005 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-08-13 16:48:00,005 INFO  [default]            source: Estimated
+2026-08-13 16:48:00,005 INFO  [default]   cumulative: 0
+2026-08-13 16:48:00,005 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:48:00,005 INFO  [default] commodity code: 10 - Advanced load up total energy storage/take capacity (W-hr)
+2026-08-13 16:48:00,005 INFO  [default]            source: Estimated
+2026-08-13 16:48:00,006 INFO  [default]   cumulative: 12371
+2026-08-13 16:48:00,006 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:48:00,006 INFO  [default] commodity code: 11 - Advanced load up present energy storage/take capacity (W-hr)
+2026-08-13 16:48:00,006 INFO  [default]            source: Estimated
+2026-08-13 16:48:00,006 INFO  [default]   cumulative: 2739
+2026-08-13 16:48:00,006 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:48:00,209 INFO  [default] link ACK received: query_operational_state
+2026-08-13 16:48:00,332 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-08-13 16:48:29,491 INFO  [default] link ACK received: query_operational_state
+2026-08-13 16:48:29,615 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-08-13 16:48:59,778 INFO  [default] link ACK received: get_commodity
+2026-08-13 16:48:59,946 INFO  [default] message type supported received: 2
+2026-08-13 16:48:59,947 INFO  [default] commodity response received. response code: 0 - success; count: 6
+2026-08-13 16:48:59,947 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-08-13 16:48:59,947 INFO  [default]            source: Estimated
+2026-08-13 16:48:59,947 INFO  [default]   cumulative: 129000
+2026-08-13 16:48:59,948 INFO  [default]    inst rate: 0
+2026-08-13 16:48:59,948 INFO  [default] commodity code 8 - Rated max consumption level electricity (W) is not recorded in the commodity CSV
+2026-08-13 16:48:59,948 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-08-13 16:48:59,948 INFO  [default]            source: Estimated
+2026-08-13 16:48:59,948 INFO  [default]   cumulative: 9190
+2026-08-13 16:48:59,948 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:48:59,948 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-08-13 16:48:59,948 INFO  [default]            source: Estimated
+2026-08-13 16:48:59,949 INFO  [default]   cumulative: 0
+2026-08-13 16:48:59,949 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:48:59,949 INFO  [default] commodity code: 10 - Advanced load up total energy storage/take capacity (W-hr)
+2026-08-13 16:48:59,949 INFO  [default]            source: Estimated
+2026-08-13 16:48:59,949 INFO  [default]   cumulative: 12371
+2026-08-13 16:48:59,949 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:48:59,949 INFO  [default] commodity code: 11 - Advanced load up present energy storage/take capacity (W-hr)
+2026-08-13 16:48:59,950 INFO  [default]            source: Estimated
+2026-08-13 16:48:59,950 INFO  [default]   cumulative: 2739
+2026-08-13 16:48:59,950 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:49:00,152 INFO  [default] link ACK received: query_operational_state
+2026-08-13 16:49:00,276 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-08-13 16:49:29,437 INFO  [default] link ACK received: query_operational_state
+2026-08-13 16:49:29,560 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+1786664999,o,0 (PASSED!)
+outside communication found
+2026-08-13 16:49:59,725 INFO  [default] link ACK received: outside_communication
+2026-08-13 16:49:59,848 INFO  [default] app ack received
+2026-08-13 16:50:00,051 INFO  [default] link ACK received: get_commodity
+2026-08-13 16:50:00,220 INFO  [default] message type supported received: 2
+2026-08-13 16:50:00,220 INFO  [default] commodity response received. response code: 0 - success; count: 6
+2026-08-13 16:50:00,221 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-08-13 16:50:00,221 INFO  [default]            source: Estimated
+2026-08-13 16:50:00,221 INFO  [default]   cumulative: 129000
+2026-08-13 16:50:00,221 INFO  [default]    inst rate: 0
+2026-08-13 16:50:00,222 INFO  [default] commodity code 8 - Rated max consumption level electricity (W) is not recorded in the commodity CSV
+2026-08-13 16:50:00,222 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-08-13 16:50:00,222 INFO  [default]            source: Estimated
+2026-08-13 16:50:00,222 INFO  [default]   cumulative: 9190
+2026-08-13 16:50:00,222 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:50:00,222 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-08-13 16:50:00,222 INFO  [default]            source: Estimated
+2026-08-13 16:50:00,222 INFO  [default]   cumulative: 0
+2026-08-13 16:50:00,223 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:50:00,223 INFO  [default] commodity code: 10 - Advanced load up total energy storage/take capacity (W-hr)
+2026-08-13 16:50:00,223 INFO  [default]            source: Estimated
+2026-08-13 16:50:00,223 INFO  [default]   cumulative: 12371
+2026-08-13 16:50:00,223 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:50:00,223 INFO  [default] commodity code: 11 - Advanced load up present energy storage/take capacity (W-hr)
+2026-08-13 16:50:00,223 INFO  [default]            source: Estimated
+2026-08-13 16:50:00,223 INFO  [default]   cumulative: 2761
+2026-08-13 16:50:00,223 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:50:00,427 INFO  [default] link ACK received: query_operational_state
+2026-08-13 16:50:00,551 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+1786665014,e,0 (PASSED!)
+2026-08-13 16:50:14,682 INFO  [default] link ACK received: run_normal
+2026-08-13 16:50:14,806 INFO  [default] app ack received
+endshedding
+2026-08-13 16:50:28,938 INFO  [default] link ACK received: query_operational_state
+2026-08-13 16:50:29,062 INFO  [default] operational state received: 0
+
+Press Enter for a list of commands
+2026-08-13 16:50:59,226 INFO  [default] link ACK received: get_commodity
+2026-08-13 16:50:59,395 INFO  [default] message type supported received: 2
+2026-08-13 16:50:59,395 INFO  [default] commodity response received. response code: 0 - success; count: 6
+2026-08-13 16:50:59,396 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-08-13 16:50:59,396 INFO  [default]            source: Estimated
+2026-08-13 16:50:59,396 INFO  [default]   cumulative: 129000
+2026-08-13 16:50:59,396 INFO  [default]    inst rate: 0
+2026-08-13 16:50:59,396 INFO  [default] commodity code 8 - Rated max consumption level electricity (W) is not recorded in the commodity CSV
+2026-08-13 16:50:59,396 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-08-13 16:50:59,397 INFO  [default]            source: Estimated
+2026-08-13 16:50:59,397 INFO  [default]   cumulative: 9190
+2026-08-13 16:50:59,397 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:50:59,397 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-08-13 16:50:59,397 INFO  [default]            source: Estimated
+2026-08-13 16:50:59,397 INFO  [default]   cumulative: 0
+2026-08-13 16:50:59,397 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:50:59,397 INFO  [default] commodity code: 10 - Advanced load up total energy storage/take capacity (W-hr)
+2026-08-13 16:50:59,398 INFO  [default]            source: Estimated
+2026-08-13 16:50:59,398 INFO  [default]   cumulative: 12371
+2026-08-13 16:50:59,398 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:50:59,398 INFO  [default] commodity code: 11 - Advanced load up present energy storage/take capacity (W-hr)
+2026-08-13 16:50:59,398 INFO  [default]            source: Estimated
+2026-08-13 16:50:59,398 INFO  [default]   cumulative: 2805
+2026-08-13 16:50:59,398 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:50:59,602 INFO  [default] link ACK received: query_operational_state
+2026-08-13 16:50:59,725 INFO  [default] operational state received: 0
+
+Press Enter for a list of commands
+2026-08-13 16:51:29,893 INFO  [default] link ACK received: query_operational_state
+2026-08-13 16:51:30,016 INFO  [default] operational state received: 0
+
+Press Enter for a list of commands
+2026-08-13 16:51:59,178 INFO  [default] link ACK received: get_commodity
+2026-08-13 16:51:59,347 INFO  [default] message type supported received: 2
+2026-08-13 16:51:59,347 INFO  [default] commodity response received. response code: 0 - success; count: 6
+2026-08-13 16:51:59,347 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-08-13 16:51:59,348 INFO  [default]            source: Estimated
+2026-08-13 16:51:59,348 INFO  [default]   cumulative: 129000
+2026-08-13 16:51:59,348 INFO  [default]    inst rate: 0
+2026-08-13 16:51:59,348 INFO  [default] commodity code 8 - Rated max consumption level electricity (W) is not recorded in the commodity CSV
+2026-08-13 16:51:59,348 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-08-13 16:51:59,348 INFO  [default]            source: Estimated
+2026-08-13 16:51:59,348 INFO  [default]   cumulative: 9190
+2026-08-13 16:51:59,348 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:51:59,349 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-08-13 16:51:59,349 INFO  [default]            source: Estimated
+2026-08-13 16:51:59,349 INFO  [default]   cumulative: 0
+2026-08-13 16:51:59,349 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:51:59,349 INFO  [default] commodity code: 10 - Advanced load up total energy storage/take capacity (W-hr)
+2026-08-13 16:51:59,349 INFO  [default]            source: Estimated
+2026-08-13 16:51:59,349 INFO  [default]   cumulative: 12371
+2026-08-13 16:51:59,350 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:51:59,350 INFO  [default] commodity code: 11 - Advanced load up present energy storage/take capacity (W-hr)
+2026-08-13 16:51:59,350 INFO  [default]            source: Estimated
+2026-08-13 16:51:59,350 INFO  [default]   cumulative: 2916
+2026-08-13 16:51:59,350 INFO  [default]    inst rate: not used for this commodity code
+2026-08-13 16:51:59,554 INFO  [default] link ACK received: query_operational_state
+2026-08-13 16:51:59,678 INFO  [default] operational state received: 0
+
+Press Enter for a list of commands
+Returning state to normal...
+2026-08-13 16:52:14,610 INFO  [default] link ACK received: run_normal
+2026-08-13 16:52:14,734 INFO  [default] app ack received
+Loading...
+Querying operational state after normal command...
+2026-08-13 16:52:16,840 INFO  [default] link ACK received: query_operational_state
+2026-08-13 16:52:16,965 INFO  [default] operational state received: 0
+
+Press Enter for a list of commands
