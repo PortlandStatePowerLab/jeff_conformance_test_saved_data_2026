@@ -1,3 +1,0 @@
-event_id,scheduled_pacific,offset_seconds,action,command_code,duration_byte,requested_duration_seconds,represented_duration_seconds,advanced_duration_minutes,advanced_value,advanced_units,advanced_efficiency,expected_operational_states,generated,prerequisite_for
-auto_outside_comm_for_advanced_load_up_1,2026-08-10T18:22:46-07:00,-15,outside_communication,o,,,,,,,,,true,advanced_load_up_1
-advanced_load_up_1,2026-08-10T18:23:01-07:00,0,advanced_load_up,a,,,,0,100,0,1,3|6,false,

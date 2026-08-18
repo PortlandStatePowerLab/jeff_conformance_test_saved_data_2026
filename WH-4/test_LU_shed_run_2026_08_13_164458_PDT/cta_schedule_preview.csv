@@ -1,0 +1,7 @@
+event_id,scheduled_pacific,offset_seconds,action,command_code,duration_byte,requested_duration_seconds,represented_duration_seconds,advanced_duration_minutes,advanced_value,advanced_units,advanced_efficiency,expected_operational_states,generated,prerequisite_for
+auto_outside_comm_for_load_up_1,2026-08-13T16:44:59-07:00,-15,outside_communication,o,,,,,,,,,true,load_up_1
+load_up_1,2026-08-13T16:45:14-07:00,0,load_up,l,43,3600,3698,,,,,3|6,false,
+auto_outside_comm_for_shed_1,2026-08-13T16:46:59-07:00,105,outside_communication,o,,,,,,,,,true,shed_1
+shed_1,2026-08-13T16:47:14-07:00,120,shed,s,0,,,,,,,2|4,false,
+auto_outside_comm_for_run_normal_1,2026-08-13T16:49:59-07:00,285,outside_communication,o,,,,,,,,,true,run_normal_1
+run_normal_1,2026-08-13T16:50:14-07:00,300,run_normal,e,0,,,,,,,0|1,false,

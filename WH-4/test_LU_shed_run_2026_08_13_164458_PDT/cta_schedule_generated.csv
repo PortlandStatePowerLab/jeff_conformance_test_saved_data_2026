@@ -1,0 +1,7 @@
+# time,command,argument,event_id,value,units,efficiency
+1786664699,o,,auto_outside_comm_for_load_up_1,,,
+1786664714,l,43,load_up_1,,,
+1786664819,o,,auto_outside_comm_for_shed_1,,,
+1786664834,s,0,shed_1,,,
+1786664999,o,,auto_outside_comm_for_run_normal_1,,,
+1786665014,e,0,run_normal_1,,,
