@@ -1,5 +1,0 @@
-# time,command,argument,event_id,value,units
-1785720012,o,,auto_outside_comm_for_load_up_1,,
-1785720027,l,25,load_up_1,,
-1785721512,o,,auto_outside_comm_for_run_normal_1,,
-1785721527,e,0,run_normal_1,,

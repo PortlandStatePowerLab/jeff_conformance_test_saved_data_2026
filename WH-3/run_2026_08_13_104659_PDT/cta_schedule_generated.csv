@@ -1,9 +1,0 @@
-# time,command,argument,event_id,value,units,efficiency
-1786643220,o,,auto_outside_comm_for_advanced_load_up_1,,,
-1786643235,a,60,advanced_load_up_1,10,3,1
-1786643400,o,,auto_outside_comm_for_run_normal_1,,,
-1786643415,e,0,run_normal_1,,,
-1786643520,o,,auto_outside_comm_for_advanced_load_up_2,,,
-1786643535,a,0,advanced_load_up_2,100,1,
-1786643640,o,,auto_outside_comm_for_run_normal_2,,,
-1786643655,e,0,run_normal_2,,,

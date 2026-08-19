@@ -1,0 +1,21 @@
+# time,command,argument,event_id,value,units,efficiency
+1786415598,o,,auto_outside_comm_for_advanced_load_up_1,,,
+1786415613,a,60,advanced_load_up_1,10,3,
+1786415718,o,,auto_outside_comm_for_run_normal_1,,,
+1786415733,e,0,run_normal_1,,,
+1786415778,o,,auto_outside_comm_for_advanced_load_up_2,,,
+1786415793,a,0,advanced_load_up_2,100,1,
+1786415838,o,,auto_outside_comm_for_run_normal_2,,,
+1786415853,e,0,run_normal_2,,,
+1786415898,o,,auto_outside_comm_for_advanced_load_up_3,,,
+1786415913,a,0,advanced_load_up_3,1000,0,
+1786415958,o,,auto_outside_comm_for_run_normal_3,,,
+1786415973,e,0,run_normal_3,,,
+1786416018,o,,auto_outside_comm_for_advanced_load_up_4,,,
+1786416033,a,0,advanced_load_up_4,500,1,0
+1786416078,o,,auto_outside_comm_for_run_normal_4,,,
+1786416093,e,0,run_normal_4,,,
+1786416138,o,,auto_outside_comm_for_advanced_load_up_5,,,
+1786416153,a,100,advanced_load_up_5,70,2,10
+1786416198,o,,auto_outside_comm_for_run_normal_5,,,
+1786416213,e,0,run_normal_5,,,

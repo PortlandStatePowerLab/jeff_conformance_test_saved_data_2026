@@ -1,7 +1,0 @@
-# time,command,argument,event_id,value,units
-1785207882,o,,auto_outside_comm_for_shed_1,,
-1785207897,s,10,shed_1,,
-1785208062,o,,auto_outside_comm_for_advanced_load_up_1,,
-1785208077,a,0,advanced_load_up_1,5,2
-1785208242,o,,auto_outside_comm_for_run_normal_1,,
-1785208257,e,15,run_normal_1,,

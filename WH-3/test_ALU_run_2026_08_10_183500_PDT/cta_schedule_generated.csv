@@ -1,0 +1,3 @@
+# time,command,argument,event_id,value,units,efficiency
+1786412101,o,,auto_outside_comm_for_advanced_load_up_1,,,
+1786412116,a,2,advanced_load_up_1,500,0,3

@@ -1,0 +1,17 @@
+event_id,scheduled_utc,offset_seconds,action,command_code,duration_byte,requested_duration_seconds,represented_duration_seconds,advanced_duration_minutes,advanced_value,advanced_units,expected_operational_states,generated,prerequisite_for
+auto_outside_comm_for_load_up_1,2026-07-27T01:13:17Z,-15,outside_communication,o,,,,,,,,true,load_up_1
+load_up_1,2026-07-27T01:13:32Z,0,load_up,l,13,300,338,,,,3|6,false,
+auto_outside_comm_for_run_normal_1,2026-07-27T01:20:17Z,405,outside_communication,o,,,,,,,,true,run_normal_1
+run_normal_1,2026-07-27T01:20:32Z,420,run_normal,e,10,180,200,,,,0|1,false,
+auto_outside_comm_for_critical_peak_1,2026-07-27T01:25:17Z,705,outside_communication,o,,,,,,,,true,critical_peak_1
+critical_peak_1,2026-07-27T01:25:32Z,720,critical_peak,c,15,420,450,,,,2|4,false,
+auto_outside_comm_for_run_normal_2,2026-07-27T01:35:17Z,1305,outside_communication,o,,,,,,,,true,run_normal_2
+run_normal_2,2026-07-27T01:35:32Z,1320,run_normal,e,0,,,,,,0|1,false,
+auto_outside_comm_for_shed_1,2026-07-27T01:38:17Z,1485,outside_communication,o,,,,,,,,true,shed_1
+shed_1,2026-07-27T01:38:32Z,1500,shed,s,13,300,338,,,,2|4,false,
+auto_outside_comm_for_run_normal_3,2026-07-27T01:48:17Z,2085,outside_communication,o,,,,,,,,true,run_normal_3
+run_normal_3,2026-07-27T01:48:32Z,2100,run_normal,e,0,,,,,,0|1,false,
+auto_outside_comm_for_grid_emergency_1,2026-07-27T01:50:17Z,2205,outside_communication,o,,,,,,,,true,grid_emergency_1
+grid_emergency_1,2026-07-27T01:50:32Z,2220,grid_emergency,g,13,300,338,,,,2|4,false,
+auto_outside_comm_for_run_normal_4,2026-07-27T02:00:17Z,2805,outside_communication,o,,,,,,,,true,run_normal_4
+run_normal_4,2026-07-27T02:00:32Z,2820,run_normal,e,0,,,,,,0|1,false,

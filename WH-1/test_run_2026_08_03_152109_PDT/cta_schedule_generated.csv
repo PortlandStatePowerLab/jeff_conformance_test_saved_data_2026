@@ -1,0 +1,7 @@
+# time,command,argument,event_id,value,units
+1785795670,o,,auto_outside_comm_for_load_up_1,,
+1785795685,l,0,load_up_1,,
+1785796480,o,,auto_outside_comm_heartbeat_01,,
+1785797290,o,,auto_outside_comm_heartbeat_02,,
+1785797470,o,,auto_outside_comm_for_run_normal_1,,
+1785797485,e,0,run_normal_1,,

@@ -1,9 +1,0 @@
-event_id,scheduled_pacific,offset_seconds,action,command_code,duration_byte,requested_duration_seconds,represented_duration_seconds,advanced_duration_minutes,advanced_value,advanced_units,expected_operational_states,generated,prerequisite_for
-auto_outside_comm_for_load_up_1,2026-08-02T09:59:28-07:00,-15,outside_communication,o,,,,,,,,true,load_up_1
-load_up_1,2026-08-02T09:59:43-07:00,0,load_up,l,0,,,,,,3|6,false,
-auto_outside_comm_for_run_normal_1,2026-08-02T11:29:28-07:00,5385,outside_communication,o,,,,,,,,true,run_normal_1
-run_normal_1,2026-08-02T11:29:43-07:00,5400,run_normal,e,0,,,,,,0|1,false,
-auto_outside_comm_for_load_up_2,2026-08-02T14:39:28-07:00,16785,outside_communication,o,,,,,,,,true,load_up_2
-load_up_2,2026-08-02T14:39:43-07:00,16800,load_up,l,0,,,,,,3|6,false,
-auto_outside_comm_for_run_normal_2,2026-08-02T15:39:28-07:00,20385,outside_communication,o,,,,,,,,true,run_normal_2
-run_normal_2,2026-08-02T15:39:43-07:00,20400,run_normal,e,0,,,,,,0|1,false,
