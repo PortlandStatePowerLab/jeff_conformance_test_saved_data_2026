@@ -1,0 +1,24 @@
+phase,timestamp_pacific,time_after_command,time_after_previous,milestone,observation,source
+ALU 1,2026-08-16 02:30:52.830000,0:00,0:00,Command accepted,Accepted,CTA
+ALU 1,2026-08-16 02:31:07.260000,0:14,0:14,Expected operational state first observed,State 6: Idle Heightened (expected 3 or 6),CTA state poll
+ALU 1,2026-08-16 03:39:37,1:08:44,1:08:30,EnergyTake first changed,270 to 300 Wh,Commodity poll
+Shed,2026-08-16 05:00:52.275000,0:00,1:21:15,Command accepted,Accepted,CTA
+Shed,2026-08-16 05:01:07.505000,0:15,0:15,Expected operational state first observed,State 4: Idle Curtailed (expected 2 or 4),CTA state poll
+Shed,2026-08-16 05:30:52.018000,30:00,29:45,water_draw_1 started,Target 15.00 gal,Water draw
+Shed,2026-08-16 05:33:37,32:45,2:45,EnergyTake first changed,300 to 330 Wh,Commodity poll
+Shed,2026-08-16 05:35:58.530000,35:06,2:22,water_draw_1 completed,Measured 15.02 gal,Water draw
+Shed,2026-08-16 06:00:52.158000,1:00:00,24:54,water_draw_2 started,Target 2.00 gal,Water draw
+Shed,2026-08-16 06:01:33.647000,1:00:41,0:41,water_draw_2 completed,Measured 2.02 gal,Water draw
+Shed,2026-08-16 06:06:36.808000,1:05:45,5:03,Fan started,"0.27 A, 30 W (inferred)",Power monitor
+Shed,2026-08-16 06:07:12.013000,1:06:20,0:35,Compressor started,"2.15 A, 289 W (inferred)",Power monitor
+Shed,2026-08-16 06:12:14.699000,1:11:22,5:03,Compressor stopped; fan remains on,"0.22 A, 21 W (inferred)",Power monitor
+Shed,2026-08-16 06:13:31.111000,1:12:39,1:16,Fan/load stopped,"0.00 A, 0 W (inferred)",Power monitor
+Shed,2026-08-16 06:33:36.763000,1:32:44,20:06,Fan started,"0.30 A, 32 W (inferred)",Power monitor
+Shed,2026-08-16 06:34:11.968000,1:33:20,0:35,Compressor started,"2.11 A, 282 W (inferred)",Power monitor
+Shed,2026-08-16 07:10:52.063000,2:10:00,36:40,water_draw_3 started,Target 9.00 gal,Water draw
+Shed,2026-08-16 07:13:54.092000,2:13:02,3:02,water_draw_3 completed,Measured 9.02 gal,Water draw
+Shed,2026-08-16 07:55:22.858000,2:54:31,41:29,Compressor stopped; fan remains on,"0.23 A, 23 W (inferred)",Power monitor
+Shed,2026-08-16 07:56:38.261000,2:55:46,1:15,Fan/load stopped,"0.00 A, 2 W (inferred)",Power monitor
+ALU 2,2026-08-16 08:10:52.901000,0:00,14:15,Command rejected,Rejected: bad_value,CTA
+Normal,2026-08-16 09:10:52.721000,0:00,1:00:00,Command accepted,Accepted,CTA
+Normal,2026-08-16 09:11:06.942000,0:14,0:14,Expected operational state first observed,State 0: Idle Normal (expected 0 or 1),CTA state poll
