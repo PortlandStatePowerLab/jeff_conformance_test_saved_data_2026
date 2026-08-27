@@ -1,0 +1,27 @@
+phase,timestamp_pacific,time_after_command,time_after_previous,milestone,observation,source
+Load Up 1,2026-08-02 10:13:50.732000,0:00,0:00,Command accepted,Accepted,CTA
+Load Up 1,2026-08-02 10:14:27.481000,0:37,0:37,Compressor ramp started,"0.87 A, 93 W (inferred)",Power monitor
+Load Up 1,2026-08-02 10:14:33.521000,0:43,0:06,Compressor started,"1.05 A, 117 W (inferred)",Power monitor
+Load Up 1,2026-08-02 10:14:35.403000,0:45,0:02,Expected operational state first observed,State 3: Running Heightened (expected 3 or 6),CTA state poll
+Load Up 1,2026-08-02 10:23:35,9:44,9:00,EnergyTake first changed,1170 to 1126 Wh,Commodity poll
+Load Up 1,2026-08-02 11:07:48.835000,53:58,44:14,Fan/load stopped,"0.00 A, 9 W (inferred)",Power monitor
+Normal 1,2026-08-02 11:43:51.105000,0:00,36:02,Command accepted,Accepted,CTA
+Normal 1,2026-08-02 11:44:35.778000,0:45,0:45,Expected operational state first observed,State 0: Idle Normal (expected 0 or 1),CTA state poll
+Normal 1,2026-08-02 12:13:50.028000,29:59,29:14,water_draw_1 started,Target 15.00 gal,Water draw
+Normal 1,2026-08-02 12:18:35,34:44,4:45,EnergyTake first changed,0 to 110 Wh,Commodity poll
+Normal 1,2026-08-02 12:20:55.112000,37:04,2:20,water_draw_1 completed,Measured 15.01 gal,Water draw
+Normal 1,2026-08-02 12:21:10.912000,37:20,0:16,Fan started,"0.21 A, 9 W (inferred)",Power monitor
+Normal 1,2026-08-02 12:21:26.007000,37:35,0:15,Fan/load stopped,"0.14 A, 1 W (inferred)",Power monitor
+Normal 1,2026-08-02 12:22:36.428000,38:45,1:10,Compressor ramp started,"0.91 A, 112 W (inferred)",Power monitor
+Normal 1,2026-08-02 12:22:37.435000,38:46,0:01,Compressor started,"1.06 A, 114 W (inferred)",Power monitor
+Normal 1,2026-08-02 12:43:50.065000,59:59,21:13,water_draw_2 started,Target 2.00 gal,Water draw
+Normal 1,2026-08-02 12:44:45.790000,1:00:55,0:56,water_draw_2 completed,Measured 2.02 gal,Water draw
+Normal 1,2026-08-02 13:34:44.734000,1:50:54,49:59,Fan/load stopped,"0.00 A, 10 W (inferred)",Power monitor
+Normal 1,2026-08-02 13:53:50.045000,2:09:59,19:05,water_draw_3 started,Target 9.00 gal,Water draw
+Normal 1,2026-08-02 13:58:09.243000,2:14:18,4:19,water_draw_3 completed,Measured 9.01 gal,Water draw
+Load Up 2,2026-08-02 14:53:50.552000,0:00,55:41,Command accepted,Accepted,CTA
+Load Up 2,2026-08-02 14:54:35.224000,0:45,0:45,Expected operational state first observed,State 6: Idle Heightened (expected 3 or 6),CTA state poll
+Load Up 2,2026-08-02 15:10:35,16:44,16:00,EnergyTake first changed,574 to 618 Wh,Commodity poll
+Normal 2,2026-08-02 15:53:50.991000,0:00,43:16,Command accepted,Accepted,CTA
+Normal 2,2026-08-02 15:54:35.659000,0:45,0:45,Expected operational state first observed,State 0: Idle Normal (expected 0 or 1),CTA state poll
+Normal 2,2026-08-02 16:05:35,11:44,10:59,EnergyTake first changed,684 to 729 Wh,Commodity poll

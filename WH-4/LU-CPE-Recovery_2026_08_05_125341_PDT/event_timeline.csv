@@ -1,0 +1,24 @@
+phase,timestamp_pacific,time_after_command,time_after_previous,milestone,observation,source
+Load Up 1,2026-08-05 12:53:57.817000,0:00,0:00,Command accepted,Accepted,CTA
+Load Up 1,2026-08-05 12:54:42.485000,0:45,0:45,Expected operational state first observed,State 3: Running Heightened (expected 3 or 6),CTA state poll
+Load Up 1,2026-08-05 12:55:37.882000,1:40,0:55,Compressor ramp started,"0.84 A, 201 W (inferred)",Power monitor
+Load Up 1,2026-08-05 12:55:42.912000,1:45,0:05,Compressor started,"1.16 A, 285 W (inferred)",Power monitor
+Load Up 1,2026-08-05 13:00:42,6:44,4:59,EnergyTake first changed,574 to 618 Wh,Commodity poll
+Load Up 1,2026-08-05 13:30:39.779000,36:42,29:58,Fan/load stopped,"0.00 A, 12 W (inferred)",Power monitor
+CP,2026-08-05 14:23:57.819000,0:00,53:18,Command accepted,Accepted,CTA
+CP,2026-08-05 14:24:42.469000,0:45,0:45,Expected operational state first observed,State 4: Idle Curtailed (expected 2 or 4),CTA state poll
+CP,2026-08-05 14:53:57.023000,29:59,29:15,water_draw_1 started,Target 15.00 gal,Water draw
+CP,2026-08-05 14:58:42,34:44,4:45,EnergyTake first changed,0 to 154 Wh,Commodity poll
+CP,2026-08-05 15:00:56.593000,36:59,2:15,water_draw_1 completed,Measured 15.01 gal,Water draw
+CP,2026-08-05 15:23:57.188000,59:59,23:01,water_draw_2 started,Target 2.00 gal,Water draw
+CP,2026-08-05 15:24:53.919000,1:00:56,0:57,water_draw_2 completed,Measured 2.00 gal,Water draw
+CP,2026-08-05 16:33:57.127000,2:09:59,1:09:03,water_draw_3 started,Target 9.00 gal,Water draw
+CP,2026-08-05 16:38:11.716000,2:14:14,4:15,water_draw_3 completed,Measured 9.01 gal,Water draw
+Load Up 2,2026-08-05 17:33:57.811000,0:00,55:46,Command accepted,Accepted,CTA
+Load Up 2,2026-08-05 17:34:42.488000,0:45,0:45,Expected operational state first observed,State 3: Running Heightened (expected 3 or 6),CTA state poll
+Load Up 2,2026-08-05 17:35:37.761000,1:40,0:55,Compressor ramp started,"0.91 A, 220 W (inferred)",Power monitor
+Load Up 2,2026-08-05 17:35:38.768000,1:41,0:01,Compressor started,"1.01 A, 244 W (inferred)",Power monitor
+Load Up 2,2026-08-05 17:36:42,2:44,1:03,EnergyTake first changed,3402 to 3446 Wh,Commodity poll
+Normal,2026-08-05 18:33:57.641000,0:00,57:16,Command accepted,Accepted,CTA
+Normal,2026-08-05 18:34:42.313000,0:45,0:45,Expected operational state first observed,State 1: Running Normal (expected 0 or 1),CTA state poll
+Normal,2026-08-05 18:35:42,1:44,1:00,EnergyTake first changed,1413 to 1369 Wh,Commodity poll

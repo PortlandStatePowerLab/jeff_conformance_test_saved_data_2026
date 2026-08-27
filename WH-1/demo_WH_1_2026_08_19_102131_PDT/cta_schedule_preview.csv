@@ -1,5 +1,0 @@
-event_id,scheduled_pacific,offset_seconds,action,command_code,duration_byte,requested_duration_seconds,represented_duration_seconds,advanced_duration_minutes,advanced_value,advanced_units,advanced_efficiency,expected_operational_states,generated,prerequisite_for
-auto_outside_comm_for_load_up_1,2026-08-19T10:21:32-07:00,-15,outside_communication,o,,,,,,,,,true,load_up_1
-load_up_1,2026-08-19T10:21:47-07:00,0,load_up,l,0,,,,,,,3|6,false,
-auto_outside_comm_for_run_normal_1,2026-08-19T10:24:32-07:00,165,outside_communication,o,,,,,,,,,true,run_normal_1
-run_normal_1,2026-08-19T10:24:47-07:00,180,run_normal,e,0,,,,,,,0|1,false,

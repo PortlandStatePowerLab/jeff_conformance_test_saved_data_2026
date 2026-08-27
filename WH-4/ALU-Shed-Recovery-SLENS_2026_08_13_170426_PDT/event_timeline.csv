@@ -1,0 +1,25 @@
+phase,timestamp_pacific,time_after_command,time_after_previous,milestone,observation,source
+ALU 1,2026-08-13 17:04:42.413000,0:00,0:00,Command accepted,Accepted,CTA
+ALU 1,2026-08-13 17:04:57.900000,0:15,0:15,Expected operational state first observed,State 3: Running Heightened (expected 3 or 6),CTA state poll
+ALU 1,2026-08-13 17:06:21.390000,1:39,1:23,Compressor ramp started,"0.96 A, 236 W (inferred)",Power monitor
+ALU 1,2026-08-13 17:06:23.403000,1:41,0:02,Compressor started,"1.16 A, 289 W (inferred)",Power monitor
+ALU 1,2026-08-13 17:23:27,18:45,17:04,EnergyTake first changed,3932 to 3866 Wh,Commodity poll
+Shed,2026-08-13 19:34:42.371000,0:00,2:11:15,Command accepted,Accepted,CTA
+Shed,2026-08-13 19:34:57.686000,0:15,0:15,Expected operational state first observed,State 4: Idle Curtailed (expected 2 or 4),CTA state poll
+Shed,2026-08-13 19:35:08.109000,0:26,0:10,Fan/load stopped,"0.00 A, 11 W (inferred)",Power monitor
+Shed,2026-08-13 19:37:27,2:45,2:19,EnergyTake first changed,220 to 176 Wh,Commodity poll
+Shed,2026-08-13 20:04:42.204000,30:00,27:15,water_draw_1 started,Target 15.00 gal,Water draw
+Shed,2026-08-13 20:13:09.610000,38:27,8:27,water_draw_1 completed,Measured 15.00 gal,Water draw
+Shed,2026-08-13 20:34:42.065000,1:00:00,21:32,water_draw_2 started,Target 2.00 gal,Water draw
+Shed,2026-08-13 20:35:47.421000,1:01:05,1:05,water_draw_2 completed,Measured 2.00 gal,Water draw
+Shed,2026-08-13 21:44:42.091000,2:10:00,1:08:55,water_draw_3 started,Target 9.00 gal,Water draw
+Shed,2026-08-13 21:49:32.183000,2:14:50,4:50,water_draw_3 completed,Measured 9.01 gal,Water draw
+ALU 2,2026-08-13 22:44:43.018000,0:00,55:11,Command accepted,Accepted,CTA
+ALU 2,2026-08-13 22:44:57.501000,0:14,0:14,Expected operational state first observed,State 3: Running Heightened (expected 3 or 6),CTA state poll
+ALU 2,2026-08-13 22:46:22.590000,1:40,1:25,Compressor ramp started,"0.81 A, 193 W (inferred)",Power monitor
+ALU 2,2026-08-13 22:46:23.597000,1:41,0:01,Compressor started,"1.04 A, 254 W (inferred)",Power monitor
+ALU 2,2026-08-13 22:49:27,4:44,3:03,EnergyTake first changed,5081 to 5037 Wh,Commodity poll
+Normal,2026-08-13 23:44:42.729000,0:00,55:16,Command accepted,Accepted,CTA
+Normal,2026-08-13 23:44:57.986000,0:15,0:15,Expected operational state first observed,State 0: Idle Normal (expected 0 or 1),CTA state poll
+Normal,2026-08-13 23:45:08.015000,0:25,0:10,Fan/load stopped,"0.08 A, 19 W (inferred)",Power monitor
+Normal,2026-08-13 23:47:28,2:45,2:20,EnergyTake first changed,2651 to 2584 Wh,Commodity poll

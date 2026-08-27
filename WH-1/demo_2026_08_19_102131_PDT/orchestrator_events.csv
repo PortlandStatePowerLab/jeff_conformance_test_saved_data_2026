@@ -1,0 +1,13 @@
+timestamp_pacific,test_elapsed_seconds,event_id,event,status,details
+2026-08-19T10:21:31.298-07:00,0.000,,run_created,ok,"{""run_directory"":""/home/pi/conformance_testing_team/saved_data/conformance_runs/WH-1/demo_WH_1_2026_08_19_102131_PDT"",""water_output_enabled"":true,""outside_communication_heartbeat_enabled"":true}"
+2026-08-19T10:21:31.502-07:00,0.205,,power_monitor,ready,"{""pid"":18978}"
+2026-08-19T10:21:32.547-07:00,1.250,,cta_controller,started,"{""pid"":18979}"
+2026-08-19T10:21:32.548-07:00,-14.452,,test_start_scheduled,pending,"{""test_start_pacific"":""2026-08-19T10:21:47.000-07:00""}"
+2026-08-19T10:21:47.178-07:00,0.179,,test_started,ok,{}
+2026-08-19T10:21:52.198-07:00,5.199,water_draw_1,water_draw_started,started,"{""pid"":18985,""target_volume_gal"":6.0}"
+2026-08-19T10:26:51.997-07:00,304.998,,run_interrupted,requested,{}
+2026-08-19T10:26:52.064-07:00,305.065,water_draw_1,water_draw_shutdown,stopped,{}
+2026-08-19T10:26:52.065-07:00,305.065,,cta_return_to_normal,requested,{}
+2026-08-19T10:26:54.683-07:00,307.684,,cta_return_to_normal,completed,"{""return_code"":0}"
+2026-08-19T10:26:54.716-07:00,307.716,,power_monitor_shutdown,stopped,{}
+2026-08-19T10:26:54.716-07:00,307.717,,run_finished,interrupted,{}

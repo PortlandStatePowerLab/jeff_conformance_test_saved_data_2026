@@ -1,0 +1,27 @@
+phase,timestamp_pacific,time_after_command,time_after_previous,milestone,observation,source
+Load Up 1,2026-08-03 18:13:13.258000,0:00,0:00,Command accepted,Accepted,CTA
+Normal 1,2026-08-03 19:43:13.981000,0:00,1:30:01,Command accepted,Accepted,CTA
+Load Up 1,2026-08-03 19:43:13.981000,1:30:01,0:00,Expected operational state not observed,Expected 3 or 6,CTA state poll
+Normal 1,2026-08-03 19:43:59.573000,0:46,0:46,Expected operational state first observed,State 0: Idle Normal (expected 0 or 1),CTA state poll
+Normal 1,2026-08-03 20:13:13.156000,29:59,29:14,water_draw_1 started,Target 15.00 gal,Water draw
+Normal 1,2026-08-03 20:15:59,32:45,2:46,EnergyTake first changed,0 to 300 Wh,Commodity poll
+Normal 1,2026-08-03 20:16:55.564000,33:42,0:57,Fan started,"0.23 A, 50 W (inferred)",Power monitor
+Normal 1,2026-08-03 20:17:59.926000,34:46,1:04,Compressor started,"1.03 A, 215 W (inferred)",Power monitor
+Normal 1,2026-08-03 20:18:06.651000,34:53,0:07,water_draw_1 completed,Measured 15.02 gal,Water draw
+Normal 1,2026-08-03 20:43:13.033000,59:59,25:06,water_draw_2 started,Target 2.00 gal,Water draw
+Normal 1,2026-08-03 20:43:50.920000,1:00:37,0:38,water_draw_2 completed,Measured 2.02 gal,Water draw
+Normal 1,2026-08-03 21:51:18.543000,2:08:05,1:07:28,Fan/load stopped,"0.17 A, 42 W (inferred)",Power monitor
+Normal 1,2026-08-03 21:51:24.579000,2:08:11,0:06,Fan started,"0.21 A, 50 W (inferred)",Power monitor
+Normal 1,2026-08-03 21:53:13.156000,2:09:59,1:49,water_draw_3 started,Target 9.00 gal,Water draw
+Normal 1,2026-08-03 21:54:47.708000,2:11:34,1:35,Fan/load stopped,"0.00 A, 1 W (inferred)",Power monitor
+Normal 1,2026-08-03 21:56:03.961000,2:12:50,1:16,water_draw_3 completed,Measured 9.03 gal,Water draw
+Normal 1,2026-08-03 21:56:37.330000,2:13:23,0:33,Fan started,"0.21 A, 46 W (inferred)",Power monitor
+Normal 1,2026-08-03 21:57:40.680000,2:14:27,1:03,Compressor started,"1.11 A, 231 W (inferred)",Power monitor
+Normal 1,2026-08-03 22:29:05.387000,2:45:51,31:25,Fan/load stopped,"0.18 A, 43 W (inferred)",Power monitor
+Normal 1,2026-08-03 22:29:11.423000,2:45:57,0:06,Fan started,"0.21 A, 48 W (inferred)",Power monitor
+Normal 1,2026-08-03 22:32:35.592000,2:49:22,3:24,Fan/load stopped,"0.00 A, 2 W (inferred)",Power monitor
+Load Up 2,2026-08-03 22:53:13.782000,0:00,20:38,Command accepted,Accepted,CTA
+Load Up 2,2026-08-03 23:40:58,47:44,47:44,EnergyTake first changed,0 to 150 Wh,Commodity poll
+Normal 2,2026-08-03 23:53:13.260000,0:00,12:15,Command accepted,Accepted,CTA
+Load Up 2,2026-08-03 23:53:13.260000,59:59,0:00,Expected operational state not observed,Expected 3 or 6,CTA state poll
+Normal 2,2026-08-03 23:53:58.868000,0:46,0:46,Expected operational state first observed,State 0: Idle Normal (expected 0 or 1),CTA state poll

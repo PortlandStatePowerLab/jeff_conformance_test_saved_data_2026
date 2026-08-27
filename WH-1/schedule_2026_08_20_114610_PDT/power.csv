@@ -1,5 +1,0 @@
-timestamp_pacific,monitor_elapsed_seconds,status,record_reason,voltage_rms,current_rms,real_power,reactive_power,apparent_power,power_factor
-2026-08-20T11:46:10.346-07:00,0.001,ok,initial_sample,479.123,0.000,6.025,5.021,7.699,-0.738
-2026-08-20T11:47:10.665-07:00,60.316,ok,heartbeat,478.228,0.000,6.695,4.686,8.034,-0.791
-2026-08-20T11:48:10.979-07:00,120.630,ok,heartbeat,479.288,0.000,6.695,5.356,8.368,-0.760
-2026-08-20T11:49:11.310-07:00,180.962,ok,heartbeat,478.367,0.000,6.025,5.021,9.038,-0.852

@@ -1,0 +1,24 @@
+phase,timestamp_pacific,time_after_command,time_after_previous,milestone,observation,source
+Load Up 1,2026-08-03 18:25:11.933000,0:00,0:00,Command accepted,Accepted,CTA
+Load Up 1,2026-08-03 18:25:56.534000,0:45,0:45,Expected operational state first observed,State 6: Idle Heightened (expected 3 or 6),CTA state poll
+Load Up 1,2026-08-03 18:43:55,18:43,17:58,EnergyTake first changed,60 to 90 Wh,Commodity poll
+Normal 1,2026-08-03 19:55:11.420000,0:00,1:11:16,Command accepted,Accepted,CTA
+Normal 1,2026-08-03 19:55:57.028000,0:46,0:46,Expected operational state first observed,State 0: Idle Normal (expected 0 or 1),CTA state poll
+Normal 1,2026-08-03 20:22:56,27:45,26:59,EnergyTake first changed,90 to 120 Wh,Commodity poll
+Normal 1,2026-08-03 20:25:11.032000,30:00,2:15,water_draw_1 started,Target 15.00 gal,Water draw
+Normal 1,2026-08-03 20:29:55.312000,34:44,4:44,water_draw_1 completed,Measured 15.00 gal,Water draw
+Normal 1,2026-08-03 20:33:01.365000,37:50,3:06,Fan started,"0.26 A, 30 W (inferred)",Power monitor
+Normal 1,2026-08-03 20:33:36.587000,38:25,0:35,Compressor started,"2.16 A, 292 W (inferred)",Power monitor
+Normal 1,2026-08-03 20:55:11.200000,1:00:00,21:35,water_draw_2 started,Target 2.00 gal,Water draw
+Normal 1,2026-08-03 20:55:50.697000,1:00:39,0:39,water_draw_2 completed,Measured 2.02 gal,Water draw
+Normal 1,2026-08-03 21:43:22.917000,1:48:11,47:32,Compressor stopped; fan remains on,"0.22 A, 23 W (inferred)",Power monitor
+Normal 1,2026-08-03 21:44:39.387000,1:49:28,1:16,Fan/load stopped,"0.00 A, 2 W (inferred)",Power monitor
+Normal 1,2026-08-03 22:05:11.159000,2:10:00,20:32,water_draw_3 started,Target 9.00 gal,Water draw
+Normal 1,2026-08-03 22:08:04.373000,2:12:53,2:53,water_draw_3 completed,Measured 9.01 gal,Water draw
+Load Up 2,2026-08-03 23:05:11.948000,0:00,57:08,Command accepted,Accepted,CTA
+Load Up 2,2026-08-03 23:05:38.649000,0:27,0:27,Fan started,"0.24 A, 28 W (inferred)",Power monitor
+Load Up 2,2026-08-03 23:05:56.549000,0:45,0:18,Expected operational state first observed,State 3: Running Heightened (expected 3 or 6),CTA state poll
+Load Up 2,2026-08-03 23:06:13.855000,1:02,0:17,Compressor started,"2.20 A, 294 W (inferred)",Power monitor
+Load Up 2,2026-08-03 23:07:56,2:44,1:42,EnergyTake first changed,606 to 636 Wh,Commodity poll
+Normal 2,2026-08-04 00:05:12.139000,0:00,57:16,Command accepted,Accepted,CTA
+Normal 2,2026-08-04 00:05:56.756000,0:45,0:45,Expected operational state first observed,State 1: Running Normal (expected 0 or 1),CTA state poll

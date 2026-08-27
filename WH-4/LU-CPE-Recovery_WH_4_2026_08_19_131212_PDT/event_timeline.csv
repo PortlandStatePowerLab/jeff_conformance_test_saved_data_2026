@@ -1,0 +1,20 @@
+phase,timestamp_pacific,time_after_command,time_after_previous,milestone,observation,source
+Load Up 1,2026-08-19 13:12:29.726000,0:00,0:00,Command accepted,Accepted,CTA
+Load Up 1,2026-08-19 13:12:43.978000,0:14,0:14,Expected operational state first observed,State 6: Idle Heightened (expected 3 or 6),CTA state poll
+CP,2026-08-19 14:42:29.730000,0:00,1:29:46,Command accepted,Accepted,CTA
+CP,2026-08-19 14:42:43.991000,0:14,0:14,Expected operational state first observed,State 4: Idle Curtailed (expected 2 or 4),CTA state poll
+CP,2026-08-19 15:12:29.072000,29:59,29:45,water_draw_1 started,Target 15.00 gal,Water draw
+CP,2026-08-19 15:16:14,33:44,3:45,EnergyTake first changed,0 to 88 Wh,Commodity poll
+CP,2026-08-19 15:20:12.988000,37:43,3:59,water_draw_1 completed,Measured 15.01 gal,Water draw
+CP,2026-08-19 15:42:29.142000,59:59,22:16,water_draw_2 started,Target 2.00 gal,Water draw
+CP,2026-08-19 15:43:30.284000,1:01:01,1:01,water_draw_2 completed,Measured 2.01 gal,Water draw
+CP,2026-08-19 16:52:29.007000,2:09:59,1:08:59,water_draw_3 started,Target 9.00 gal,Water draw
+CP,2026-08-19 16:57:09.269000,2:14:40,4:40,water_draw_3 completed,Measured 9.01 gal,Water draw
+Load Up 2,2026-08-19 17:52:29.345000,0:00,55:20,Command accepted,Accepted,CTA
+Load Up 2,2026-08-19 17:52:44.601000,0:15,0:15,Expected operational state first observed,State 3: Running Heightened (expected 3 or 6),CTA state poll
+Load Up 2,2026-08-19 17:54:08.627000,1:39,1:24,Compressor ramp started,"0.66 A, 158 W (inferred)",Power monitor
+Load Up 2,2026-08-19 17:54:13.658000,1:44,0:05,Compressor started,"1.20 A, 300 W (inferred)",Power monitor
+Load Up 2,2026-08-19 18:00:14,7:45,6:00,EnergyTake first changed,2496 to 2430 Wh,Commodity poll
+Normal,2026-08-19 18:52:29.952000,0:00,52:16,Command accepted,Accepted,CTA
+Normal,2026-08-19 18:52:44.208000,0:14,0:14,Expected operational state first observed,State 1: Running Normal (expected 0 or 1),CTA state poll
+Normal,2026-08-19 18:54:14,1:44,1:30,EnergyTake first changed,817 to 751 Wh,Commodity poll

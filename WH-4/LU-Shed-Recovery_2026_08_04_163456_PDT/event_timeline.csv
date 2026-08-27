@@ -1,0 +1,21 @@
+phase,timestamp_pacific,time_after_command,time_after_previous,milestone,observation,source
+Load Up 1,2026-08-04 16:35:12.783000,0:00,0:00,Command accepted,Accepted,CTA
+Load Up 1,2026-08-04 16:35:57.454000,0:45,0:45,Expected operational state first observed,State 6: Idle Heightened (expected 3 or 6),CTA state poll
+Load Up 1,2026-08-04 17:11:57,36:44,36:00,EnergyTake first changed,220 to 265 Wh,Commodity poll
+Shed,2026-08-04 18:05:12.690000,0:00,53:16,Command accepted,Accepted,CTA
+Shed,2026-08-04 18:05:57.353000,0:45,0:45,Expected operational state first observed,State 4: Idle Curtailed (expected 2 or 4),CTA state poll
+Shed,2026-08-04 18:35:12.049000,29:59,29:15,water_draw_1 started,Target 15.00 gal,Water draw
+Shed,2026-08-04 18:36:57,31:44,1:45,EnergyTake first changed,309 to 353 Wh,Commodity poll
+Shed,2026-08-04 18:42:09.628000,36:57,5:13,water_draw_1 completed,Measured 15.00 gal,Water draw
+Shed,2026-08-04 19:05:12.164000,59:59,23:03,water_draw_2 started,Target 2.00 gal,Water draw
+Shed,2026-08-04 19:06:08.286000,1:00:56,0:56,water_draw_2 completed,Measured 2.01 gal,Water draw
+Shed,2026-08-04 20:15:12.090000,2:09:59,1:09:04,water_draw_3 started,Target 9.00 gal,Water draw
+Shed,2026-08-04 20:19:24.070000,2:14:11,4:12,water_draw_3 completed,Measured 9.01 gal,Water draw
+Load Up 2,2026-08-04 21:15:12.568000,0:00,55:48,Command accepted,Accepted,CTA
+Load Up 2,2026-08-04 21:15:58.241000,0:46,0:46,Expected operational state first observed,State 3: Running Heightened (expected 3 or 6),CTA state poll
+Load Up 2,2026-08-04 21:16:51.166000,1:39,0:53,Compressor ramp started,"0.78 A, 183 W (inferred)",Power monitor
+Load Up 2,2026-08-04 21:16:56.199000,1:44,0:05,Compressor started,"1.01 A, 244 W (inferred)",Power monitor
+Load Up 2,2026-08-04 21:16:57,1:44,0:01,EnergyTake first changed,3026 to 3070 Wh,Commodity poll
+Normal,2026-08-04 22:15:12.431000,0:00,58:15,Command accepted,Accepted,CTA
+Normal,2026-08-04 22:15:58.103000,0:46,0:46,Expected operational state first observed,State 1: Running Normal (expected 0 or 1),CTA state poll
+Normal,2026-08-04 22:16:57,1:45,0:59,EnergyTake first changed,1237 to 1193 Wh,Commodity poll
