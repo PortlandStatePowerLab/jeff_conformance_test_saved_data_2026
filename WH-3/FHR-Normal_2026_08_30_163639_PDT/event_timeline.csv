@@ -1,0 +1,8 @@
+phase,timestamp_pacific,time_after_command,time_after_previous,milestone,observation,source
+Load Up,2026-08-30 16:36:56.453000,0:00,0:00,Command accepted,Accepted,CTA
+Load Up,2026-08-30 16:37:10.675000,0:14,0:14,Expected operational state first observed,State 6: Idle Heightened (expected 3 or 6),CTA state poll
+Load Up,2026-08-30 16:37:25.213000,0:29,0:15,Fan started,"0.30 A, 32 W (inferred)",Power monitor
+Load Up,2026-08-30 16:37:58.372000,1:02,0:33,Compressor started,"2.13 A, 282 W (inferred)",Power monitor
+Load Up,2026-08-30 16:40:41,3:45,2:43,EnergyTake first changed,120 to 180 Wh,Commodity poll
+Normal,2026-08-30 16:43:06.469000,0:00,2:25,Command accepted,Accepted,CTA
+Normal,2026-08-30 16:43:08.964000,0:02,0:02,Expected operational state not observed,Expected 0 or 1,CTA state poll
