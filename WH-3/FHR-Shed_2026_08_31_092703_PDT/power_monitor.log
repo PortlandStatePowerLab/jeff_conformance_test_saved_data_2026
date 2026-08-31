@@ -1,0 +1,4 @@
+POWER_MONITOR_READY {"output_csv": "/home/pi/conformance_testing_team/saved_data/conformance_runs/WH-3/FHR-Shed_2026_08_31_092703_PDT/power.csv", "timestamp_pacific": "2026-08-31T09:27:03.761-07:00"}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T09:27:03.763-07:00", "status": "ok", "reasons": ["initial_sample"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T09:28:04.083-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_STOPPED {"output_csv": "/home/pi/conformance_testing_team/saved_data/conformance_runs/WH-3/FHR-Shed_2026_08_31_092703_PDT/power.csv", "timestamp_pacific": "2026-08-31T09:28:37.506-07:00"}

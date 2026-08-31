@@ -1,0 +1,13 @@
+timestamp_pacific,test_elapsed_seconds,event_id,event,status,details
+2026-08-31T09:27:03.619-07:00,0.000,,run_created,ok,"{""run_directory"":""/home/pi/conformance_testing_team/saved_data/conformance_runs/WH-3/FHR-Shed_2026_08_31_092703_PDT"",""water_output_enabled"":true,""outside_communication_heartbeat_enabled"":true}"
+2026-08-31T09:27:03.822-07:00,0.204,,power_monitor,ready,"{""pid"":3087}"
+2026-08-31T09:27:04.852-07:00,1.234,,cta_controller,started,"{""pid"":3088}"
+2026-08-31T09:27:04.852-07:00,-14.147,,test_start_scheduled,pending,"{""test_start_pacific"":""2026-08-31T09:27:19.000-07:00""}"
+2026-08-31T09:27:19.085-07:00,0.086,,test_started,ok,{}
+2026-08-31T09:27:19.086-07:00,0.087,water_draw_1,cut_in_armed,waiting_for_cta,"{""cta_event_id"":""shed_1"",""cta_action"":""shed"",""cut_in_state"":2,""cut_out_state"":4}"
+2026-08-31T09:27:20.292-07:00,1.293,water_draw_1,cut_in_waiting_for_initial_cut_out,waiting,{}
+2026-08-31T09:28:34.678-07:00,75.678,,run_error,failed,"{""error_type"":""CutInStateError"",""message"":""three consecutive unexpected OpState readings""}"
+2026-08-31T09:28:34.681-07:00,75.682,,cta_return_to_normal,requested,{}
+2026-08-31T09:28:37.505-07:00,78.506,,cta_return_to_normal,completed,"{""return_code"":0}"
+2026-08-31T09:28:37.571-07:00,78.571,,power_monitor_shutdown,stopped,{}
+2026-08-31T09:28:37.571-07:00,78.572,,run_finished,failed,{}
