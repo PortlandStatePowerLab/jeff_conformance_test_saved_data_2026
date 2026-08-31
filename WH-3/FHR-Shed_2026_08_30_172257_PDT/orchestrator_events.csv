@@ -1,0 +1,17 @@
+timestamp_pacific,test_elapsed_seconds,event_id,event,status,details
+2026-08-30T17:22:58.080-07:00,0.000,,run_created,ok,"{""run_directory"":""/home/pi/conformance_testing_team/saved_data/conformance_runs/WH-3/FHR-Shed_2026_08_30_172257_PDT"",""water_output_enabled"":true,""outside_communication_heartbeat_enabled"":true}"
+2026-08-30T17:22:58.284-07:00,0.204,,power_monitor,ready,"{""pid"":452}"
+2026-08-30T17:22:59.306-07:00,1.226,,cta_controller,started,"{""pid"":453}"
+2026-08-30T17:22:59.306-07:00,-14.693,,test_start_scheduled,pending,"{""test_start_pacific"":""2026-08-30T17:23:14.000-07:00""}"
+2026-08-30T17:23:14.141-07:00,0.142,,test_started,ok,{}
+2026-08-30T17:23:14.142-07:00,0.143,water_draw_1,cut_in_armed,waiting_for_cta,"{""cta_event_id"":""shed_1"",""cta_action"":""shed"",""cut_in_state"":2,""cut_out_state"":4}"
+2026-08-30T17:23:14.747-07:00,0.747,water_draw_1,cut_in_waiting_for_initial_cut_out,waiting,{}
+2026-08-30T17:23:28.992-07:00,14.992,water_draw_1,cut_in_initial_cut_out,water_draw_started,"{""operational_state"":4,""pid"":474,""max_draw_minutes"":180.0}"
+2026-08-30T17:23:28.993-07:00,14.993,water_draw_1,water_draw_started,started,"{""pid"":474,""draw_type"":""cut-in"",""max_draw_minutes"":180.0}"
+2026-08-30T17:31:59.363-07:00,525.363,water_draw_1,water_draw_completed,ok,"{""return_code"":5,""reason"":""cut_in_observed""}"
+2026-08-30T17:31:59.363-07:00,525.364,water_draw_1,cut_in_observed,water_stopped,"{""operational_state"":2}"
+2026-08-30T17:34:00.091-07:00,646.092,,run_error,failed,"{""error_type"":""CutInStateError"",""message"":""three consecutive unexpected OpState readings""}"
+2026-08-30T17:34:00.095-07:00,646.095,,cta_return_to_normal,requested,{}
+2026-08-30T17:34:02.970-07:00,648.971,,cta_return_to_normal,completed,"{""return_code"":0}"
+2026-08-30T17:34:03.036-07:00,649.037,,power_monitor_shutdown,stopped,{}
+2026-08-30T17:34:03.037-07:00,649.037,,run_finished,failed,{}
