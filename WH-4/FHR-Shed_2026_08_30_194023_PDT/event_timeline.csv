@@ -1,0 +1,13 @@
+phase,timestamp_pacific,time_after_command,time_after_previous,milestone,observation,source
+Shed,2026-08-30 19:40:41.004000,0:00,0:00,Command accepted,Accepted,CTA
+Shed,2026-08-30 19:40:55.354000,0:14,0:14,Expected operational state first observed,State 4: Idle Curtailed (expected 2 or 4),CTA state poll
+Shed,2026-08-30 19:40:55.490000,0:14,0:00,water_draw_1 started,Cut-in; max 180 min,Water draw
+Shed,2026-08-30 19:43:26,2:45,2:31,EnergyTake first changed,596 to 640 Wh,Commodity poll
+Shed,2026-08-30 20:03:26.134000,22:45,20:00,water_draw_1 completed,Measured 44.67 gal,Water draw
+Shed,2026-08-30 20:04:55.511000,24:15,1:29,Compressor ramp started,"0.86 A, 197 W (inferred)",Power monitor
+Shed,2026-08-30 20:05:37.763000,24:57,0:42,Compressor started,"1.07 A, 263 W (inferred)",Power monitor
+Shed,2026-08-30 21:51:26.584000,2:10:46,1:45:49,water_draw_2 started,Temperature drop target 15 °F,Water draw
+Shed,2026-08-30 21:51:47.832000,2:11:07,0:21,Fan/load stopped,"0.08 A, 19 W (inferred)",Power monitor
+Shed,2026-08-30 22:04:44.930000,2:24:04,12:57,Compressor ramp started,"0.84 A, 198 W (inferred)",Power monitor
+Shed,2026-08-30 22:04:49.960000,2:24:09,0:05,Compressor started,"1.08 A, 266 W (inferred)",Power monitor
+Shed,2026-08-30 22:51:28.818000,3:10:48,46:39,water_draw_2 completed,Measured 112.21 gal,Water draw
