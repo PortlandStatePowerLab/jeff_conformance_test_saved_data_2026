@@ -1,0 +1,18 @@
+phase,timestamp_pacific,time_after_command,time_after_previous,milestone,observation,source
+CP,2026-08-31 19:24:57.601000,0:00,0:00,Command accepted,Accepted,CTA
+CP,2026-08-31 19:25:11.916000,0:14,0:14,Expected operational state first observed,State 4: Idle Curtailed (expected 2 or 4),CTA state poll
+CP,2026-08-31 19:25:12.098000,0:14,0:00,water_draw_1 started,Cut-in; max 180 min,Water draw
+CP,2026-08-31 19:26:42,1:44,1:30,EnergyTake first changed,525 to 600 Wh,Commodity poll
+CP,2026-08-31 19:35:59.883000,11:02,9:18,Fan started,"0.24 A, 51 W (inferred)",Power monitor
+CP,2026-08-31 19:36:56.193000,11:59,0:56,Compressor and element operating,"22.16 A, 5340 W (inferred)",Power monitor
+CP,2026-08-31 19:37:12.271000,12:15,0:16,Operational state changed,State 2: Running Curtailed (expected),CTA state poll
+CP,2026-08-31 19:37:12.503000,12:15,0:00,water_draw_1 completed,Measured 38.21 gal,Water draw
+CP,2026-08-31 19:46:30.352000,21:33,9:18,Resistance element stopped; compressor remains on,"1.59 A, 358 W (inferred)",Power monitor
+CP,2026-08-31 21:28:59.189000,2:04:02,1:42:29,Fan/load stopped,"0.17 A, 43 W (inferred)",Power monitor
+CP,2026-08-31 21:29:12.763000,2:04:15,0:14,Operational state changed,State 4: Idle Curtailed (expected),CTA state poll
+CP,2026-08-31 21:29:12.903000,2:04:15,0:00,water_draw_2 started,Temperature drop target 15 °F,Water draw
+CP,2026-08-31 21:34:03.765000,2:09:06,4:51,Fan started,"0.22 A, 49 W (inferred)",Power monitor
+CP,2026-08-31 21:35:08.129000,2:10:11,1:04,Compressor started,"1.20 A, 262 W (inferred)",Power monitor
+CP,2026-08-31 21:36:42.722000,2:11:45,1:35,Operational state changed,State 2: Running Curtailed (expected),CTA state poll
+CP,2026-08-31 21:40:40.840000,2:15:43,3:58,Compressor and element operating,"23.27 A, 5593 W (inferred)",Power monitor
+CP,2026-08-31 22:29:14.904000,3:04:17,48:34,water_draw_2 completed,Measured 203.43 gal,Water draw
