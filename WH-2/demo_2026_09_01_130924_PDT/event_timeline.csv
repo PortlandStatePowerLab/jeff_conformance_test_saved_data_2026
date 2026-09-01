@@ -1,0 +1,10 @@
+phase,timestamp_pacific,time_after_command,time_after_previous,milestone,observation,source
+Load Up,2026-09-01 13:09:41.548000,0:00,0:00,Command accepted,Accepted,CTA
+Load Up,2026-09-01 13:09:46.123000,0:05,0:05,water_draw_1 started,Target 4.00 gal,Water draw
+Load Up,2026-09-01 13:09:55.764000,0:14,0:10,Operational state changed,State 4: Idle Curtailed (not expected; expected 3 or 6),CTA state poll
+Load Up,2026-09-01 13:09:58.324000,0:17,0:03,Fan started,"0.23 A, 51 W (inferred)",Power monitor
+Load Up,2026-09-01 13:11:01.685000,1:20,1:03,Compressor started,"1.12 A, 228 W (inferred)",Power monitor
+Load Up,2026-09-01 13:11:04.525000,1:23,0:03,water_draw_1 completed,Measured 4.00 gal,Water draw
+Normal,2026-09-01 13:12:41.428000,0:00,1:37,Command accepted,Accepted,CTA
+Load Up,2026-09-01 13:12:41.428000,3:00,0:00,Expected operational state not observed,Expected 3 or 6,CTA state poll
+Normal,2026-09-01 13:12:56.647000,0:15,0:15,Expected operational state first observed,State 1: Running Normal (expected 0 or 1),CTA state poll
