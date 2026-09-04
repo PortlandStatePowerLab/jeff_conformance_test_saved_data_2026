@@ -1,0 +1,16 @@
+timestamp_pacific,test_elapsed_seconds,event_id,event,status,details
+2026-09-03T12:05:34.156-07:00,0.000,,run_created,ok,"{""run_directory"":""/home/pi/conformance_testing_team/saved_data/conformance_runs/WH-1/ALU-Shed-Recovery-SLE1_2026_09_03_120533_PDT"",""water_output_enabled"":true,""outside_communication_heartbeat_enabled"":true}"
+2026-09-03T12:05:34.360-07:00,0.204,,power_monitor,ready,"{""pid"":7712}"
+2026-09-03T12:05:35.398-07:00,1.242,,cta_controller,started,"{""pid"":7713}"
+2026-09-03T12:05:35.398-07:00,-14.601,,test_start_scheduled,pending,"{""test_start_pacific"":""2026-09-03T12:05:50.000-07:00""}"
+2026-09-03T12:05:50.032-07:00,0.033,,test_started,ok,{}
+2026-09-03T15:05:50.173-07:00,10800.174,water_draw_1,water_draw_started,started,"{""pid"":8463,""draw_type"":""volume"",""target_volume_gal"":15.0,""temp_drop_f"":null}"
+2026-09-03T15:10:23.715-07:00,11073.716,water_draw_1,water_draw_completed,ok,"{""return_code"":0}"
+2026-09-03T15:35:50.039-07:00,12600.040,water_draw_2,water_draw_started,started,"{""pid"":8797,""draw_type"":""volume"",""target_volume_gal"":2.0,""temp_drop_f"":null}"
+2026-09-03T15:36:27.394-07:00,12637.395,water_draw_2,water_draw_completed,ok,"{""return_code"":0}"
+2026-09-03T16:45:50.081-07:00,16800.082,water_draw_3,water_draw_started,started,"{""pid"":9002,""draw_type"":""volume"",""target_volume_gal"":9.0,""temp_drop_f"":null}"
+2026-09-03T16:48:31.730-07:00,16961.731,water_draw_3,water_draw_completed,ok,"{""return_code"":0}"
+2026-09-03T19:05:50.150-07:00,25200.150,,cta_return_to_normal,requested,{}
+2026-09-03T19:05:52.974-07:00,25202.975,,cta_return_to_normal,completed,"{""return_code"":0}"
+2026-09-03T19:05:53.040-07:00,25203.040,,power_monitor_shutdown,stopped,{}
+2026-09-03T19:05:53.040-07:00,25203.041,,run_finished,completed,{}

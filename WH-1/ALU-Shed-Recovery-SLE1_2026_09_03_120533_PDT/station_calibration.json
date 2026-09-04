@@ -1,0 +1,136 @@
+{
+  "power": {
+    "model_number": "HP10-50H",
+    "vrms_scale": 0.0052465851592868465,
+    "last_cal_time": "2026-09-03T11:41:23",
+    "irms_offset": 31,
+    "irms_scale": 0.0017369838420107722,
+    "vrms_offset_volts": 48.02724054811179,
+    "manufacturer": "AO Smith",
+    "clamp_irms_used": 19.35,
+    "irms_offset_amps": 0.05384649910233394,
+    "vrms_offset": 9154,
+    "line_vrms_used": 241.6
+  },
+  "hot_water_temp": {
+    "method": "three_reading_average_offset",
+    "correction_offset_f": -1.15,
+    "average_reference_temp_f": 123.1,
+    "average_uncalibrated_temp_f": 124.25,
+    "average_raw_counts": 1452.0,
+    "reference_readings_f": [
+      123.1,
+      123.1,
+      123.1
+    ],
+    "uncalibrated_readings_f": [
+      124.438,
+      124.062,
+      124.25
+    ],
+    "raw_count_readings": [
+      1453,
+      1451,
+      1452
+    ],
+    "thermometer_used": "Bomata T101A",
+    "thermometer_accuracy_f": 1.8,
+    "last_cal_time": "2026-09-01T19:06:16-07:00"
+  },
+  "cold_water_temp": {
+    "method": "three_reading_average_offset",
+    "correction_offset_f": -1.642,
+    "average_reference_temp_f": 66.233,
+    "average_uncalibrated_temp_f": 67.875,
+    "average_raw_counts": 1151.333,
+    "reference_readings_f": [
+      66.6,
+      66.6,
+      65.5
+    ],
+    "uncalibrated_readings_f": [
+      68.187,
+      68.187,
+      67.25
+    ],
+    "raw_count_readings": [
+      1153,
+      1153,
+      1148
+    ],
+    "thermometer_used": "Bomata T101A",
+    "thermometer_accuracy_f": 1.8,
+    "last_cal_time": "2026-09-02T15:18:58-07:00"
+  },
+  "flow_rate": {
+    "method": "zero_and_three_reading_average_scale",
+    "scale_gpm_per_count": 0.005148675,
+    "offset_gpm": -2.48578,
+    "zero_raw_counts": 482.8,
+    "zero_raw_max_counts": 487,
+    "average_reference_gpm": 2.9667,
+    "average_flowing_raw_counts": 1059.0,
+    "average_uncalibrated_gpm": 3.1553,
+    "zero_raw_count_readings": [
+      486,
+      482,
+      481,
+      486,
+      485,
+      481,
+      486,
+      484,
+      485,
+      479,
+      484,
+      482,
+      482,
+      483,
+      479,
+      478,
+      479,
+      487,
+      481,
+      486
+    ],
+    "zero_uncalibrated_gpm_readings": [
+      0.230625,
+      0.210208,
+      0.205104,
+      0.230625,
+      0.225521,
+      0.205104,
+      0.230625,
+      0.220417,
+      0.225521,
+      0.194896,
+      0.220417,
+      0.210208,
+      0.210208,
+      0.215313,
+      0.194896,
+      0.189792,
+      0.194896,
+      0.235729,
+      0.205104,
+      0.230625
+    ],
+    "reference_readings_gpm": [
+      2.9,
+      3.0,
+      3.0
+    ],
+    "flowing_raw_count_averages": [
+      1052.8,
+      1061.6,
+      1062.6
+    ],
+    "uncalibrated_readings_gpm": [
+      3.123667,
+      3.168583,
+      3.173688
+    ],
+    "reference_device": "McMaster-Carr SBN234",
+    "last_cal_time": "2026-09-03T11:27:51-07:00"
+  }
+}

@@ -1,0 +1,20 @@
+phase,timestamp_pacific,time_after_command,time_after_previous,milestone,observation,source
+ALU 1,2026-09-03 12:05:50.627000,0:00,0:00,Command rejected,Rejected: nak,CTA
+ALU 1,2026-09-03 12:42:15.454000,36:25,36:25,Fan/load stopped,"0.17 A, 30 W (inferred)",Power monitor
+ALU 1,2026-09-03 12:42:35.790000,36:45,0:20,Operational state changed,State 0: Idle Normal (not expected; expected 3 or 6),CTA state poll
+Shed,2026-09-03 14:35:51.056000,0:00,1:53:15,Command accepted,Accepted,CTA
+Shed,2026-09-03 14:36:05.278000,0:14,0:14,Expected operational state first observed,State 4: Idle Curtailed (expected 2 or 4),CTA state poll
+Shed,2026-09-03 15:05:50.173000,29:59,29:45,water_draw_1 started,Target 15.00 gal,Water draw
+Shed,2026-09-03 15:08:35,32:44,2:45,EnergyTake first changed,0 to 525 Wh,Commodity poll
+Shed,2026-09-03 15:10:23.715000,34:33,1:49,water_draw_1 completed,Measured 15.01 gal,Water draw
+Shed,2026-09-03 15:35:50.039000,59:59,25:26,water_draw_2 started,Target 2.00 gal,Water draw
+Shed,2026-09-03 15:36:27.394000,1:00:36,0:37,water_draw_2 completed,Measured 2.02 gal,Water draw
+Shed,2026-09-03 16:45:50.081000,2:09:59,1:09:23,water_draw_3 started,Target 9.00 gal,Water draw
+Shed,2026-09-03 16:48:31.730000,2:12:41,2:42,water_draw_3 completed,Measured 9.01 gal,Water draw
+Shed,2026-09-03 17:42:54.223000,3:07:03,54:22,Fan started,"0.21 A, 36 W (inferred)",Power monitor
+Shed,2026-09-03 17:43:57.558000,3:08:07,1:03,Compressor started,"1.05 A, 98 W (inferred)",Power monitor
+Shed,2026-09-03 17:45:36.136000,3:09:45,1:39,Operational state changed,State 2: Running Curtailed (expected),CTA state poll
+ALU 2,2026-09-03 17:45:50.262000,0:00,0:14,Command rejected,Rejected: nak,CTA
+Normal,2026-09-03 18:45:51.067000,0:00,1:00:01,Command accepted,Accepted,CTA
+Normal,2026-09-03 18:46:05.289000,0:14,0:14,Expected operational state first observed,State 1: Running Normal (expected 0 or 1),CTA state poll
+Normal,2026-09-03 18:51:35,5:44,5:30,EnergyTake first changed,825 to 750 Wh,Commodity poll
