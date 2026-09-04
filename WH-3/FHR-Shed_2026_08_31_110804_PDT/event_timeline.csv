@@ -1,0 +1,21 @@
+phase,timestamp_pacific,time_after_command,time_after_previous,milestone,observation,source
+Shed,2026-08-31 11:08:21.543000,0:00,0:00,Command accepted,Accepted,CTA
+Shed,2026-08-31 11:08:26.118000,0:05,0:05,Compressor stopped; fan remains on,"0.21 A, 23 W (inferred)",Power monitor
+Shed,2026-08-31 11:08:35.860000,0:14,0:10,Expected operational state first observed,State 2: Running Curtailed (expected 2 or 4),CTA state poll
+Shed,2026-08-31 11:09:41.537000,1:20,1:06,Fan/load stopped,"0.00 A, 2 W (inferred)",Power monitor
+Shed,2026-08-31 11:10:06.597000,1:45,0:25,Operational state changed,State 4: Idle Curtailed (expected),CTA state poll
+Shed,2026-08-31 11:10:06.607000,1:45,0:00,water_draw_1 started,Cut-in; max 180 min,Water draw
+Shed,2026-08-31 11:13:06,4:44,2:59,EnergyTake first changed,0 to 60 Wh,Commodity poll
+Shed,2026-08-31 11:18:26.446000,10:05,5:20,Fan started,"0.29 A, 32 W (inferred)",Power monitor
+Shed,2026-08-31 11:18:36.587000,10:15,0:10,Operational state changed,State 2: Running Curtailed (expected),CTA state poll
+Shed,2026-08-31 11:18:36.667000,10:15,0:00,water_draw_1 completed,Measured 25.61 gal,Water draw
+Shed,2026-08-31 11:18:58.599000,10:37,0:22,Compressor started,"1.79 A, 236 W (inferred)",Power monitor
+Shed,2026-08-31 12:10:43.680000,1:02:22,51:45,Compressor stopped; fan remains on,"0.21 A, 23 W (inferred)",Power monitor
+Shed,2026-08-31 12:11:59.091000,1:03:38,1:15,Fan/load stopped,"0.00 A, 0 W (inferred)",Power monitor
+Shed,2026-08-31 12:12:06.347000,1:03:45,0:07,Operational state changed,State 4: Idle Curtailed (expected),CTA state poll
+Shed,2026-08-31 12:12:06.530000,1:03:45,0:00,water_draw_2 started,Temperature drop target 15 °F,Water draw
+Shed,2026-08-31 12:17:16.835000,1:08:55,5:10,Fan started,"0.28 A, 30 W (inferred)",Power monitor
+Shed,2026-08-31 12:17:35.921000,1:09:14,0:19,Operational state changed,State 2: Running Curtailed (expected),CTA state poll
+Shed,2026-08-31 12:17:51.016000,1:09:29,0:15,Compressor started,"1.75 A, 231 W (inferred)",Power monitor
+Shed,2026-08-31 12:23:08.924000,1:14:47,5:18,water_draw_2 completed,Measured 34.29 gal,Water draw
+Shed,2026-08-31 12:23:11.622000,1:14:50,0:03,Operational state changed,State 1: Running Normal (not expected; expected 2 or 4),CTA state poll

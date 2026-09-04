@@ -1,0 +1,111 @@
+POWER_MONITOR_READY {"output_csv": "/home/pi/conformance_testing_team/saved_data/conformance_runs/WH-3/FHR-Shed_2026_08_31_110804_PDT/power.csv", "timestamp_pacific": "2026-08-31T11:08:05.006-07:00"}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:08:05.009-07:00", "status": "ok", "reasons": ["initial_sample"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:08:26.118-07:00", "status": "ok", "reasons": ["current_change", "power_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:09:26.449-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:09:41.538-07:00", "status": "ok", "reasons": ["current_change", "heater_off"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:10:41.858-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:11:42.189-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:12:42.527-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:13:42.861-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:14:43.202-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:15:43.534-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:16:43.864-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:17:44.210-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:18:20.410-07:00", "status": "ok", "reasons": ["current_change", "heater_on"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:18:26.446-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:18:42.522-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:18:46.532-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:18:58.600-07:00", "status": "ok", "reasons": ["current_change", "power_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:18:59.606-07:00", "status": "ok", "reasons": ["current_change", "power_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:19:00.613-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:19:01.619-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:19:03.632-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:19:06.650-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:19:09.668-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:19:17.716-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:20:18.049-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:21:18.383-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:22:18.718-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:23:19.051-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:24:19.383-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:25:19.717-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:26:20.049-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:27:20.380-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:28:20.712-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:29:21.046-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:30:21.379-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:31:21.712-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:32:22.046-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:33:22.377-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:34:22.709-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:35:23.041-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:36:23.374-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:37:23.690-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:38:24.023-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:39:24.354-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:40:24.687-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:41:25.023-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:42:25.356-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:42:57.526-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:42:58.533-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:43:50.819-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:43:54.843-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:44:45.125-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:45:45.458-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:46:45.791-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:47:46.119-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:47:57.178-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:48:02.208-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:49:02.541-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:50:02.856-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:51:03.189-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:52:03.521-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:52:08.551-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:52:12.575-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:52:16.599-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:53:16.932-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:54:17.263-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:55:17.597-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:56:17.932-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:57:18.261-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:58:18.592-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T11:59:18.924-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:00:19.254-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:01:19.568-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:02:19.900-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:03:20.233-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:04:20.566-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:05:20.900-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:06:21.232-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:07:21.566-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:08:21.897-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:09:22.228-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:10:22.561-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:10:43.680-07:00", "status": "ok", "reasons": ["current_change", "power_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:11:10.824-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:11:32.953-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:11:59.091-07:00", "status": "ok", "reasons": ["current_change", "heater_off"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:12:59.404-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:13:59.734-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:15:00.072-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:16:00.404-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:17:00.743-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:17:13.817-07:00", "status": "ok", "reasons": ["current_change", "heater_on"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:17:16.835-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:17:51.016-07:00", "status": "ok", "reasons": ["current_change", "power_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:17:52.023-07:00", "status": "ok", "reasons": ["current_change", "power_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:17:53.029-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:17:54.036-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:17:55.042-07:00", "status": "ok", "reasons": ["current_change", "power_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:17:57.054-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:18:01.078-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:18:19.182-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:19:19.520-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:19:48.671-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:20:21.863-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:21:18.174-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:21:32.256-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:21:50.345-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:21:59.398-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-31T12:22:59.728-07:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_STOPPED {"output_csv": "/home/pi/conformance_testing_team/saved_data/conformance_runs/WH-3/FHR-Shed_2026_08_31_110804_PDT/power.csv", "timestamp_pacific": "2026-08-31T12:23:11.695-07:00"}

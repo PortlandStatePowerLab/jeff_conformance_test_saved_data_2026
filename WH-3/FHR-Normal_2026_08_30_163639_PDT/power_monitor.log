@@ -1,0 +1,38 @@
+POWER_MONITOR_READY {"output_csv": "/home/pi/conformance_testing_team/saved_data/conformance_runs/WH-3/FHR-Normal_2026_08_30_163639_PDT/power.csv", "timestamp_pacific": "2026-08-30T16:36:39.961-07:00"}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:36:39.964-07:00", "status": "ok", "reasons": ["initial_sample"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:37:21.189-07:00", "status": "ok", "reasons": ["current_change", "heater_on"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:37:25.213-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:37:58.372-07:00", "status": "ok", "reasons": ["current_change", "power_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:37:59.379-07:00", "status": "ok", "reasons": ["current_change", "power_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:38:00.386-07:00", "status": "ok", "reasons": ["current_change", "power_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:38:02.398-07:00", "status": "ok", "reasons": ["current_change", "power_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:38:03.404-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:38:07.428-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:38:10.446-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:38:11.453-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:38:20.506-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:38:25.535-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:38:32.576-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:38:44.636-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:38:56.700-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:39:15.810-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:39:28.886-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:39:30.898-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:39:34.922-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:39:57.030-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:40:06.081-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:40:18.152-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:40:34.246-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:40:57.345-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:41:14.445-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:41:29.533-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:41:33.557-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:41:44.610-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:41:46.615-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:41:48.628-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:42:14.779-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:42:37.914-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:42:57.007-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:42:59.020-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-08-30T16:43:00.026-07:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_STOPPED {"output_csv": "/home/pi/conformance_testing_team/saved_data/conformance_runs/WH-3/FHR-Normal_2026_08_30_163639_PDT/power.csv", "timestamp_pacific": "2026-08-30T16:43:09.160-07:00"}

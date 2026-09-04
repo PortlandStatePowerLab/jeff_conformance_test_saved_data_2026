@@ -1,0 +1,8 @@
+phase,timestamp_pacific,time_after_command,time_after_previous,milestone,observation,source
+Shed,2026-08-30 17:23:14.701000,0:00,0:00,Command accepted,Accepted,CTA
+Shed,2026-08-30 17:23:28.922000,0:14,0:14,Expected operational state first observed,State 4: Idle Curtailed (expected 2 or 4),CTA state poll
+Shed,2026-08-30 17:23:28.993000,0:14,0:00,water_draw_1 started,Cut-in; max 180 min,Water draw
+Shed,2026-08-30 17:26:59,3:44,3:30,EnergyTake first changed,0 to 60 Wh,Commodity poll
+Shed,2026-08-30 17:31:57.195000,8:42,4:58,Fan started,"0.28 A, 30 W (inferred)",Power monitor
+Shed,2026-08-30 17:31:59.363000,8:45,0:02,water_draw_1 completed,Measured 25.98 gal,Water draw
+Shed,2026-08-30 17:32:32.381000,9:18,0:33,Compressor started,"1.87 A, 250 W (inferred)",Power monitor

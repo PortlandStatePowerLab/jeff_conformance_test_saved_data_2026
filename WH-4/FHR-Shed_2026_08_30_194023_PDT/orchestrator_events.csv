@@ -1,0 +1,20 @@
+timestamp_pacific,test_elapsed_seconds,event_id,event,status,details
+2026-08-30T19:40:24.166-07:00,0.000,,run_created,ok,"{""run_directory"":""/home/pi/conformance_testing_team/saved_data/conformance_runs/WH-4/FHR-Shed_2026_08_30_194023_PDT"",""water_output_enabled"":true,""outside_communication_heartbeat_enabled"":true}"
+2026-08-30T19:40:24.370-07:00,0.204,,power_monitor,ready,"{""pid"":23884}"
+2026-08-30T19:40:25.399-07:00,1.233,,cta_controller,started,"{""pid"":23885}"
+2026-08-30T19:40:25.399-07:00,-14.600,,test_start_scheduled,pending,"{""test_start_pacific"":""2026-08-30T19:40:40.000-07:00""}"
+2026-08-30T19:40:40.032-07:00,0.033,,test_started,ok,{}
+2026-08-30T19:40:40.035-07:00,0.035,water_draw_1,cut_in_armed,waiting_for_cta,"{""cta_event_id"":""shed_1"",""cta_action"":""shed"",""cut_in_state"":2,""cut_out_state"":4}"
+2026-08-30T19:40:41.242-07:00,1.243,water_draw_1,cut_in_waiting_for_initial_cut_out,waiting,{}
+2026-08-30T19:40:55.489-07:00,15.490,water_draw_1,cut_in_initial_cut_out,water_draw_started,"{""operational_state"":4,""pid"":23893,""max_draw_minutes"":180.0}"
+2026-08-30T19:40:55.490-07:00,15.490,water_draw_1,water_draw_started,started,"{""pid"":23893,""draw_type"":""cut-in"",""max_draw_minutes"":180.0}"
+2026-08-30T20:03:26.134-07:00,1366.135,water_draw_1,water_draw_completed,ok,"{""return_code"":5,""reason"":""cut_in_observed""}"
+2026-08-30T20:03:26.135-07:00,1366.135,water_draw_1,cut_in_observed,water_stopped,"{""operational_state"":2,""recovery_timeout_seconds"":43200,""recovery_deadline_at"":""2026-08-31T08:03:26.134508-07:00""}"
+2026-08-30T21:51:26.579-07:00,7846.580,water_draw_1,cut_out_observed,completed,"{""operational_state"":4}"
+2026-08-30T21:51:26.584-07:00,7846.585,water_draw_2,water_draw_started,started,"{""pid"":24242,""draw_type"":""temp drop"",""target_volume_gal"":null,""temp_drop_f"":15.0}"
+2026-08-30T22:51:28.818-07:00,11448.819,water_draw_2,water_draw_completed,ok,"{""return_code"":0}"
+2026-08-30T22:51:28.819-07:00,11448.819,water_draw_2,dependent_test_end,triggered,{}
+2026-08-30T22:51:28.820-07:00,11448.820,,cta_return_to_normal,requested,{}
+2026-08-30T22:51:31.740-07:00,11451.741,,cta_return_to_normal,completed,"{""return_code"":0}"
+2026-08-30T22:51:31.806-07:00,11451.806,,power_monitor_shutdown,stopped,{}
+2026-08-30T22:51:31.806-07:00,11451.807,,run_finished,completed,{}
