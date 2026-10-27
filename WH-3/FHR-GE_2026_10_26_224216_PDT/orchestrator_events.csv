@@ -1,0 +1,16 @@
+timestamp_pacific,test_elapsed_seconds,event_id,event,status,details
+2026-10-26T22:42:16.539-07:00,0.000,,run_created,ok,"{""run_directory"":""/home/pi/conformance_testing_team/saved_data/conformance_runs/WH-3/FHR-GE_2026_10_26_224216_PDT"",""water_output_enabled"":true,""outside_communication_heartbeat_enabled"":true}"
+2026-10-26T22:42:16.743-07:00,0.204,,power_monitor,ready,"{""pid"":375}"
+2026-10-26T22:42:17.773-07:00,1.235,,cta_controller,started,"{""pid"":377}"
+2026-10-26T22:42:17.774-07:00,-14.226,,test_start_scheduled,pending,"{""test_start_pacific"":""2026-10-26T22:42:32.000-07:00""}"
+2026-10-26T22:42:32.007-07:00,0.007,,test_started,ok,{}
+2026-10-26T22:42:32.007-07:00,0.008,water_draw_1,cut_in_armed,waiting_for_cta,"{""cta_event_id"":""grid_emergency_1"",""cta_action"":""grid_emergency"",""cut_in_state"":2,""cut_out_state"":4}"
+2026-10-26T22:42:32.412-07:00,0.412,water_draw_1,cut_in_waiting_for_initial_cut_out,waiting,{}
+2026-10-26T22:42:47.659-07:00,15.660,water_draw_1,cut_in_initial_cut_out,water_draw_started,"{""operational_state"":4,""pid"":385,""max_draw_minutes"":35.0}"
+2026-10-26T22:42:47.660-07:00,15.661,water_draw_1,water_draw_started,started,"{""pid"":385,""draw_type"":""cut-in"",""max_draw_minutes"":35.0}"
+2026-10-26T23:17:47.843-07:00,2115.844,water_draw_1,cut_in_timeout,failed,"{""phase"":""drawing_to_cut_in""}"
+2026-10-26T23:17:47.844-07:00,2115.844,,run_error,failed,"{""error_type"":""TimeoutError"",""message"":""water_draw_1 exceeded its Max time while the valve was open""}"
+2026-10-26T23:17:47.847-07:00,2115.847,,cta_return_to_normal,requested,{}
+2026-10-26T23:17:50.669-07:00,2118.670,,cta_return_to_normal,completed,"{""return_code"":0}"
+2026-10-26T23:17:50.735-07:00,2118.736,,power_monitor_shutdown,stopped,{}
+2026-10-26T23:17:50.735-07:00,2118.736,,run_finished,failed,{}
