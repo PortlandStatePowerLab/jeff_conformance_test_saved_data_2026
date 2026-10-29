@@ -1,0 +1,5 @@
+phase,timestamp_pacific,time_after_command,time_after_previous,milestone,observation,source
+GE,2026-10-29 14:16:49.123000,0:00,0:00,Command accepted,Accepted,CTA
+GE,2026-10-29 14:17:03.405000,0:14,0:14,Expected operational state first observed,State 4: Idle Curtailed (expected 2 or 4),CTA state poll
+GE,2026-10-29 14:17:03.603000,0:14,0:00,water_draw_1 started,Cut-in; max 35 min,Water draw
+GE,2026-10-29 14:20:33,3:44,3:29,EnergyTake first changed,22 to 110 Wh,Commodity poll
