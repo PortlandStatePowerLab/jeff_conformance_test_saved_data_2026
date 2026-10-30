@@ -1,0 +1,4 @@
+WATER_DRAW_READY {"event_id": "water_draw_2", "output_csv": "/home/pi/conformance_testing_team/saved_data/conformance_runs/WH-2/FHR-Shed_2026_10_29_150141_PDT/water_draw_2.csv", "timestamp_pacific": "2026-10-29T17:43:45.214-07:00", "draw_type": "temp_drop", "temp_set_f": 125.0, "temp_drop_f": 15.0, "stop_temp_f": 110.0}
+WATER_DRAW_VALVE_OPEN {"event_id": "water_draw_2", "timestamp_pacific": "2026-10-29T17:43:45.215-07:00"}
+WATER_DRAW_TEMP_ARMED {"event_id": "water_draw_2", "hot_temp_f": 115.04549999999998, "arm_temp_f": 115.0}
+WATER_DRAW_STOPPED {"event_id": "water_draw_2", "timestamp_pacific": "2026-10-29T17:56:38.811-07:00", "stop_reason": "temperature_threshold_reached", "volume_gal": 40.280862465821556, "final_hot_temp_f": 106.79550000000002, "exit_code": 0}

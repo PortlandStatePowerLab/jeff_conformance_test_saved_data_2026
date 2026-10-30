@@ -1,0 +1,2 @@
+timestamp_pacific,equipment_id,opcode1,opcode2,response_code,response_name,payload_length,cta2045_version_raw_hex,cta2045_version,cta2045_b_version_valid,device_type_hex,device_type_name,capability_bitmap_hex
+2026-10-29 15:01:42,wh_598b1299640542449d6a05463729a4a0,1,129,0,success,48,3030,00,false,0x0003,Water Heater - Heat Pump,00000001

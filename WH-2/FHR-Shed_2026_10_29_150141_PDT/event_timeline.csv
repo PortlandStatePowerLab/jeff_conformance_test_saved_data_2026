@@ -1,0 +1,19 @@
+phase,timestamp_pacific,time_after_command,time_after_previous,milestone,observation,source
+Shed,2026-10-29 15:01:57.448000,0:00,0:00,Command accepted,Accepted,CTA
+Shed,2026-10-29 15:02:12.767000,0:15,0:15,Expected operational state first observed,State 4: Idle Curtailed (expected 2 or 4),CTA state poll
+Shed,2026-10-29 15:02:12.850000,0:15,0:00,water_draw_1 started,Cut-in; max 60 min,Water draw
+Shed,2026-10-29 15:05:43,3:46,3:30,EnergyTake first changed,0 to 375 Wh,Commodity poll
+Shed,2026-10-29 15:12:19.433000,10:22,6:36,Fan started,"0.24 A, 51 W (inferred)",Power monitor
+Shed,2026-10-29 15:13:23.791000,11:26,1:04,Compressor started,"1.23 A, 262 W (inferred)",Power monitor
+Shed,2026-10-29 15:14:44.241000,12:47,1:20,Compressor and element operating,"23.28 A, 5555 W (inferred)",Power monitor
+Shed,2026-10-29 15:15:13.030000,13:16,0:29,Operational state changed,State 2: Running Curtailed (expected),CTA state poll
+Shed,2026-10-29 15:15:13.155000,13:16,0:00,water_draw_1 completed,Measured 39.57 gal,Water draw
+Shed,2026-10-29 15:26:03.006000,24:06,10:50,Resistance element stopped; compressor remains on,"1.62 A, 364 W (inferred)",Power monitor
+Shed,2026-10-29 17:43:40.015000,2:41:43,2:17:37,Fan/load stopped,"0.17 A, 43 W (inferred)",Power monitor
+Shed,2026-10-29 17:43:43.708000,2:41:46,0:04,Operational state changed,State 4: Idle Curtailed (expected),CTA state poll
+Shed,2026-10-29 17:43:43.813000,2:41:46,0:00,water_draw_2 started,Temperature drop target 15 °F,Water draw
+Shed,2026-10-29 17:49:57.011000,2:48:00,6:13,Fan started,"0.22 A, 49 W (inferred)",Power monitor
+Shed,2026-10-29 17:51:01.366000,2:49:04,1:04,Compressor started,"1.31 A, 290 W (inferred)",Power monitor
+Shed,2026-10-29 17:52:43.196000,2:50:46,1:42,Operational state changed,State 2: Running Curtailed (expected),CTA state poll
+Shed,2026-10-29 17:54:55.625000,2:52:58,2:12,Compressor and element operating,"23.35 A, 5576 W (inferred)",Power monitor
+Shed,2026-10-29 17:56:38.945000,2:54:41,1:43,water_draw_2 completed,Measured 40.28 gal,Water draw
