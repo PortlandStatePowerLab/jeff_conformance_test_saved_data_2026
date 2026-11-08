@@ -1,0 +1,6 @@
+phase,timestamp_pacific,time_after_command,time_after_previous,milestone,observation,source
+Load Up,2026-11-08 11:54:31.161000,0:00,0:00,Command accepted,Accepted,CTA
+Load Up,2026-11-08 11:55:02.474000,0:31,0:31,Expected operational state first observed,State 3: Running Heightened (expected 3 or 6),CTA state poll
+Load Up,2026-11-08 11:56:01,1:30,0:59,EnergyTake first changed,883 to 839 Wh,Commodity poll
+Load Up,2026-11-08 11:56:10.576000,1:39,0:10,Compressor ramp started,"0.76 A, 179 W (inferred)",Power monitor
+Load Up,2026-11-08 11:56:15.606000,1:44,0:05,Compressor started,"1.21 A, 301 W (inferred)",Power monitor
