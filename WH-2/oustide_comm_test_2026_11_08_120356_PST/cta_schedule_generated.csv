@@ -1,0 +1,4 @@
+# time,command,argument,event_id,value,units,efficiency
+1794168252,o,,outside_communication_1,,,
+1794168267,l,0,load_up_1,,,
+1794169212,o,,outside_communication_2,,,
