@@ -1,0 +1,14 @@
+timestamp_pacific,response_code,response_name,electricity_commodity_code,cumulative_electricity_Wh,instantaneous_electricity_W,total_storage_commodity_code,total_energy_storage_Wh,present_storage_commodity_code,present_energy_storage_Wh,advanced_total_storage_commodity_code,advanced_total_energy_storage_Wh,advanced_present_storage_commodity_code,advanced_present_energy_storage_Wh,operational_state
+2026-11-08 15:51:30,0,success,0,429075,0,6,2202,7,180,10,2412,11,390,5
+2026-11-08 15:52:30,0,success,0,429075,0,6,2202,7,180,10,2412,11,390,4
+2026-11-08 15:53:30,0,success,0,429075,0,6,2202,7,180,10,2412,11,390,4
+2026-11-08 15:54:30,0,success,0,429075,0,6,2202,7,180,10,2412,11,390,4
+2026-11-08 15:55:30,0,success,0,429075,0,6,2202,7,210,10,2412,11,420,4
+2026-11-08 15:56:30,0,success,0,429075,0,6,2202,7,330,10,2412,11,540,4
+2026-11-08 15:57:30,0,success,0,429075,0,6,2202,7,606,10,2412,11,816,4
+2026-11-08 15:58:30,0,success,0,429075,0,6,2202,7,906,10,2412,11,1116,4
+2026-11-08 15:59:30,0,success,0,429075,0,6,2202,7,1116,10,2412,11,1326,4
+2026-11-08 16:00:30,0,success,0,429075,0,6,2052,7,1116,10,2352,11,1416,2
+2026-11-08 16:01:30,0,success,0,429081,356,6,2052,7,1236,10,2352,11,1536,2
+2026-11-08 16:02:30,0,success,0,429087,356,6,2052,7,1296,10,2352,11,1596,2
+2026-11-08 16:03:30,0,success,0,429093,356,6,2052,7,1266,10,2352,11,1566,1

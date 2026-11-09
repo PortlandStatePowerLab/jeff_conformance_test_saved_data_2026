@@ -1,0 +1,17 @@
+timestamp_pacific,test_elapsed_seconds,event_id,event,status,details
+2026-11-08T15:51:29.204-08:00,0.001,,run_created,ok,"{""run_directory"":""/home/pi/conformance_testing_team/saved_data/conformance_runs/WH-3/FHR-Shed-water-mixing_2026_11_08_155128_PST"",""water_output_enabled"":true,""automatic_outside_communication"":true,""outside_communication_heartbeat_enabled"":true}"
+2026-11-08T15:51:29.408-08:00,0.204,,power_monitor,ready,"{""pid"":13417}"
+2026-11-08T15:51:30.459-08:00,1.256,,cta_controller,started,"{""pid"":13418}"
+2026-11-08T15:51:30.460-08:00,-14.540,,test_start_scheduled,pending,"{""test_start_pacific"":""2026-11-08T15:51:45.000-08:00""}"
+2026-11-08T15:51:45.096-08:00,0.096,,test_started,ok,{}
+2026-11-08T15:51:45.096-08:00,0.097,water_draw_1,cut_in_armed,waiting_for_cta,"{""cta_event_id"":""shed_1"",""cta_action"":""shed"",""cut_in_state"":2,""cut_out_state"":4}"
+2026-11-08T15:51:46.105-08:00,1.105,water_draw_1,cut_in_waiting_for_initial_cut_out,waiting,{}
+2026-11-08T15:52:00.349-08:00,15.350,water_draw_1,cut_in_initial_cut_out,water_draw_started,"{""operational_state"":4,""pid"":13425,""max_draw_minutes"":40.0}"
+2026-11-08T15:52:00.350-08:00,15.351,water_draw_1,water_draw_started,started,"{""pid"":13425,""draw_type"":""cut-in"",""max_draw_minutes"":40.0}"
+2026-11-08T16:00:00.759-08:00,495.760,water_draw_1,water_draw_completed,ok,"{""return_code"":5,""reason"":""cut_in_observed""}"
+2026-11-08T16:00:00.760-08:00,495.760,water_draw_1,cut_in_observed,water_stopped,"{""operational_state"":2,""recovery_timeout_seconds"":43200,""recovery_deadline_at"":""2026-11-09T04:00:00.759319-08:00""}"
+2026-11-08T16:04:00.974-08:00,735.975,,run_error,failed,"{""error_type"":""CutInStateError"",""message"":""three consecutive unexpected OpState readings""}"
+2026-11-08T16:04:00.977-08:00,735.978,,cta_return_to_normal,requested,{}
+2026-11-08T16:04:03.851-08:00,738.852,,cta_return_to_normal,completed,"{""return_code"":0}"
+2026-11-08T16:04:03.917-08:00,738.918,,power_monitor_shutdown,stopped,{}
+2026-11-08T16:04:03.917-08:00,738.918,,run_finished,failed,{}
