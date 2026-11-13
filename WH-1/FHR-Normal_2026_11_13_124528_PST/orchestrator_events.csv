@@ -1,0 +1,13 @@
+timestamp_pacific,test_elapsed_seconds,event_id,event,status,details
+2026-11-13T12:45:28.696-08:00,0.000,,run_created,ok,"{""run_directory"":""/home/pi/conformance_testing_team/saved_data/conformance_runs/WH-1/FHR-Normal_2026_11_13_124528_PST"",""water_output_enabled"":true,""automatic_outside_communication"":true,""outside_communication_heartbeat_enabled"":true}"
+2026-11-13T12:45:28.900-08:00,0.204,,power_monitor,ready,"{""pid"":14462}"
+2026-11-13T12:45:29.925-08:00,1.229,,cta_controller,started,"{""pid"":14463}"
+2026-11-13T12:45:29.925-08:00,-14.074,,test_start_scheduled,pending,"{""test_start_pacific"":""2026-11-13T12:45:44.000-08:00""}"
+2026-11-13T12:45:44.156-08:00,0.156,,test_started,ok,{}
+2026-11-13T14:20:44.074-08:00,5700.074,water_draw_1,water_draw_started,started,"{""pid"":14964,""draw_type"":""temp drop"",""target_volume_gal"":null,""temp_drop_f"":15.0}"
+2026-11-13T15:20:45.062-08:00,9301.063,water_draw_1,water_draw_completed,ok,"{""return_code"":0}"
+2026-11-13T15:20:45.063-08:00,9301.064,water_draw_1,dependent_test_end,triggered,{}
+2026-11-13T15:20:45.065-08:00,9301.066,,cta_return_to_normal,requested,{}
+2026-11-13T15:20:47.888-08:00,9303.889,,cta_return_to_normal,completed,"{""return_code"":0}"
+2026-11-13T15:20:47.954-08:00,9303.955,,power_monitor_shutdown,stopped,{}
+2026-11-13T15:20:47.955-08:00,9303.955,,run_finished,completed,{}
