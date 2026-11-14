@@ -1,0 +1,2 @@
+timestamp_pacific,direction,message,payload_length,payload_hex
+2026-11-08T12:02:00.478-08:00,inbound,get_set_setpoints_reply,8,03 83 00 00 03 00 00 8F

@@ -1,0 +1,4 @@
+event_id,scheduled_pacific,offset_seconds,action,command_code,duration_byte,requested_duration_seconds,represented_duration_seconds,advanced_duration_minutes,advanced_value,advanced_units,advanced_efficiency,expected_operational_states,generated,prerequisite_for
+outside_communication_1,2026-11-08T12:04:12-08:00,0,outside_communication,o,,,,,,,,,false,
+load_up_1,2026-11-08T12:04:27-08:00,15,load_up,l,0,,,,,,,3|6,false,
+outside_communication_2,2026-11-08T12:20:12-08:00,960,outside_communication,o,,,,,,,,,false,

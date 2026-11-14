@@ -1,0 +1,10 @@
+timestamp_pacific,test_elapsed_seconds,event_id,event,status,details
+2026-11-08T12:01:59.516-08:00,0.001,,run_created,ok,"{""run_directory"":""/home/pi/conformance_testing_team/saved_data/conformance_runs/WH-3/oustide_comm_test_2026_11_08_120159_PST"",""water_output_enabled"":false,""automatic_outside_communication"":false,""outside_communication_heartbeat_enabled"":false}"
+2026-11-08T12:01:59.720-08:00,0.205,,power_monitor,ready,"{""pid"":11895}"
+2026-11-08T12:02:00.878-08:00,1.363,,cta_controller,started,"{""pid"":11896}"
+2026-11-08T12:02:00.878-08:00,-14.121,,test_start_scheduled,pending,"{""test_start_pacific"":""2026-11-08T12:02:15.000-08:00""}"
+2026-11-08T12:02:15.109-08:00,0.110,,test_started,ok,{}
+2026-11-08T12:21:15.039-08:00,1140.039,,cta_return_to_normal,requested,{}
+2026-11-08T12:21:17.909-08:00,1142.910,,cta_return_to_normal,completed,"{""return_code"":0}"
+2026-11-08T12:21:17.978-08:00,1142.979,,power_monitor_shutdown,stopped,{}
+2026-11-08T12:21:17.978-08:00,1142.979,,run_finished,completed,{}

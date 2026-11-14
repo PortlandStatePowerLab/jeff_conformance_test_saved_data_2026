@@ -1,0 +1,16 @@
+timestamp_pacific,test_elapsed_seconds,event_id,event,status,details
+2026-11-01T13:48:46.502-08:00,0.000,,run_created,ok,"{""run_directory"":""/home/pi/conformance_testing_team/saved_data/conformance_runs/WH-3/LU-Shed-Recovery_2026_11_01_134846_PST"",""water_output_enabled"":true,""automatic_outside_communication"":true,""outside_communication_heartbeat_enabled"":true}"
+2026-11-01T13:48:46.706-08:00,0.204,,power_monitor,ready,"{""pid"":17391}"
+2026-11-01T13:48:47.732-08:00,1.231,,cta_controller,started,"{""pid"":17392}"
+2026-11-01T13:48:47.733-08:00,-14.267,,test_start_scheduled,pending,"{""test_start_pacific"":""2026-11-01T13:49:02.000-08:00""}"
+2026-11-01T13:49:02.169-08:00,0.170,,test_started,ok,{}
+2026-11-01T15:49:02.142-08:00,7200.142,water_draw_1,water_draw_started,started,"{""pid"":17853,""draw_type"":""volume"",""target_volume_gal"":15.0,""temp_drop_f"":null}"
+2026-11-01T15:54:23.057-08:00,7521.058,water_draw_1,water_draw_completed,ok,"{""return_code"":0}"
+2026-11-01T16:19:02.090-08:00,9000.091,water_draw_2,water_draw_started,started,"{""pid"":17947,""draw_type"":""volume"",""target_volume_gal"":2.0,""temp_drop_f"":null}"
+2026-11-01T16:19:46.951-08:00,9044.951,water_draw_2,water_draw_completed,ok,"{""return_code"":0}"
+2026-11-01T17:29:02.025-08:00,13200.025,water_draw_3,water_draw_started,started,"{""pid"":18112,""draw_type"":""volume"",""target_volume_gal"":9.0,""temp_drop_f"":null}"
+2026-11-01T17:32:11.415-08:00,13389.415,water_draw_3,water_draw_completed,ok,"{""return_code"":0}"
+2026-11-01T19:49:02.201-08:00,21600.201,,cta_return_to_normal,requested,{}
+2026-11-01T19:49:05.023-08:00,21603.024,,cta_return_to_normal,completed,"{""return_code"":0}"
+2026-11-01T19:49:05.056-08:00,21603.056,,power_monitor_shutdown,stopped,{}
+2026-11-01T19:49:05.056-08:00,21603.057,,run_finished,completed,{}

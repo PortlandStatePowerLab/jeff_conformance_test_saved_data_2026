@@ -1,0 +1,490 @@
+2026-11-08 15:51:29,626 INFO  [default] link ACK received: device_information
+2026-11-08 15:51:29,754 INFO  [default] message type supported received: 2
+2026-11-08 15:51:29,754 INFO  [default] device info response received. response code: 0 - success
+2026-11-08 15:51:29,754 INFO  [default]   CTA-2045 version: B
+2026-11-08 15:51:29,754 INFO  [default]   device type: 3 - Water Heater - Heat Pump
+2026-11-08 15:51:29,914 INFO  [default] starting commodity service...
+2026-11-08 15:51:29,914 INFO  [default] schedule processing is enabled
+2026-11-08 15:51:30,442 WARN  [default] incomplete message received: 22
+2026-11-08 15:51:30,633 INFO  [default] link ACK received: get_commodity
+2026-11-08 15:51:30,777 INFO  [default] message type supported received: 2
+2026-11-08 15:51:30,777 INFO  [default] commodity response received. response code: 0 - success; count: 5
+2026-11-08 15:51:30,778 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-11-08 15:51:30,778 INFO  [default]            source: Estimated
+2026-11-08 15:51:30,778 INFO  [default]   cumulative: 429075
+2026-11-08 15:51:30,778 INFO  [default]    inst rate: 0
+2026-11-08 15:51:30,778 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-11-08 15:51:30,778 INFO  [default]            source: Estimated
+2026-11-08 15:51:30,778 INFO  [default]   cumulative: 2202
+2026-11-08 15:51:30,778 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:51:30,778 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-11-08 15:51:30,778 INFO  [default]            source: Estimated
+2026-11-08 15:51:30,778 INFO  [default]   cumulative: 180
+2026-11-08 15:51:30,778 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:51:30,778 INFO  [default] commodity code: 10 - Advanced load up total energy storage/take capacity (W-hr)
+2026-11-08 15:51:30,778 INFO  [default]            source: Estimated
+2026-11-08 15:51:30,778 INFO  [default]   cumulative: 2412
+2026-11-08 15:51:30,778 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:51:30,778 INFO  [default] commodity code: 11 - Advanced load up present energy storage/take capacity (W-hr)
+2026-11-08 15:51:30,779 INFO  [default]            source: Estimated
+2026-11-08 15:51:30,779 INFO  [default]   cumulative: 390
+2026-11-08 15:51:30,779 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:51:30,969 WARN  [default] link NAK received for get_present_temperature. Reason: Request not supported (0x7)
+2026-11-08 15:51:31,081 INFO  [default] message type supported received: 2
+2026-11-08 15:51:31,081 INFO  [default] get_present_temperature: other_error payload_length=3
+2026-11-08 15:51:31,273 INFO  [default] link ACK received: query_operational_state
+2026-11-08 15:51:31,369 INFO  [default] operational state received: 5
+
+Press Enter for a list of commands
+1794181890,o,0 (PASSED!)
+outside communication found
+2026-11-08 15:51:32,457 INFO  [default] link ACK received: outside_communication
+2026-11-08 15:51:32,569 INFO  [default] app ack received
+a- Advanced Loadup
+c- Critical Peak Event
+e- End shed/Normal
+g- Grid Emergency
+l- Loadup
+o- Outside Communication
+s- Shed
+f- Get temperature offset
+t- Get present temperature
+j- Get temperature setpoints
+w- Set temperature setpoints
+u- Customer Override
+v- Enable advanced load up capability
+x- Disable advanced load up capability
+z- Quit and return operation to normal
+q- Quit
+enter choice: 1794181905,s,18 (PASSED!)
+shedding
+2026-11-08 15:51:45,783 INFO  [default] link ACK received: shed
+2026-11-08 15:51:45,879 INFO  [default] app ack received
+2026-11-08 15:52:00,100 INFO  [default] link ACK received: query_operational_state
+2026-11-08 15:52:00,196 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-11-08 15:52:30,335 INFO  [default] link ACK received: get_commodity
+2026-11-08 15:52:30,479 INFO  [default] message type supported received: 2
+2026-11-08 15:52:30,479 INFO  [default] commodity response received. response code: 0 - success; count: 5
+2026-11-08 15:52:30,480 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-11-08 15:52:30,480 INFO  [default]            source: Estimated
+2026-11-08 15:52:30,480 INFO  [default]   cumulative: 429075
+2026-11-08 15:52:30,480 INFO  [default]    inst rate: 0
+2026-11-08 15:52:30,481 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-11-08 15:52:30,481 INFO  [default]            source: Estimated
+2026-11-08 15:52:30,481 INFO  [default]   cumulative: 2202
+2026-11-08 15:52:30,481 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:52:30,481 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-11-08 15:52:30,481 INFO  [default]            source: Estimated
+2026-11-08 15:52:30,481 INFO  [default]   cumulative: 180
+2026-11-08 15:52:30,482 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:52:30,482 INFO  [default] commodity code: 10 - Advanced load up total energy storage/take capacity (W-hr)
+2026-11-08 15:52:30,482 INFO  [default]            source: Estimated
+2026-11-08 15:52:30,482 INFO  [default]   cumulative: 2412
+2026-11-08 15:52:30,482 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:52:30,482 INFO  [default] commodity code: 11 - Advanced load up present energy storage/take capacity (W-hr)
+2026-11-08 15:52:30,482 INFO  [default]            source: Estimated
+2026-11-08 15:52:30,482 INFO  [default]   cumulative: 390
+2026-11-08 15:52:30,483 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:52:30,671 WARN  [default] link NAK received for get_present_temperature. Reason: Request not supported (0x7)
+2026-11-08 15:52:30,767 INFO  [default] message type supported received: 2
+2026-11-08 15:52:30,767 INFO  [default] get_present_temperature: other_error payload_length=3
+2026-11-08 15:52:30,959 INFO  [default] link ACK received: query_operational_state
+2026-11-08 15:52:31,055 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-11-08 15:53:00,314 INFO  [default] link ACK received: query_operational_state
+2026-11-08 15:53:00,410 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-11-08 15:53:30,549 INFO  [default] link ACK received: get_commodity
+2026-11-08 15:53:30,693 INFO  [default] message type supported received: 2
+2026-11-08 15:53:30,693 INFO  [default] commodity response received. response code: 0 - success; count: 5
+2026-11-08 15:53:30,694 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-11-08 15:53:30,694 INFO  [default]            source: Estimated
+2026-11-08 15:53:30,694 INFO  [default]   cumulative: 429075
+2026-11-08 15:53:30,694 INFO  [default]    inst rate: 0
+2026-11-08 15:53:30,694 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-11-08 15:53:30,694 INFO  [default]            source: Estimated
+2026-11-08 15:53:30,694 INFO  [default]   cumulative: 2202
+2026-11-08 15:53:30,695 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:53:30,695 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-11-08 15:53:30,695 INFO  [default]            source: Estimated
+2026-11-08 15:53:30,695 INFO  [default]   cumulative: 180
+2026-11-08 15:53:30,695 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:53:30,695 INFO  [default] commodity code: 10 - Advanced load up total energy storage/take capacity (W-hr)
+2026-11-08 15:53:30,695 INFO  [default]            source: Estimated
+2026-11-08 15:53:30,695 INFO  [default]   cumulative: 2412
+2026-11-08 15:53:30,696 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:53:30,696 INFO  [default] commodity code: 11 - Advanced load up present energy storage/take capacity (W-hr)
+2026-11-08 15:53:30,696 INFO  [default]            source: Estimated
+2026-11-08 15:53:30,696 INFO  [default]   cumulative: 390
+2026-11-08 15:53:30,696 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:53:30,885 WARN  [default] link NAK received for get_present_temperature. Reason: Request not supported (0x7)
+2026-11-08 15:53:30,997 INFO  [default] message type supported received: 2
+2026-11-08 15:53:30,997 INFO  [default] get_present_temperature: other_error payload_length=3
+2026-11-08 15:53:31,189 INFO  [default] link ACK received: query_operational_state
+2026-11-08 15:53:31,285 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-11-08 15:54:00,432 INFO  [default] link ACK received: query_operational_state
+2026-11-08 15:54:00,543 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-11-08 15:54:30,698 INFO  [default] link ACK received: get_commodity
+2026-11-08 15:54:30,826 INFO  [default] message type supported received: 2
+2026-11-08 15:54:30,826 INFO  [default] commodity response received. response code: 0 - success; count: 5
+2026-11-08 15:54:30,827 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-11-08 15:54:30,827 INFO  [default]            source: Estimated
+2026-11-08 15:54:30,827 INFO  [default]   cumulative: 429075
+2026-11-08 15:54:30,828 INFO  [default]    inst rate: 0
+2026-11-08 15:54:30,828 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-11-08 15:54:30,828 INFO  [default]            source: Estimated
+2026-11-08 15:54:30,828 INFO  [default]   cumulative: 2202
+2026-11-08 15:54:30,828 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:54:30,828 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-11-08 15:54:30,828 INFO  [default]            source: Estimated
+2026-11-08 15:54:30,828 INFO  [default]   cumulative: 180
+2026-11-08 15:54:30,829 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:54:30,829 INFO  [default] commodity code: 10 - Advanced load up total energy storage/take capacity (W-hr)
+2026-11-08 15:54:30,829 INFO  [default]            source: Estimated
+2026-11-08 15:54:30,832 INFO  [default]   cumulative: 2412
+2026-11-08 15:54:30,833 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:54:30,833 INFO  [default] commodity code: 11 - Advanced load up present energy storage/take capacity (W-hr)
+2026-11-08 15:54:30,833 INFO  [default]            source: Estimated
+2026-11-08 15:54:30,833 INFO  [default]   cumulative: 390
+2026-11-08 15:54:30,833 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:54:31,018 WARN  [default] link NAK received for get_present_temperature. Reason: Request not supported (0x7)
+2026-11-08 15:54:31,130 INFO  [default] message type supported received: 2
+2026-11-08 15:54:31,130 INFO  [default] get_present_temperature: other_error payload_length=3
+2026-11-08 15:54:31,322 INFO  [default] link ACK received: query_operational_state
+2026-11-08 15:54:31,418 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-11-08 15:55:00,565 INFO  [default] link ACK received: query_operational_state
+2026-11-08 15:55:00,677 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-11-08 15:55:30,832 INFO  [default] link ACK received: get_commodity
+2026-11-08 15:55:30,976 INFO  [default] message type supported received: 2
+2026-11-08 15:55:30,976 INFO  [default] commodity response received. response code: 0 - success; count: 5
+2026-11-08 15:55:30,977 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-11-08 15:55:30,977 INFO  [default]            source: Estimated
+2026-11-08 15:55:30,977 INFO  [default]   cumulative: 429075
+2026-11-08 15:55:30,977 INFO  [default]    inst rate: 0
+2026-11-08 15:55:30,977 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-11-08 15:55:30,977 INFO  [default]            source: Estimated
+2026-11-08 15:55:30,978 INFO  [default]   cumulative: 2202
+2026-11-08 15:55:30,978 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:55:30,978 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-11-08 15:55:30,978 INFO  [default]            source: Estimated
+2026-11-08 15:55:30,978 INFO  [default]   cumulative: 210
+2026-11-08 15:55:30,978 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:55:30,978 INFO  [default] commodity code: 10 - Advanced load up total energy storage/take capacity (W-hr)
+2026-11-08 15:55:30,978 INFO  [default]            source: Estimated
+2026-11-08 15:55:30,979 INFO  [default]   cumulative: 2412
+2026-11-08 15:55:30,979 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:55:30,979 INFO  [default] commodity code: 11 - Advanced load up present energy storage/take capacity (W-hr)
+2026-11-08 15:55:30,979 INFO  [default]            source: Estimated
+2026-11-08 15:55:30,979 INFO  [default]   cumulative: 420
+2026-11-08 15:55:30,979 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:55:31,168 WARN  [default] link NAK received for get_present_temperature. Reason: Request not supported (0x7)
+2026-11-08 15:55:31,280 INFO  [default] message type supported received: 2
+2026-11-08 15:55:31,280 INFO  [default] get_present_temperature: other_error payload_length=3
+2026-11-08 15:55:31,472 INFO  [default] link ACK received: query_operational_state
+2026-11-08 15:55:31,568 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-11-08 15:56:00,811 INFO  [default] link ACK received: query_operational_state
+2026-11-08 15:56:00,923 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-11-08 15:56:30,070 INFO  [default] link ACK received: get_commodity
+2026-11-08 15:56:30,214 INFO  [default] message type supported received: 2
+2026-11-08 15:56:30,214 INFO  [default] commodity response received. response code: 0 - success; count: 5
+2026-11-08 15:56:30,214 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-11-08 15:56:30,215 INFO  [default]            source: Estimated
+2026-11-08 15:56:30,215 INFO  [default]   cumulative: 429075
+2026-11-08 15:56:30,215 INFO  [default]    inst rate: 0
+2026-11-08 15:56:30,215 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-11-08 15:56:30,215 INFO  [default]            source: Estimated
+2026-11-08 15:56:30,215 INFO  [default]   cumulative: 2202
+2026-11-08 15:56:30,215 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:56:30,216 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-11-08 15:56:30,216 INFO  [default]            source: Estimated
+2026-11-08 15:56:30,216 INFO  [default]   cumulative: 330
+2026-11-08 15:56:30,216 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:56:30,216 INFO  [default] commodity code: 10 - Advanced load up total energy storage/take capacity (W-hr)
+2026-11-08 15:56:30,216 INFO  [default]            source: Estimated
+2026-11-08 15:56:30,216 INFO  [default]   cumulative: 2412
+2026-11-08 15:56:30,216 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:56:30,217 INFO  [default] commodity code: 11 - Advanced load up present energy storage/take capacity (W-hr)
+2026-11-08 15:56:30,217 INFO  [default]            source: Estimated
+2026-11-08 15:56:30,217 INFO  [default]   cumulative: 540
+2026-11-08 15:56:30,217 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:56:30,406 WARN  [default] link NAK received for get_present_temperature. Reason: Request not supported (0x7)
+2026-11-08 15:56:30,502 INFO  [default] message type supported received: 2
+2026-11-08 15:56:30,502 INFO  [default] get_present_temperature: other_error payload_length=3
+2026-11-08 15:56:30,693 INFO  [default] link ACK received: query_operational_state
+2026-11-08 15:56:30,805 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-11-08 15:57:00,960 INFO  [default] link ACK received: query_operational_state
+2026-11-08 15:57:01,056 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-11-08 15:57:30,203 INFO  [default] link ACK received: get_commodity
+2026-11-08 15:57:30,347 INFO  [default] message type supported received: 2
+2026-11-08 15:57:30,347 INFO  [default] commodity response received. response code: 0 - success; count: 5
+2026-11-08 15:57:30,348 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-11-08 15:57:30,348 INFO  [default]            source: Estimated
+2026-11-08 15:57:30,348 INFO  [default]   cumulative: 429075
+2026-11-08 15:57:30,348 INFO  [default]    inst rate: 0
+2026-11-08 15:57:30,349 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-11-08 15:57:30,349 INFO  [default]            source: Estimated
+2026-11-08 15:57:30,349 INFO  [default]   cumulative: 2202
+2026-11-08 15:57:30,349 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:57:30,349 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-11-08 15:57:30,349 INFO  [default]            source: Estimated
+2026-11-08 15:57:30,349 INFO  [default]   cumulative: 606
+2026-11-08 15:57:30,350 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:57:30,350 INFO  [default] commodity code: 10 - Advanced load up total energy storage/take capacity (W-hr)
+2026-11-08 15:57:30,350 INFO  [default]            source: Estimated
+2026-11-08 15:57:30,350 INFO  [default]   cumulative: 2412
+2026-11-08 15:57:30,350 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:57:30,350 INFO  [default] commodity code: 11 - Advanced load up present energy storage/take capacity (W-hr)
+2026-11-08 15:57:30,350 INFO  [default]            source: Estimated
+2026-11-08 15:57:30,350 INFO  [default]   cumulative: 816
+2026-11-08 15:57:30,351 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:57:30,539 WARN  [default] link NAK received for get_present_temperature. Reason: Request not supported (0x7)
+2026-11-08 15:57:30,651 INFO  [default] message type supported received: 2
+2026-11-08 15:57:30,651 INFO  [default] get_present_temperature: other_error payload_length=3
+2026-11-08 15:57:30,843 INFO  [default] link ACK received: query_operational_state
+2026-11-08 15:57:30,939 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-11-08 15:58:00,198 INFO  [default] link ACK received: query_operational_state
+2026-11-08 15:58:00,294 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-11-08 15:58:30,449 INFO  [default] link ACK received: get_commodity
+2026-11-08 15:58:30,593 INFO  [default] message type supported received: 2
+2026-11-08 15:58:30,593 INFO  [default] commodity response received. response code: 0 - success; count: 5
+2026-11-08 15:58:30,594 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-11-08 15:58:30,594 INFO  [default]            source: Estimated
+2026-11-08 15:58:30,594 INFO  [default]   cumulative: 429075
+2026-11-08 15:58:30,594 INFO  [default]    inst rate: 0
+2026-11-08 15:58:30,594 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-11-08 15:58:30,594 INFO  [default]            source: Estimated
+2026-11-08 15:58:30,594 INFO  [default]   cumulative: 2202
+2026-11-08 15:58:30,594 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:58:30,595 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-11-08 15:58:30,595 INFO  [default]            source: Estimated
+2026-11-08 15:58:30,595 INFO  [default]   cumulative: 906
+2026-11-08 15:58:30,595 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:58:30,595 INFO  [default] commodity code: 10 - Advanced load up total energy storage/take capacity (W-hr)
+2026-11-08 15:58:30,595 INFO  [default]            source: Estimated
+2026-11-08 15:58:30,595 INFO  [default]   cumulative: 2412
+2026-11-08 15:58:30,595 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:58:30,596 INFO  [default] commodity code: 11 - Advanced load up present energy storage/take capacity (W-hr)
+2026-11-08 15:58:30,596 INFO  [default]            source: Estimated
+2026-11-08 15:58:30,596 INFO  [default]   cumulative: 1116
+2026-11-08 15:58:30,596 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:58:30,785 WARN  [default] link NAK received for get_present_temperature. Reason: Request not supported (0x7)
+2026-11-08 15:58:30,897 INFO  [default] message type supported received: 2
+2026-11-08 15:58:30,897 INFO  [default] get_present_temperature: other_error payload_length=3
+2026-11-08 15:58:31,089 INFO  [default] link ACK received: query_operational_state
+2026-11-08 15:58:31,185 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-11-08 15:59:00,331 INFO  [default] link ACK received: query_operational_state
+2026-11-08 15:59:00,443 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-11-08 15:59:30,598 INFO  [default] link ACK received: get_commodity
+2026-11-08 15:59:30,742 INFO  [default] message type supported received: 2
+2026-11-08 15:59:30,742 INFO  [default] commodity response received. response code: 0 - success; count: 5
+2026-11-08 15:59:30,743 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-11-08 15:59:30,743 INFO  [default]            source: Estimated
+2026-11-08 15:59:30,743 INFO  [default]   cumulative: 429075
+2026-11-08 15:59:30,743 INFO  [default]    inst rate: 0
+2026-11-08 15:59:30,743 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-11-08 15:59:30,743 INFO  [default]            source: Estimated
+2026-11-08 15:59:30,743 INFO  [default]   cumulative: 2202
+2026-11-08 15:59:30,744 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:59:30,744 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-11-08 15:59:30,744 INFO  [default]            source: Estimated
+2026-11-08 15:59:30,744 INFO  [default]   cumulative: 1116
+2026-11-08 15:59:30,744 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:59:30,744 INFO  [default] commodity code: 10 - Advanced load up total energy storage/take capacity (W-hr)
+2026-11-08 15:59:30,744 INFO  [default]            source: Estimated
+2026-11-08 15:59:30,744 INFO  [default]   cumulative: 2412
+2026-11-08 15:59:30,744 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:59:30,745 INFO  [default] commodity code: 11 - Advanced load up present energy storage/take capacity (W-hr)
+2026-11-08 15:59:30,745 INFO  [default]            source: Estimated
+2026-11-08 15:59:30,745 INFO  [default]   cumulative: 1326
+2026-11-08 15:59:30,745 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 15:59:30,934 WARN  [default] link NAK received for get_present_temperature. Reason: Request not supported (0x7)
+2026-11-08 15:59:31,046 INFO  [default] message type supported received: 2
+2026-11-08 15:59:31,046 INFO  [default] get_present_temperature: other_error payload_length=3
+2026-11-08 15:59:31,238 INFO  [default] link ACK received: query_operational_state
+2026-11-08 15:59:31,334 INFO  [default] operational state received: 4
+
+Press Enter for a list of commands
+2026-11-08 16:00:00,481 INFO  [default] link ACK received: query_operational_state
+2026-11-08 16:00:00,593 INFO  [default] operational state received: 2
+
+Press Enter for a list of commands
+2026-11-08 16:00:30,732 INFO  [default] link ACK received: get_commodity
+2026-11-08 16:00:30,876 INFO  [default] message type supported received: 2
+2026-11-08 16:00:30,876 INFO  [default] commodity response received. response code: 0 - success; count: 5
+2026-11-08 16:00:30,877 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-11-08 16:00:30,877 INFO  [default]            source: Estimated
+2026-11-08 16:00:30,877 INFO  [default]   cumulative: 429075
+2026-11-08 16:00:30,877 INFO  [default]    inst rate: 0
+2026-11-08 16:00:30,877 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-11-08 16:00:30,877 INFO  [default]            source: Estimated
+2026-11-08 16:00:30,878 INFO  [default]   cumulative: 2052
+2026-11-08 16:00:30,878 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 16:00:30,878 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-11-08 16:00:30,878 INFO  [default]            source: Estimated
+2026-11-08 16:00:30,878 INFO  [default]   cumulative: 1116
+2026-11-08 16:00:30,878 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 16:00:30,878 INFO  [default] commodity code: 10 - Advanced load up total energy storage/take capacity (W-hr)
+2026-11-08 16:00:30,878 INFO  [default]            source: Estimated
+2026-11-08 16:00:30,879 INFO  [default]   cumulative: 2352
+2026-11-08 16:00:30,879 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 16:00:30,879 INFO  [default] commodity code: 11 - Advanced load up present energy storage/take capacity (W-hr)
+2026-11-08 16:00:30,879 INFO  [default]            source: Estimated
+2026-11-08 16:00:30,879 INFO  [default]   cumulative: 1416
+2026-11-08 16:00:30,879 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 16:00:31,068 WARN  [default] link NAK received for get_present_temperature. Reason: Request not supported (0x7)
+2026-11-08 16:00:31,180 INFO  [default] message type supported received: 2
+2026-11-08 16:00:31,180 INFO  [default] get_present_temperature: other_error payload_length=3
+2026-11-08 16:00:31,372 INFO  [default] link ACK received: query_operational_state
+2026-11-08 16:00:31,484 INFO  [default] operational state received: 2
+
+Press Enter for a list of commands
+2026-11-08 16:01:00,726 INFO  [default] link ACK received: query_operational_state
+2026-11-08 16:01:00,838 INFO  [default] operational state received: 2
+
+Press Enter for a list of commands
+2026-11-08 16:01:29,985 INFO  [default] link ACK received: get_commodity
+2026-11-08 16:01:30,113 INFO  [default] message type supported received: 2
+2026-11-08 16:01:30,114 INFO  [default] commodity response received. response code: 0 - success; count: 5
+2026-11-08 16:01:30,114 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-11-08 16:01:30,114 INFO  [default]            source: Estimated
+2026-11-08 16:01:30,115 INFO  [default]   cumulative: 429081
+2026-11-08 16:01:30,115 INFO  [default]    inst rate: 356
+2026-11-08 16:01:30,115 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-11-08 16:01:30,115 INFO  [default]            source: Estimated
+2026-11-08 16:01:30,115 INFO  [default]   cumulative: 2052
+2026-11-08 16:01:30,115 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 16:01:30,115 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-11-08 16:01:30,115 INFO  [default]            source: Estimated
+2026-11-08 16:01:30,115 INFO  [default]   cumulative: 1236
+2026-11-08 16:01:30,115 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 16:01:30,116 INFO  [default] commodity code: 10 - Advanced load up total energy storage/take capacity (W-hr)
+2026-11-08 16:01:30,116 INFO  [default]            source: Estimated
+2026-11-08 16:01:30,116 INFO  [default]   cumulative: 2352
+2026-11-08 16:01:30,116 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 16:01:30,116 INFO  [default] commodity code: 11 - Advanced load up present energy storage/take capacity (W-hr)
+2026-11-08 16:01:30,116 INFO  [default]            source: Estimated
+2026-11-08 16:01:30,116 INFO  [default]   cumulative: 1536
+2026-11-08 16:01:30,116 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 16:01:30,305 WARN  [default] link NAK received for get_present_temperature. Reason: Request not supported (0x7)
+2026-11-08 16:01:30,417 INFO  [default] message type supported received: 2
+2026-11-08 16:01:30,417 INFO  [default] get_present_temperature: other_error payload_length=3
+2026-11-08 16:01:30,609 INFO  [default] link ACK received: query_operational_state
+2026-11-08 16:01:30,705 INFO  [default] operational state received: 2
+
+Press Enter for a list of commands
+1794182490,o,0 (PASSED!)
+outside communication found
+2026-11-08 16:01:31,793 INFO  [default] link ACK received: outside_communication
+2026-11-08 16:01:31,905 INFO  [default] app ack received
+2026-11-08 16:02:00,156 INFO  [default] link ACK received: query_operational_state
+2026-11-08 16:02:00,268 INFO  [default] operational state received: 2
+
+Press Enter for a list of commands
+2026-11-08 16:02:30,423 INFO  [default] link ACK received: get_commodity
+2026-11-08 16:02:30,551 INFO  [default] message type supported received: 2
+2026-11-08 16:02:30,551 INFO  [default] commodity response received. response code: 0 - success; count: 5
+2026-11-08 16:02:30,552 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-11-08 16:02:30,552 INFO  [default]            source: Estimated
+2026-11-08 16:02:30,552 INFO  [default]   cumulative: 429087
+2026-11-08 16:02:30,552 INFO  [default]    inst rate: 356
+2026-11-08 16:02:30,552 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-11-08 16:02:30,552 INFO  [default]            source: Estimated
+2026-11-08 16:02:30,552 INFO  [default]   cumulative: 2052
+2026-11-08 16:02:30,552 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 16:02:30,553 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-11-08 16:02:30,553 INFO  [default]            source: Estimated
+2026-11-08 16:02:30,553 INFO  [default]   cumulative: 1296
+2026-11-08 16:02:30,553 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 16:02:30,553 INFO  [default] commodity code: 10 - Advanced load up total energy storage/take capacity (W-hr)
+2026-11-08 16:02:30,553 INFO  [default]            source: Estimated
+2026-11-08 16:02:30,553 INFO  [default]   cumulative: 2352
+2026-11-08 16:02:30,553 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 16:02:30,553 INFO  [default] commodity code: 11 - Advanced load up present energy storage/take capacity (W-hr)
+2026-11-08 16:02:30,554 INFO  [default]            source: Estimated
+2026-11-08 16:02:30,554 INFO  [default]   cumulative: 1596
+2026-11-08 16:02:30,554 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 16:02:30,743 WARN  [default] link NAK received for get_present_temperature. Reason: Request not supported (0x7)
+2026-11-08 16:02:30,855 INFO  [default] message type supported received: 2
+2026-11-08 16:02:30,855 INFO  [default] get_present_temperature: other_error payload_length=3
+2026-11-08 16:02:31,047 INFO  [default] link ACK received: query_operational_state
+2026-11-08 16:02:31,143 INFO  [default] operational state received: 2
+
+Press Enter for a list of commands
+2026-11-08 16:03:00,402 INFO  [default] link ACK received: query_operational_state
+2026-11-08 16:03:00,498 INFO  [default] operational state received: 1
+
+Press Enter for a list of commands
+2026-11-08 16:03:30,748 INFO  [default] link ACK received: get_commodity
+2026-11-08 16:03:30,876 INFO  [default] message type supported received: 2
+2026-11-08 16:03:30,877 INFO  [default] commodity response received. response code: 0 - success; count: 5
+2026-11-08 16:03:30,877 INFO  [default] commodity code: 0 - Electricity consumed (W & W-hr)
+2026-11-08 16:03:30,878 INFO  [default]            source: Estimated
+2026-11-08 16:03:30,878 INFO  [default]   cumulative: 429093
+2026-11-08 16:03:30,878 INFO  [default]    inst rate: 356
+2026-11-08 16:03:30,878 INFO  [default] commodity code: 6 - Total energy storage/take capacity (W-hr)
+2026-11-08 16:03:30,878 INFO  [default]            source: Estimated
+2026-11-08 16:03:30,878 INFO  [default]   cumulative: 2052
+2026-11-08 16:03:30,878 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 16:03:30,878 INFO  [default] commodity code: 7 - Present energy storage/take capacity (W-hr)
+2026-11-08 16:03:30,879 INFO  [default]            source: Estimated
+2026-11-08 16:03:30,879 INFO  [default]   cumulative: 1266
+2026-11-08 16:03:30,879 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 16:03:30,879 INFO  [default] commodity code: 10 - Advanced load up total energy storage/take capacity (W-hr)
+2026-11-08 16:03:30,879 INFO  [default]            source: Estimated
+2026-11-08 16:03:30,879 INFO  [default]   cumulative: 2352
+2026-11-08 16:03:30,879 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 16:03:30,880 INFO  [default] commodity code: 11 - Advanced load up present energy storage/take capacity (W-hr)
+2026-11-08 16:03:30,880 INFO  [default]            source: Estimated
+2026-11-08 16:03:30,880 INFO  [default]   cumulative: 1566
+2026-11-08 16:03:30,880 INFO  [default]    inst rate: not used for this commodity code
+2026-11-08 16:03:31,068 WARN  [default] link NAK received for get_present_temperature. Reason: Request not supported (0x7)
+2026-11-08 16:03:31,180 INFO  [default] message type supported received: 2
+2026-11-08 16:03:31,181 INFO  [default] get_present_temperature: other_error payload_length=3
+2026-11-08 16:03:31,372 INFO  [default] link ACK received: query_operational_state
+2026-11-08 16:03:31,468 INFO  [default] operational state received: 1
+
+Press Enter for a list of commands
+2026-11-08 16:04:00,727 INFO  [default] link ACK received: query_operational_state
+2026-11-08 16:04:00,823 INFO  [default] operational state received: 1
+
+Press Enter for a list of commands
+Returning state to normal...
+2026-11-08 16:04:01,111 INFO  [default] link ACK received: run_normal
+2026-11-08 16:04:01,207 INFO  [default] app ack received
+Reporting outside communication disconnected...
+2026-11-08 16:04:01,399 INFO  [default] link ACK received: outside_communication
+2026-11-08 16:04:01,511 INFO  [default] app ack received
+Loading...
+Querying operational state after normal command...
+2026-11-08 16:04:03,607 INFO  [default] link ACK received: query_operational_state
+2026-11-08 16:04:03,703 INFO  [default] operational state received: 1
+
+Press Enter for a list of commands

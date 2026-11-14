@@ -1,0 +1,25 @@
+phase,timestamp_pacific,time_after_command,time_after_previous,milestone,observation,source
+Load Up 1,2026-11-01 14:35:47.217000,0:00,0:00,Command accepted,Accepted,CTA
+Load Up 1,2026-11-01 14:36:02.470000,0:15,0:15,Expected operational state first observed,State 3: Running Heightened (expected 3 or 6),CTA state poll
+Load Up 1,2026-11-01 14:37:26.608000,1:39,1:24,Compressor ramp started,"0.65 A, 89 W (inferred)",Power monitor
+Load Up 1,2026-11-01 14:37:32,1:45,0:05,EnergyTake first changed,552 to 596 Wh,Commodity poll
+Load Up 1,2026-11-01 14:37:32.645000,1:45,0:01,Compressor started,"1.09 A, 270 W (inferred)",Power monitor
+Load Up 1,2026-11-01 15:11:30.942000,35:44,33:58,Fan/load stopped,"0.00 A, 11 W (inferred)",Power monitor
+Load Up 1,2026-11-01 15:11:33.620000,35:46,0:03,Operational state changed,State 6: Idle Heightened (expected),CTA state poll
+Shed,2026-11-01 16:05:48.152000,0:00,54:15,Command accepted,Accepted,CTA
+Shed,2026-11-01 16:06:02.448000,0:14,0:14,Expected operational state first observed,State 4: Idle Curtailed (expected 2 or 4),CTA state poll
+Shed,2026-11-01 16:35:47.206000,29:59,29:45,water_draw_1 started,Target 15.00 gal,Water draw
+Shed,2026-11-01 16:40:32,34:44,4:45,EnergyTake first changed,0 to 66 Wh,Commodity poll
+Shed,2026-11-01 16:44:00.173000,38:12,3:28,water_draw_1 completed,Measured 15.01 gal,Water draw
+Shed,2026-11-01 17:05:47.064000,59:59,21:47,water_draw_2 started,Target 2.00 gal,Water draw
+Shed,2026-11-01 17:06:51.588000,1:01:03,1:05,water_draw_2 completed,Measured 2.00 gal,Water draw
+Shed,2026-11-01 18:15:47.129000,2:09:59,1:08:56,water_draw_3 started,Target 9.00 gal,Water draw
+Shed,2026-11-01 18:20:38.270000,2:14:50,4:51,water_draw_3 completed,Measured 9.01 gal,Water draw
+Load Up 2,2026-11-01 19:15:48.195000,0:00,55:10,Command accepted,Accepted,CTA
+Load Up 2,2026-11-01 19:16:02.448000,0:14,0:14,Expected operational state first observed,State 3: Running Heightened (expected 3 or 6),CTA state poll
+Load Up 2,2026-11-01 19:17:27.967000,1:40,1:26,Compressor ramp started,"0.85 A, 205 W (inferred)",Power monitor
+Load Up 2,2026-11-01 19:17:32.993000,1:45,0:05,Compressor started,"1.08 A, 265 W (inferred)",Power monitor
+Load Up 2,2026-11-01 19:20:32,4:44,2:59,EnergyTake first changed,3910 to 3866 Wh,Commodity poll
+Normal,2026-11-01 20:15:47.988000,0:00,55:16,Command accepted,Accepted,CTA
+Normal,2026-11-01 20:16:02.241000,0:14,0:14,Expected operational state first observed,State 1: Running Normal (expected 0 or 1),CTA state poll
+Normal,2026-11-01 20:17:32,1:44,1:30,EnergyTake first changed,1723 to 1679 Wh,Commodity poll

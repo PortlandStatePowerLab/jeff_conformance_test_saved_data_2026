@@ -1,0 +1,5 @@
+phase,timestamp_pacific,time_after_command,time_after_previous,milestone,observation,source
+Load Up,2026-11-08 12:02:30.249000,0:00,0:00,Command accepted,Accepted,CTA
+Load Up,2026-11-08 12:02:31.545000,0:01,0:01,Expected operational state first observed,State 6: Idle Heightened (expected 3 or 6),CTA state poll
+Load Up,2026-11-08 12:16:31.591000,14:01,14:00,Operational state changed,State 5: SGD Error Condition (not expected; expected 3 or 6),CTA state poll
+Load Up,2026-11-08 12:18:31.043000,16:01,1:59,Operational state changed,State 6: Idle Heightened (expected),CTA state poll
