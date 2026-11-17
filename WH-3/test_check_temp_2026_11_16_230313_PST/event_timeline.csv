@@ -1,0 +1,8 @@
+phase,timestamp_pacific,time_after_command,time_after_previous,milestone,observation,source
+Load Up,2026-11-16 23:03:29.876000,0:00,0:00,Command accepted,Accepted,CTA
+Load Up,2026-11-16 23:03:45.089000,0:15,0:15,Expected operational state first observed,State 6: Idle Heightened (expected 3 or 6),CTA state poll
+Load Up,2026-11-16 23:07:10.859000,3:41,3:26,water_draw_1 completed,Measured 11.02 gal,Water draw
+Load Up,2026-11-16 23:07:14,3:44,0:03,EnergyTake first changed,60 to 90 Wh,Commodity poll
+Load Up,2026-11-16 23:09:44.610000,6:15,2:31,Operational state changed,State 3: Running Heightened (expected),CTA state poll
+Load Up,2026-11-16 23:09:54.643000,6:25,0:10,Fan started,"0.27 A, 30 W (inferred)",Power monitor
+Load Up,2026-11-16 23:10:28.825000,6:59,0:34,Compressor started,"2.31 A, 310 W (inferred)",Power monitor
