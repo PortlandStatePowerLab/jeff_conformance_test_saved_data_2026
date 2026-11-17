@@ -1,0 +1,20 @@
+phase,timestamp_pacific,time_after_command,time_after_previous,milestone,observation,source
+Shed,2026-11-16 14:01:11.113000,0:00,0:00,Command accepted,Accepted,CTA
+Shed,2026-11-16 14:01:28.437000,0:17,0:17,Expected operational state first observed,State 4: Idle Curtailed (expected 2 or 4),CTA state poll
+Shed,2026-11-16 14:01:28.553000,0:17,0:00,water_draw_1 started,Cut-in; max 40 min,Water draw
+Shed,2026-11-16 14:04:57,3:46,3:28,EnergyTake first changed,240 to 270 Wh,Commodity poll
+Shed,2026-11-16 14:09:41.847000,8:31,4:45,Fan started,"0.29 A, 32 W (inferred)",Power monitor
+Shed,2026-11-16 14:09:58.700000,8:48,0:17,Operational state changed,State 2: Running Curtailed (expected),CTA state poll
+Shed,2026-11-16 14:09:58.841000,8:48,0:00,water_draw_1 completed,Measured 25.51 gal,Water draw
+Shed,2026-11-16 14:10:15.023000,9:04,0:16,Compressor started,"1.60 A, 208 W (inferred)",Power monitor
+Shed,2026-11-16 15:57:47.344000,1:56:36,1:47:32,Compressor stopped; fan remains on,"0.20 A, 21 W (inferred)",Power monitor
+Shed,2026-11-16 15:59:03.740000,1:57:53,1:16,Fan/load stopped,"0.00 A, 0 W (inferred)",Power monitor
+Shed,2026-11-16 15:59:28.436000,1:58:17,0:25,Operational state changed,State 4: Idle Curtailed (expected),CTA state poll
+Shed,2026-11-16 15:59:28.716000,1:58:18,0:00,water_draw_2 started,Temperature drop target 15 °F,Water draw
+Shed,2026-11-16 16:03:58.980000,2:02:48,4:30,Operational state changed,State 2: Running Curtailed (expected),CTA state poll
+Shed,2026-11-16 16:04:00.218000,2:02:49,0:01,Fan started,"0.30 A, 35 W (inferred)",Power monitor
+Shed,2026-11-16 16:04:35.378000,2:03:24,0:35,Compressor started,"1.89 A, 252 W (inferred)",Power monitor
+Shed,2026-11-16 16:13:06.720000,2:11:56,8:31,water_draw_2 completed,Measured 40.65 gal,Water draw
+Shed,2026-11-16 20:56:59.261000,6:55:48,4:43:53,Compressor stopped; fan remains on,"0.21 A, 23 W (inferred)",Power monitor
+Shed,2026-11-16 20:58:15.640000,6:57:05,1:16,Fan/load stopped,"0.00 A, 2 W (inferred)",Power monitor
+Shed,2026-11-16 20:58:28.689000,6:57:18,0:13,Operational state changed,State 4: Idle Curtailed (expected),CTA state poll
