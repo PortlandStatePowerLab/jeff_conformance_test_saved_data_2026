@@ -1,0 +1,20 @@
+phase,timestamp_pacific,time_after_command,time_after_previous,milestone,observation,source
+Shed,2026-11-16 13:16:06.762000,0:00,0:00,Command accepted,Accepted,CTA
+Shed,2026-11-16 13:16:22.087000,0:15,0:15,Expected operational state first observed,State 4: Idle Curtailed (expected 2 or 4),CTA state poll
+Shed,2026-11-16 13:16:22.282000,0:16,0:00,water_draw_1 started,Cut-in; max 40 min,Water draw
+Shed,2026-11-16 13:18:51,2:44,2:29,EnergyTake first changed,525 to 900 Wh,Commodity poll
+Shed,2026-11-16 13:22:06.772000,6:00,3:16,Fan started,"0.23 A, 42 W (inferred)",Power monitor
+Shed,2026-11-16 13:23:11.127000,7:04,1:04,Compressor started,"1.02 A, 121 W (inferred)",Power monitor
+Shed,2026-11-16 13:24:52.350000,8:46,1:41,Operational state changed,State 2: Running Curtailed (expected),CTA state poll
+Shed,2026-11-16 13:24:52.544000,8:46,0:00,water_draw_1 completed,Measured 25.36 gal,Water draw
+Shed,2026-11-16 15:15:34.206000,1:59:27,1:50:42,Fan/load stopped,"0.17 A, 27 W (inferred)",Power monitor
+Shed,2026-11-16 15:15:52.361000,1:59:46,0:18,Operational state changed,State 4: Idle Curtailed (expected),CTA state poll
+Shed,2026-11-16 15:15:52.605000,1:59:46,0:00,water_draw_2 started,Temperature drop target 15 °F,Water draw
+Shed,2026-11-16 15:20:59.832000,2:04:53,5:07,Fan started,"0.20 A, 33 W (inferred)",Power monitor
+Shed,2026-11-16 15:22:03.155000,2:05:56,1:03,Compressor started,"1.05 A, 119 W (inferred)",Power monitor
+Shed,2026-11-16 15:23:52.788000,2:07:46,1:50,Operational state changed,State 2: Running Curtailed (expected),CTA state poll
+Shed,2026-11-16 15:28:32.111000,2:12:25,4:39,Compressor and element operating,"21.51 A, 670 W (inferred)",Power monitor
+Shed,2026-11-16 15:30:09.366000,2:14:03,1:37,water_draw_2 completed,Measured 42.38 gal,Water draw
+Shed,2026-11-16 15:42:13.218000,2:26:06,12:04,Resistance element stopped; compressor remains on,"1.54 A, 98 W (inferred)",Power monitor
+Shed,2026-11-16 18:06:08.963000,4:50:02,2:23:56,Fan/load stopped,"0.15 A, 25 W (inferred)",Power monitor
+Shed,2026-11-16 18:06:21.614000,4:50:15,0:13,Operational state changed,State 4: Idle Curtailed (expected),CTA state poll
