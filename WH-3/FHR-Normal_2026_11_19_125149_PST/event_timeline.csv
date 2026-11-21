@@ -1,0 +1,21 @@
+phase,timestamp_pacific,time_after_command,time_after_previous,milestone,observation,source
+Load Up,2026-11-19 12:52:06.985000,0:00,0:00,Command accepted,Accepted,CTA
+Load Up,2026-11-19 12:52:22.310000,0:15,0:15,Expected operational state first observed,State 6: Idle Heightened (expected 3 or 6),CTA state poll
+Load Up,2026-11-19 12:52:37.590000,0:31,0:15,Fan started,"0.29 A, 32 W (inferred)",Power monitor
+Load Up,2026-11-19 12:52:52.593000,0:46,0:15,Operational state changed,State 3: Running Heightened (expected),CTA state poll
+Load Up,2026-11-19 12:53:08.772000,1:02,0:16,Compressor started,"1.63 A, 211 W (inferred)",Power monitor
+Load Up,2026-11-19 12:53:52,1:45,0:43,EnergyTake first changed,240 to 270 Wh,Commodity poll
+Load Up,2026-11-19 13:49:16.363000,57:09,55:24,Compressor stopped; fan remains on,"0.20 A, 21 W (inferred)",Power monitor
+Load Up,2026-11-19 13:50:32.768000,58:26,1:16,Fan/load stopped,"0.00 A, 0 W (inferred)",Power monitor
+Load Up,2026-11-19 13:50:52.623000,58:46,0:20,Operational state changed,State 6: Idle Heightened (expected),CTA state poll
+Normal,2026-11-19 14:22:07.006000,0:00,31:14,Command accepted,Accepted,CTA
+Normal,2026-11-19 14:22:22.331000,0:15,0:15,Expected operational state first observed,State 0: Idle Normal (expected 0 or 1),CTA state poll
+Normal,2026-11-19 14:27:06.203000,4:59,4:44,water_draw_1 started,Temperature drop target 15 °F,Water draw
+Normal,2026-11-19 14:29:51,7:44,2:45,EnergyTake first changed,0 to 60 Wh,Commodity poll
+Normal,2026-11-19 14:36:11.049000,14:04,6:20,Fan started,"0.28 A, 30 W (inferred)",Power monitor
+Normal,2026-11-19 14:36:21.917000,14:15,0:11,Operational state changed,State 1: Running Normal (expected),CTA state poll
+Normal,2026-11-19 14:36:39.196000,14:32,0:17,Compressor started,"2.00 A, 266 W (inferred)",Power monitor
+Normal,2026-11-19 14:45:29.830000,23:23,8:51,water_draw_1 completed,Measured 56.68 gal,Water draw
+Normal,2026-11-19 19:46:58.272000,5:24:51,5:01:28,Compressor stopped; fan remains on,"0.21 A, 23 W (inferred)",Power monitor
+Normal,2026-11-19 19:48:14.681000,5:26:08,1:16,Fan/load stopped,"0.00 A, 0 W (inferred)",Power monitor
+Normal,2026-11-19 19:48:21.945000,5:26:15,0:07,Operational state changed,State 0: Idle Normal (expected),CTA state poll

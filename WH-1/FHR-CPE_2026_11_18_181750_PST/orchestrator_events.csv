@@ -1,0 +1,22 @@
+timestamp_pacific,test_elapsed_seconds,event_id,event,status,details
+2026-11-18T18:17:50.987-08:00,0.000,,run_created,ok,"{""run_directory"":""/home/pi/conformance_testing_team/saved_data/conformance_runs/WH-1/FHR-CPE_2026_11_18_181750_PST"",""water_output_enabled"":true,""automatic_outside_communication"":true,""outside_communication_heartbeat_enabled"":true}"
+2026-11-18T18:17:51.190-08:00,0.204,,power_monitor,ready,"{""pid"":2259}"
+2026-11-18T18:17:52.226-08:00,1.240,,cta_controller,started,"{""pid"":2260}"
+2026-11-18T18:17:52.227-08:00,-14.773,,test_start_scheduled,pending,"{""test_start_pacific"":""2026-11-18T18:18:07.000-08:00""}"
+2026-11-18T18:18:07.063-08:00,0.064,,test_started,ok,{}
+2026-11-18T18:18:07.064-08:00,0.064,water_draw_1,cut_in_armed,waiting_for_cta,"{""cta_event_id"":""critical_peak_1"",""cta_action"":""critical_peak"",""cut_in_state"":2,""cut_out_state"":4}"
+2026-11-18T18:18:07.470-08:00,0.471,water_draw_1,cut_in_waiting_for_initial_cut_out,waiting,{}
+2026-11-18T18:18:22.718-08:00,15.719,water_draw_1,cut_in_initial_cut_out,water_draw_started,"{""operational_state"":4,""pid"":2267,""max_draw_minutes"":180.0}"
+2026-11-18T18:18:22.719-08:00,15.720,water_draw_1,water_draw_started,started,"{""pid"":2267,""draw_type"":""cut-in"",""max_draw_minutes"":180.0}"
+2026-11-18T18:31:22.353-08:00,795.353,water_draw_1,water_draw_completed,ok,"{""return_code"":5,""reason"":""cut_in_observed""}"
+2026-11-18T18:31:22.353-08:00,795.354,water_draw_1,cut_in_observed,water_stopped,"{""operational_state"":2,""recovery_timeout_seconds"":43200,""recovery_deadline_at"":""2026-11-19T06:31:22.353010-08:00""}"
+2026-11-18T20:21:53.537-08:00,7426.538,water_draw_1,cut_out_observed,completed,"{""operational_state"":4}"
+2026-11-18T20:21:53.542-08:00,7426.543,water_draw_2,water_draw_started,started,"{""pid"":2638,""draw_type"":""temp drop"",""target_volume_gal"":null,""temp_drop_f"":15.0}"
+2026-11-18T20:34:35.932-08:00,8188.932,water_draw_2,water_draw_completed,ok,"{""return_code"":0}"
+2026-11-18T20:34:35.933-08:00,8188.934,water_draw_2,draw_recovery,waiting,"{""final"":true,""phase"":""heating""}"
+2026-11-18T22:31:22.487-08:00,15195.487,,draw_recovery_phase,observing,"{""operational_state"":4}"
+2026-11-18T23:01:22.645-08:00,16995.646,,dependent_test_end,triggered,{}
+2026-11-18T23:01:22.647-08:00,16995.647,,cta_return_to_normal,requested,{}
+2026-11-18T23:01:25.416-08:00,16998.416,,cta_return_to_normal,completed,"{""return_code"":0}"
+2026-11-18T23:01:25.451-08:00,16998.451,,power_monitor_shutdown,stopped,{}
+2026-11-18T23:01:25.451-08:00,16998.452,,run_finished,completed,{}

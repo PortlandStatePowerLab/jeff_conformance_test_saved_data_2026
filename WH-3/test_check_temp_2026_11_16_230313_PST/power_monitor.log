@@ -1,0 +1,15 @@
+POWER_MONITOR_READY {"output_csv": "/home/pi/conformance_testing_team/saved_data/conformance_runs/WH-3/test_check_temp_2026_11_16_230313_PST/power.csv", "timestamp_pacific": "2026-11-16T23:03:13.466-08:00"}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-11-16T23:03:13.468-08:00", "status": "ok", "reasons": ["initial_sample"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-11-16T23:04:13.770-08:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-11-16T23:05:14.112-08:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-11-16T23:06:14.443-08:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-11-16T23:07:14.771-08:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-11-16T23:08:15.102-08:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-11-16T23:09:15.432-08:00", "status": "ok", "reasons": ["heartbeat"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-11-16T23:09:51.625-08:00", "status": "ok", "reasons": ["current_change", "heater_on"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-11-16T23:09:54.643-08:00", "status": "ok", "reasons": ["current_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-11-16T23:10:28.826-08:00", "status": "ok", "reasons": ["current_change", "power_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-11-16T23:10:29.832-08:00", "status": "ok", "reasons": ["current_change", "power_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-11-16T23:10:30.839-08:00", "status": "ok", "reasons": ["current_change", "power_change"]}
+POWER_MONITOR_RECORD {"timestamp_pacific": "2026-11-16T23:10:31.845-08:00", "status": "ok", "reasons": ["current_change", "power_change"]}
+POWER_MONITOR_STOPPED {"output_csv": "/home/pi/conformance_testing_team/saved_data/conformance_runs/WH-3/test_check_temp_2026_11_16_230313_PST/power.csv", "timestamp_pacific": "2026-11-16T23:10:32.017-08:00"}
