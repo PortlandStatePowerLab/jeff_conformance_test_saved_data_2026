@@ -7,3 +7,29 @@ timestamp_pacific,test_elapsed_seconds,event_id,event,status,details
 2026-11-20T14:51:05.097-08:00,5700.098,water_draw_1,water_draw_started,started,"{""pid"":19033,""draw_type"":""temp drop"",""target_volume_gal"":null,""temp_drop_f"":15.0}"
 2026-11-20T15:05:23.817-08:00,6558.817,water_draw_1,water_draw_completed,ok,"{""return_code"":0}"
 2026-11-20T15:05:23.818-08:00,6558.819,water_draw_1,draw_recovery,waiting,"{""final"":false,""phase"":""heating""}"
+2026-11-20T17:45:20.826-08:00,16155.826,,draw_recovery_phase,recovered,"{""operational_state"":0}"
+2026-11-20T17:45:20.827-08:00,16155.828,,draw_recovery,completed,{}
+2026-11-20T17:45:20.831-08:00,16155.832,water_draw_2,water_draw_started,started,"{""pid"":20298,""draw_type"":""temp drop"",""target_volume_gal"":null,""temp_drop_f"":15.0}"
+2026-11-20T18:00:01.424-08:00,17036.425,water_draw_2,water_draw_completed,ok,"{""return_code"":0}"
+2026-11-20T18:00:01.426-08:00,17036.426,water_draw_2,draw_recovery,waiting,"{""final"":false,""phase"":""heating""}"
+2026-11-20T20:44:20.801-08:00,26895.802,,draw_recovery_phase,recovered,"{""operational_state"":0}"
+2026-11-20T20:44:20.803-08:00,26895.803,,draw_recovery,completed,{}
+2026-11-20T20:44:20.807-08:00,26895.807,water_draw_3,water_draw_started,started,"{""pid"":20738,""draw_type"":""temp drop"",""target_volume_gal"":null,""temp_drop_f"":15.0}"
+2026-11-20T20:58:33.227-08:00,27748.227,water_draw_3,water_draw_completed,ok,"{""return_code"":0}"
+2026-11-20T20:58:33.230-08:00,27748.231,water_draw_3,draw_recovery,waiting,"{""final"":false,""phase"":""heating""}"
+2026-11-20T23:33:51.417-08:00,37066.417,,draw_recovery_phase,recovered,"{""operational_state"":0}"
+2026-11-20T23:33:51.418-08:00,37066.418,,draw_recovery,completed,{}
+2026-11-20T23:33:51.423-08:00,37066.423,water_draw_4,water_draw_started,started,"{""pid"":21314,""draw_type"":""temp drop"",""target_volume_gal"":null,""temp_drop_f"":15.0}"
+2026-11-20T23:48:25.317-08:00,37940.317,water_draw_4,water_draw_completed,ok,"{""return_code"":0}"
+2026-11-20T23:48:25.318-08:00,37940.319,water_draw_4,draw_recovery,waiting,"{""final"":false,""phase"":""heating""}"
+2026-11-21T02:41:51.758-08:00,48346.758,,draw_recovery_phase,recovered,"{""operational_state"":0}"
+2026-11-21T02:41:51.759-08:00,48346.759,,draw_recovery,completed,{}
+2026-11-21T02:41:51.764-08:00,48346.764,water_draw_5,water_draw_started,started,"{""pid"":21998,""draw_type"":""temp drop"",""target_volume_gal"":null,""temp_drop_f"":15.0}"
+2026-11-21T02:56:31.247-08:00,49226.248,water_draw_5,water_draw_completed,ok,"{""return_code"":0}"
+2026-11-21T02:56:31.249-08:00,49226.249,water_draw_5,draw_recovery,waiting,"{""final"":true,""phase"":""heating""}"
+2026-11-21T05:50:52.015-08:00,59687.015,,draw_recovery_phase,observing,"{""operational_state"":0}"
+2026-11-21T06:20:52.167-08:00,61487.168,,dependent_test_end,triggered,{}
+2026-11-21T06:20:52.169-08:00,61487.169,,cta_return_to_normal,requested,{}
+2026-11-21T06:20:55.038-08:00,61490.038,,cta_return_to_normal,completed,"{""return_code"":0}"
+2026-11-21T06:20:55.076-08:00,61490.076,,power_monitor_shutdown,stopped,{}
+2026-11-21T06:20:55.076-08:00,61490.076,,run_finished,completed,{}
