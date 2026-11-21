@@ -1,0 +1,9 @@
+timestamp_pacific,test_elapsed_seconds,event_id,event,status,details
+2026-11-20T13:15:49.141-08:00,0.000,,run_created,ok,"{""run_directory"":""/home/pi/conformance_testing_team/saved_data/conformance_runs/WH-2/FHR-Normal-DOE_2026_11_20_131548_PST"",""water_output_enabled"":true,""automatic_outside_communication"":true,""outside_communication_heartbeat_enabled"":true}"
+2026-11-20T13:15:49.345-08:00,0.205,,power_monitor,ready,"{""pid"":18432}"
+2026-11-20T13:15:50.402-08:00,1.262,,cta_controller,started,"{""pid"":18433}"
+2026-11-20T13:15:50.403-08:00,-14.597,,test_start_scheduled,pending,"{""test_start_pacific"":""2026-11-20T13:16:05.000-08:00""}"
+2026-11-20T13:16:05.037-08:00,0.037,,test_started,ok,{}
+2026-11-20T14:51:05.097-08:00,5700.098,water_draw_1,water_draw_started,started,"{""pid"":19033,""draw_type"":""temp drop"",""target_volume_gal"":null,""temp_drop_f"":15.0}"
+2026-11-20T15:05:23.817-08:00,6558.817,water_draw_1,water_draw_completed,ok,"{""return_code"":0}"
+2026-11-20T15:05:23.818-08:00,6558.819,water_draw_1,draw_recovery,waiting,"{""final"":false,""phase"":""heating""}"
